@@ -44,7 +44,7 @@
 	     <choice>
 		       <seg type="lucas">Cap(ite?)</seg>
 		       <orig>Cap̄</orig>
-		       <reg>Capite</reg>
+		       <reg>Capitulum.</reg>
 	     </choice> 
       <lb/>Ecce dies. 
 	<choice>
@@ -121,8 +121,9 @@
 		       <reg>Gloria.</reg>
 	     </choice> 
          <choice>
-         <orig>De </orig>
-               <reg>Deus </reg>
+               
+         <orig>Ve. </orig>
+               <reg>Ve.</reg>
          </choice>
 	<choice>
 		       <seg type="lucas">V(ersiculus).</seg>
@@ -332,8 +333,16 @@
        xml:id="p0283_translation"
        corresp="#p0283_transcription"> Come, O Lord, and do not
          delay: forgive the sins of Your people Israel. <!-- continued from prev page DM 25 -->
-     
-         Show unto us, O
+     Little chapter. Behold the days. <!--- this is in many verses in the Bible, but i can't tell which one it's 
+           referring to. --> Come, and free us,  <!-- Choral Wiki linked in doc --> O Lord God of Hosts.
+         <!-- Psalm 79 DRB --> Versicle. Show us Your face and we shall be saved. <!-- DM 18 / Psalm 79 DRB -->
+         O Lord [God of Hosts]. Glory [be to the Father, and to the Son, and to the Holy Spirit. As
+         it was in the beginning, is now, and will be forever, world without end.] Come, [and free us.] 
+        Versicle. 
+        
+        
+        
+        Show unto us, O
          Lord, Thy mercy. <!-- Continues onto next page OBDS 489 --> 
          
          
