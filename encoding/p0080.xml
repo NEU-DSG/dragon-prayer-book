@@ -108,7 +108,7 @@
 		       <seg type="lucas">Laude(n)t</seg>
 		       <orig>Laudēt</orig>
 		       <reg>Laudent</reg>
-	     </choice> no
+	</choice> no <!-- nomen should be a single word  --> 
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">me(n)</seg>
