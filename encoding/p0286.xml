@@ -24,16 +24,17 @@
 		       <seg type="lucas">Q(ui)</seg>
 	           <orig>Q̇</orig>
 		       <reg>Qui</reg>
-	     </choice> vi. 
+	     </choice> 
+         <choice>
+               <seg type="lucas">vi(vis).</seg>
+               <orig>vi.</orig>
+               <reg>vivis.</reg>
+         </choice> 
 	<choice>
 		       <seg type="lucas">Or(?).</seg>
 	             <orig>Or̄.</orig>
 		       <reg>Oremus.</reg>
-	     </choice> 
-         <choice>
-               <orig>iiii.</orig>
-               <reg>quarta.</reg>
-         </choice>      
+	     </choice> iiii.    
       <lb/>EXcita 
 	<choice>
 		       <seg type="lucas">d(omi)ne</seg>
@@ -148,7 +149,7 @@
 	     <choice>
 		       <seg type="lucas">vi(vis).</seg>
 		       <orig>vi.</orig>
-	           <reg>vivis.<!--check expansion -is it an abbrev. for a formulaic prayer as at the end of the ms's 1st line?--></reg>
+	           <reg>vivis.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Do(minica)</seg>
@@ -215,8 +216,8 @@
 	     </choice> esto 
 	<choice>
 		       <seg type="lucas">regufiu(m)</seg>
-	      <orig>regufiū</orig>
-		       <reg>regufium</reg>
+	      <orig>refugiū</orig>
+		       <reg>refugium</reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -264,7 +265,7 @@
 	     <choice>
 		       <seg type="lucas">V(espers)</seg>
 		       <orig>V̇</orig>
-	           <reg>Vespers<!--double check to make sure it's not versa/versicle--></reg>
+	           <reg>Versicle. <!--double check to make sure it's not versa/versicle--></reg>
 	     </choice> Tibi 
 	<choice>
 		       <seg type="lucas">e(n)i(m)</seg>
@@ -307,6 +308,22 @@
 
    <ab type="translation"
        xml:id="p0286_translation"
-       corresp="#p0286_transcription"/>
+       corresp="#p0286_transcription">  O Lord; and by the grace of Your visitation, enlighten the darkness of our minds: who live and reign. <!-- DM 17 --> Let us pray. 
+         iiii. <!-- this is probably about fourth sunday of advent!!! --> Stir up Your power, we beseech You, O Lord,
+         and come, and with great might succour us; that by the
+         help of Your grace, what is hindered by our sins may
+         be hastened by Your merciful indulgence: who live and
+         reign. <!-- DM 24 --> 
+         First Sunday after Octave of the Epiphany.
+         Response. God, who sittest upon the throne and judgest in equity, 
+         be a stronghold of the poor in time of trouble,
+         thou alone that beholdest mischief and spite. <!-- CPDL linked in Google Doc ("Deus qui seder super thronum Orlando di Lasso ) --> 
+         Versicle. To You, O Lord, is the
+         poor man left. You will be a help to the orphan. <!-- DM 243 --> 
+         Thou alone that beholdest mischief and spite. Glory 
+         [be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end.]
+         Thou alone that beholdest mischief and spite. <!-- It's unusually for the same thing to be repeated before and after the Gloria but I am not sure what else Quia could be 
+               referring to. --> 
+   </ab>
 
 </div>
