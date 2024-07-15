@@ -103,7 +103,7 @@
             <choice>
                   <seg type="lucas">Or(ratio).</seg>
                   <orig>Or̄.</orig>
-                  <reg>Orratio.</reg>
+                  <reg>Oremus.</reg>
             </choice>
             <lb/>
             <choice>
@@ -146,7 +146,7 @@
             <choice>
                   <seg type="lucas">supplicat(i)o(n)s</seg>
                   <orig>supplicatōs</orig>
-                  <reg>supplications</reg>
+                  <reg>supplicationes</reg>
             </choice> 
             <choice>
                   <seg type="lucas">p(o)p(u)li</seg>
@@ -188,7 +188,7 @@
             <choice>
                   <seg type="lucas">t(em)p(er)ib(us).</seg>
                   <orig>tꝑib⋮.</orig>
-                  <reg>temperibus.</reg>
+                  <reg>temporibus.</reg>
             </choice> 
             <choice>
                   <seg type="lucas">P(er).</seg>
@@ -199,7 +199,7 @@
             <choice>
                   <seg type="lucas">b(?)</seg>
                   <orig>ḃ</orig>
-                  <reg>b?</reg>
+                  <reg>b? <!-- I think this is actually ii (roman num) but not sure --></reg>
             </choice> 
             <choice>
                   <seg type="lucas">a(lleluia?).</seg>
@@ -251,7 +251,7 @@
             <choice>
                   <seg type="lucas">m(?)</seg>
                   <orig>m̈</orig>
-                  <reg>tertia</reg>
+                  <reg>iii.</reg>
             </choice> 
             <choice>
                   <seg type="lucas">an(tiphon?).</seg>
@@ -299,6 +299,18 @@
       
       <ab type="translation"
             xml:id="p0287_translation"
-            corresp="#p0287_transcription"/>
+            corresp="#p0287_transcription"> ad iii. Antiphon. My sins, Lord, are embedded in me like arrows,
+            but before they wound me,
+            heal me, Lord, with the medicine of penitence. <!-- CPDL, linked in doc. hymn by Orlando di Lasso, based on Psalm 37 possibly -->
+            Let us pray. O almighty and everlasting God, who governs
+            all things both in heaven and on earth, mercifully hear
+            the prayers of Your people and grant us Your peace in
+            our days: through our Lord.  <!-- DM pg 62 --> ii. Alleluia.
+            A marriage took
+            place at·Cana of Galilee, and Jesus was there with his mother, Mary. <!-- DM 63 / ending of sentence
+                  reworded to reflect "erat ibi Iheseus cum maria matre eius" instead of "erat mater Jesu ibi." -->
+            iii. Antiphon. The wine having run short, Jesus ordered the jars to be filled with water,
+            which he turned into wine. <!-- cont. DM 63/ google translate (rough summary of John 2, 1-11) -->
+      </ab>
       
 </div>
