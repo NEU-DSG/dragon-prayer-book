@@ -40,7 +40,7 @@
 		       <seg type="lucas">ho(m)i(n)e(m).</seg>
 		       <orig>hoīe⋮.</orig>
 		       <reg>hominem.</reg>
-	     </choice> Ad ii
+	     </choice> Ad y
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">magine(m)</seg>
@@ -129,18 +129,18 @@
 	<choice>
 		       <seg type="lucas">y(?).</seg>
 		       <orig>ÿ.</orig>
-		       <reg>y?.<!--  check expansion --></reg>
+		       <reg>ymaginem.</reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">M(agnificat)</seg>
-		       <orig>iii</orig>
-		       <reg>tertia</reg>
+		       <orig>M̈</orig>
+		       <reg>Magnificat</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia.</reg>
+		       <reg>Antiphon.</reg>
 	     </choice> 
  
 	     <choice>
@@ -156,7 +156,7 @@
 	     <choice>
 		       <seg type="lucas">Or(atio).</seg>
 		       <orig>Or̄.</orig>
-		       <reg>Oratio.</reg>
+		       <reg>Oremus.</reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -241,12 +241,12 @@
 	     <choice>
 		       <seg type="lucas">b(?)</seg>
 		       <orig>ḃ</orig>
-		       <reg>b?</reg>
+		       <reg>Benedictus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(?).</seg>
 		       <orig>ä.</orig>
-		       <reg>a?.<!--  check expansion --></reg>
+		       <reg>Antiphon</reg>
 	     </choice> 
  
 	     <choice>
@@ -316,6 +316,25 @@
 
    <ab type="translation"
        xml:id="p0293_translation"
-       corresp="#p0293_transcription"/>
+       corresp="#p0293_transcription"> Therefore blessing Noah, God said, <!-- cont. from last page. put together from 
+              DRB Genesis 27:23-24 and Genesis 8. The DRB does not translate Noe (remains Noe) but 
+               I figure all contemporary readers recognize "Noah" --> 
+         I will no more curse the earth for the sake of man <!-- DRB Genesis 8:21 --> 
+         for man was made to the image of God. <!-- DRB Genesis 9:6 --> Versicle. 
+         This shall be the sign of a covenant between me and the earth: I will set my bow in the clouds of heaven. <!-- DRB Genesis 9:13, sentence order flipped some words
+         added--> [For man was made] to [the image of God.] Glory [be to the Father, and to the Son, and to the Holy Ghost. 
+         As it was in the beginning, is now, and ever shall be, world without end.]
+         [For man was made] to the image [of God.] Magnificat. Anitphon. The first
+         [shall be last, and the last first; for many are called, but
+         few are chosen.] <!-- DM 80. manuscript flips the order of last/first in that sentence. Prompt assumed from pg 292--> 
+         Let us pray. O God, You see that we do not trust in anything that we do of ourselves; mercifully grant that by
+         the protection of the doctor of the Gentiles we may be
+         defended against all adversities: through our Lord. <!-- DM 81 --> Benedictus. Antiphon. 
+         When a very
+         great crowd was gathering together and men from evety
+         town were resorting to Jesus, He said in a parable: "The
+         sower went out to sow his seed." <!-- DM 84, continues to next page --> 
+        
+   </ab>
 
 </div>

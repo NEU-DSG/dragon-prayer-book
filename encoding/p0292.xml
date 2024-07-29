@@ -141,12 +141,12 @@
 	<choice>
 		       <seg type="lucas">V(?)</seg>
 		       <orig>ḃ</orig>
-		       <reg>V?<!-- check expansion --></reg>
+		       <reg>Benedictus.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia.</reg>
+		       <reg>Antiphon.</reg>
 	     </choice> 
  Hii novissimi u
 <lb break="no"/>na 
@@ -205,7 +205,7 @@
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia.</reg>
+		       <reg>antiphon.</reg>
 	     </choice> 
  
 	     <choice>
@@ -283,8 +283,8 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(tercia)</seg>
-		       <orig>in </orig>
-		       <reg>tercia</reg>
+		       <orig>iiii</orig>
+		       <reg>iiii</reg>
 	     </choice>
       <lb/>lx. 
 	<choice>
@@ -306,6 +306,26 @@
 
    <ab type="translation"
        xml:id="p0292_translation"
-       corresp="#p0292_transcription"/>
+       corresp="#p0292_transcription"> The kingdom of heaven
+         is like a householder who went out early in the morning to hire laborers for his vineyard, said the Lord. <!-- DM 79, cont from previous page -->
+         Magnificat. Antiphon. The householder said to his laborers, <!-- words that appear on DM 79 but not in that order --> 
+         'Why do you stand here all day idle?' <!-- DM 79 -->
+         And they answered and said <!-- DM 295 -->  
+         because no man has hired us. Go you also into the vineyard,
+         and I will give you whatever is just. <!-- DM 79 -->
+         Through Ebdonam? <!-- probably something like Ash Wednesday? because I have been 
+               finding the prayers in teh Septaguasima - Sexaguasima section of the Missal (right
+               before lent ) --> At Benedictus. Antiphon. 
+         These last have worked a single hour,
+         and you have put them on a level with us, who have
+         borne the burden of the day's heat. Magnificat. Antiphon. 
+         The first
+         shall be last, and the last first; for many are called, but
+         few are chosen. <!-- DM 80. manuscript flips the order of last/first in that sentence. --> 
+         Says the Lord. Third Sunday. Lx? <!-- this was on the last page as well --> 
+         Response. Therefore blessing Noah, God said, <!-- cont. to next page. put together from 
+              DRB Genesis 27:23-24 and Genesis 8. The DRB does not translate Noe (remains Noe) but 
+               I figure all contemporary readers recognize "Noah" --> 
+   </ab>
 
 </div>
