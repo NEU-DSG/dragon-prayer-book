@@ -134,7 +134,7 @@
 	     <choice>
 		       <seg type="lucas">v(?)</seg>
 		       <orig>ḃ</orig>
-		       <reg>??? <!-- check expansion --></reg>
+		       <reg>Benedictus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">an(?).</seg>
@@ -231,7 +231,11 @@
 		       <orig>ꝑimꝰ.</orig>
 		       <reg>perimus.</reg>
 	     </choice> 
-	     iii <!-- choice for magnificat???? i'm not sure -->
+         <choice>
+               <seg type="lucas">M(agnificat)</seg>
+               <orig>m̈</orig>
+               <reg>Magnificat</reg>
+         </choice> 
 	     <choice>
 		       <seg type="lucas">an(tiphon?).</seg>
 		       <orig>an̈.</orig>
@@ -298,11 +302,11 @@
        xml:id="p0289_translation"
        corresp="#p0289_transcription">O God, who know that we are beset by perils
          such as our human frailty cannot withstand; grant us health of soul and body, that what we suffer for our sins
-         we may overcome by Your assistance: through our Lord. <!-- DM 68-69 --> b. Antiphon. Jesus got into
+         we may overcome by Your assistance: through our Lord. <!-- DM 68-69 --> Benedictus. Antiphon. Jesus got into
          a boat, behold,
          there arose a great storm on the sea, his
          disciples woke Him, saying, "Lord
-         save us! we are perishing!" <!-- DM 69-70, fragment --> iii. Antiphon. Lord save us! We are perishing! O God, command and make calm. <!-- DM 70, changes past tense 
+         save us! we are perishing!" <!-- DM 69-70, fragment --> Magnificat. Antiphon. Lord save us! We are perishing! O God, command and make calm. <!-- DM 70, changes past tense 
                to imperative so I'm not sure if it's 100% right. --> Fourth sunday.
          My sins, [Lord, are embedded in me like arrows,
          but before they wound me,

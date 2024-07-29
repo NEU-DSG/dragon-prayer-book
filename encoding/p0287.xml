@@ -12,8 +12,8 @@
             <lb/>Ad 
             <choice>
                   <seg type="lucas">m(isericordia?)</seg>
-                  <orig>iii</orig>
-                  <reg>terita</reg>
+                  <orig>m̈</orig>
+                  <reg>Magnificat</reg>
             </choice> 
             <choice>
                   <seg type="lucas">an(tiphon?).</seg>
@@ -199,12 +199,12 @@
             <choice>
                   <seg type="lucas">b(?)</seg>
                   <orig>ḃ</orig>
-                  <reg>b? <!-- I think this is actually ii (roman num) but not sure --></reg>
+                  <reg>Benedictus </reg>
             </choice> 
             <choice>
                   <seg type="lucas">a(lleluia?).</seg>
                   <orig>ä.</orig>
-                  <reg>alleluia.</reg>
+                  <reg>Antiphon.</reg>
             </choice> Nuptie 
             <choice>
                   <seg type="lucas">f(a)c(t)e</seg>
@@ -251,7 +251,7 @@
             <choice>
                   <seg type="lucas">m(?)</seg>
                   <orig>m̈</orig>
-                  <reg>iii.</reg>
+                  <reg>Magnificat.</reg>
             </choice> 
             <choice>
                   <seg type="lucas">an(tiphon?).</seg>
@@ -299,17 +299,17 @@
       
       <ab type="translation"
             xml:id="p0287_translation"
-            corresp="#p0287_transcription"> ad iii. Antiphon. My sins, Lord, are embedded in me like arrows,
+            corresp="#p0287_transcription"> at Magnificat. Antiphon. My sins, Lord, are embedded in me like arrows,
             but before they wound me,
             heal me, Lord, with the medicine of penitence. <!-- CPDL, linked in doc. hymn by Orlando di Lasso, based on Psalm 37 possibly -->
             Let us pray. O almighty and everlasting God, who governs
             all things both in heaven and on earth, mercifully hear
             the prayers of Your people and grant us Your peace in
-            our days: through our Lord.  <!-- DM pg 62 --> ii. <!-- might be a b? --> Alleluia.
+            our days: through our Lord.  <!-- DM pg 62 --> Benedictus. Antiphon.
             A marriage took
-            place at·Cana of Galilee, and Jesus was there with his mother, Mary. <!-- DM 63 / ending of sentence
+            place at Cana of Galilee, and Jesus was there with his mother, Mary. <!-- DM 63 / ending of sentence
                   reworded to reflect "erat ibi Iheseus cum maria matre eius" instead of "erat mater Jesu ibi." -->
-            iii. Antiphon. The wine having run short, Jesus ordered the jars to be filled with water,
+            Magnificat. Antiphon. The wine having run short, Jesus ordered the jars to be filled with water,
             which he turned into wine. <!-- cont. DM 63/ google translate (rough summary of John 2, 1-11) -->
       </ab>
       
