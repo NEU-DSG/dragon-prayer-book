@@ -39,7 +39,7 @@
 	     <choice>
 		       <seg type="lucas">Ps(almus David)</seg>
 		       <orig>Ps̈</orig>
-		       <reg>Psalmus David</reg>
+		       <reg>Psalmus</reg> <!-- I don't think we include "David" where it says ps anywhere else in the transcription, So i removed it -->
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">D(omi)n(u)s</seg>
@@ -49,7 +49,7 @@
 	<choice>
 		       <seg type="lucas">Ps(almus David).</seg>
 		       <orig>Ps̈.</orig>
-		       <reg>Psalmus David</reg>
+		       <reg>Psalmus</reg>
 	     </choice> 
  Do
 <lb break="no"/>
@@ -71,7 +71,7 @@
 	     <choice>
 		       <seg type="lucas">Ps(alm?)</seg>
 		       <orig>Ps̈</orig>
-		       <reg>Psalm <!-- check expansion, no hint in translation --></reg>
+		       <reg>Psalmus</reg>
 	     </choice> Ad te 
 	<choice>
 		       <seg type="lucas">d(omi)ne.</seg>
@@ -81,7 +81,7 @@
 	     <choice>
 		       <seg type="lucas">P(re?).</seg>
 		       <orig>P̄.</orig>
-		       <reg>Pre?.<!--  check expansion, not covered in translation --></reg>
+		       <reg>Psalmus.<!--  check expansion, not covered in translation --></reg>
 	     </choice> 
       <lb/>IUdica me 
 	<choice>
@@ -333,6 +333,22 @@
 
    <ab type="translation"
        xml:id="p0473_translation"
-       corresp="#p0473_transcription"/>
+       corresp="#p0473_transcription"><!-- continued from DRB Pslam 21 -->
+         to a people that shall be born, which the Lord hath made.
+         <!-- DRB Pslam 22 ends -->
+         A psalm for David. The Lord ruleth me.
+         <!-- DRB Pslam 22 -->
+         A psalm for David. The earth is the Lord's.
+         <!-- DRB Pslam 23 -->
+         A psalm for David. To thee, O Lord.
+         <!-- DRB Pslam 24 --> Psalm. <!-- not 100% sure of expansion -->
+         Judge me, O Lord, for I have walked in my innocence: and I have put my trust in
+         the Lord, and shall not be weakened. Prove me, O Lord, and try me; burn my
+         reins and my heart. For thy mercy is before my eyes; and I am well pleased with
+         thy truth. I have not sat with the council of vanity: neither will I go in with
+         the doers of unjust things. I have hated the assembly of the malignant; and
+         with the wicked I will not sit. I will wash my hands among the innocent;
+         <!-- continues DRB Pslam 25 -->
+</ab>
 
 </div>
