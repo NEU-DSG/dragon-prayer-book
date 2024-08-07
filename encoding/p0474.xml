@@ -284,7 +284,7 @@
 	     <choice>
 		       <seg type="lucas">Ps(alm?).</seg>
 		       <orig>Ps̈.</orig>
-		       <reg>Psalmus David.<!--  check expansion, this was indicated in the translation but I am not positive ab it --> --></reg>
+		       <reg>Psalmus </reg>
 	     </choice> 
  
 	     <choice>
@@ -303,6 +303,14 @@
 
    <ab type="translation"
        xml:id="p0474_translation"
-       corresp="#p0474_transcription"/>
+       corresp="#p0474_transcription">I will wash my hands among the innocent; and will compass thy altar, O Lord: That I may hear the voice of thy praise:
+         and tell of all thy wondrous works. I have loved, O Lord, the beauty of thy
+         house; and the place where thy glory dwelleth. Take not away my soul, O God,
+         with the wicked: nor my life with bloody men: In whose hands are iniquities:
+         their right hand is filled with gifts. But as for me, I have walked in my
+         innocence: redeem me, and have mercy on me. My foot hath stood in the direct
+         way: in the churches I will bless thee, O Lord. A psalm. O God, by thy name.
+         <!-- continues in Pslam 53 -->
+   </ab>
 
 </div>
