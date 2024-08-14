@@ -123,7 +123,7 @@
 	     <choice>
 		       <seg type="lucas">a(lleluia).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia.</reg>
+		       <reg>antiphon.</reg>
 	     </choice> 
 	     <choice> 
 	  
@@ -150,13 +150,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">cy(?)</seg>
-		       <orig>cÿ</orig>
-		       <reg>cy?</reg> <!-- this definitely isnt "cy", maybe ni? nj? -->
+	           <orig>M̈</orig>
+		       <reg>Magnificat.</reg> 
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(lleluia).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia.</reg>
+		       <reg>antiphon.</reg>
 	     </choice>  
       <lb/>Respexisti
 <lb/>
@@ -205,8 +205,8 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">Pfi(?)c?tag</seg>
-		       <orig>Pfīgtag</orig>
-		       <reg>Freitag</reg> <!-- this is definitely a german day of the week -->
+		       <orig>Pfīcztag</orig>
+		       <reg>Pfincztag</reg> 
 	     </choice> 
  
 	     <choice>
@@ -296,9 +296,9 @@
    <ab type="translation"
        xml:id="p0212_translation"
        corresp="#p0212_transcription">If I was not humbly minded, but exalted my soul: As a child that is weaned is towards his mother, so reward in my soul. 
-         Let Israel hope in the Lord, from henceforth now and for ever. Alleluia. 
-         Let Israel hope in the Lord. [Song] Respexisti. [Mode] v. Alleluia. Regard my humility, Lord, my God. <!-- my/google translate/luke 1:48 has something vaguely similar -->
-         Lord have mercy. Christ have mercy. Pfi(?)c?tag vs(?). <!-- needs checking!! --> [Incline unto my] aid, O God. [O Lord, make
+         Let Israel hope in the Lord, from henceforth now and for ever. Antiphon. 
+         Let Israel hope in the Lord. [Song] Respexisti. [Mode] v. Magnificat. Antiphon. Regard my humility, Lord, my God. <!-- my/google translate/luke 1:48 has something vaguely similar -->
+         Lord have mercy. Christ have mercy. Thursday. Vespers. [Incline unto my] aid, O God. [O Lord, make
          haste to help me.] [Song] Et omnis. [Mode] iiii. 
          O Lord, remember David, and all his meekness. How he swore to <!-- psalm 131 cont --> </ab>
 
