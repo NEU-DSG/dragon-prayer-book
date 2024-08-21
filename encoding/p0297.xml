@@ -28,13 +28,13 @@
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia.</reg>
+		       <reg>antiphon.</reg>
 	     </choice> 
       <lb/>
 	     <choice>
 		       <seg type="lucas">P(re)valuit</seg>
 		       <orig>P̄valuiṫ</orig>
-		       <reg>Prevaluit</reg>
+		       <reg>Prevaluitque</reg>
 	     </choice> david 
 	<choice>
 		       <seg type="lucas">i(n)</seg>
@@ -81,7 +81,7 @@
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia.</reg>
+		       <reg>antiphon.</reg>
 	     </choice> 
  
 	     <choice>
@@ -141,7 +141,7 @@
 	<choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia.</reg>
+		       <reg>antiphon.</reg>
 	     </choice> 
  
 	     <choice>
@@ -180,7 +180,7 @@
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia.</reg>
+		       <reg>antiphon.</reg>
 	     </choice> 
  
 	     <choice>
@@ -269,7 +269,7 @@
 	<choice>
 		       <seg type="lucas">a(lleluia).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia.</reg>
+		       <reg>antiphon.</reg>
 	     </choice> Do
 <lb break="no"/>leo 
 	<choice>
@@ -288,6 +288,15 @@
 
    <ab type="translation"
        xml:id="p0297_translation"
-       corresp="#p0297_transcription"/>
+       corresp="#p0297_transcription">All from Dan to Bersabee knew that Samuel was a faithful prophet of the Lord. 
+   	<!-- 1 Kings (1 Samuel) 3:20 DRB continued--> Antiphon. 
+   	David prevailed over the Philistine, with a sling and a stone, in the name of the Lord. <!-- DRB 1 Kings (1 Samuel) 17:50 --> Antiphon.
+   	Is not this David, to whom they sung in their dances, saying: Saul slew a thousand, and David his ten thousands upon thousands. <!-- DRB 1 kings (1 samuel) 29:5, 
+   		with some words spelled differently --> Antiphon. 
+   The king Saul was angry, and he said, to me they have given but a thousand, 
+   they have given ten thousand to the son of Jesse. <!-- DRB 1 kinggs (1 samuel) / google translate -->
+   Antiphon. For who amongst all found in thy kingdom is so faithful as David, who goes forth and returns and continues at the command of the king. <!-- loosely DRB 1 kings (1 samuel) 22:14, heavily google translate -->
+   	Antiphon. I grieve for thee, my brother Jonathan: <!-- DRB 2 kings (2 samuel) 1:26, verse continues -->
+   </ab>
 
 </div>
