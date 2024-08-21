@@ -34,7 +34,7 @@
 	     <choice>
 		       <seg type="lucas">es(t).</seg>
 		       <orig>es̄.</orig>
-		       <reg>est.</reg>
+		       <reg>es.</reg>
 	     </choice>
       <lb/>Tu regis alti ianua 
 	<choice>
@@ -233,6 +233,24 @@
 
    <ab type="translation"
        xml:id="p0083_translation"
-       corresp="#p0083_transcription"/>
+       corresp="#p0083_transcription">
+         
+         Through the dear Blossom of thy womb,
+         Thou changest hapless Eva's doom. 
+         Through thee to contrite souls is given
+         An opening to their home in heaven. 
+         Thou art the Great King's portal bright
+         with pearls and stones of living light. 
+         Come then, ye ransomed nations, sing,
+         The Life Divine 'twas hers to bring. 
+         <!-- OBDS p. 68 -->
+         O Mary, Mother of Grace,
+         Mother of mercy, 
+         Shield me from the enemy
+         And receive me at the hour of my death. 
+         <!-- OBDS p. 70. See also PL -->
+         All Glory be to Thee, O Lord.
+         <!-- OBDS p. 70 -->
+   </ab>
 
 </div>

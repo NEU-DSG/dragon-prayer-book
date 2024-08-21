@@ -125,7 +125,7 @@
 	     <choice>
 		       <seg type="lucas">Cap(?)</seg>
 		       <orig>Cap̄</orig>
-		       <reg>Cap? <!-- Capite? I feel like this is usually Capite --></reg>
+		       <reg>Capitulum </reg>
 	     </choice> 
 
 	     <choice>
@@ -186,7 +186,7 @@
 	<choice>
 		       <seg type="lucas">D(eus).</seg>
 		       <orig>Ḋ.</orig>
-		       <reg>Deus.</reg>
+		       <reg>Deo.</reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -238,6 +238,34 @@
 
    <ab type="translation"
        xml:id="p0082_translation"
-       corresp="#p0082_transcription"/>
+       corresp="#p0082_transcription">
+         
+       praise him with strings and organs
+       Praise him on high sounding cymbals: 
+       praise him on cymbals of joy: 
+       let every spirit praise the Lord. 
+         <!-- DRB Psalm 150.4-5 -->
+         Antiphon.
+         After childbirth thou still 
+         didst remain a Virgin undefiled:
+         O Mother of God, intercede for us. 
+         Little Chapter
+         As the vine I gave forth a pleasant odor:
+         and my flowers are the fruits of honour and riches. 
+         Thanks be to God. 
+        <!-- OBDS p. 66 -->
+         Hymn.
+         O glorious Lady, 
+         Throned in light 
+         Sublime above the starry height, 
+         Thine arms they great Creator pressed
+         A suckling at thy sacred breast.
+         Through the dear Blossom of thy womb,
+         Thou changest hapless Eva's doom. 
+    
+         
+         <!-- OBDS p. 68 -->
+         
+   </ab>
 
 </div>
