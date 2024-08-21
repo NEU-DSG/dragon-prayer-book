@@ -71,7 +71,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)xi(m)e</seg>
-		       <orig>ꝓxīe</orig>s 
+		       <orig>ꝓxīe</orig>
 		       <reg>proxime</reg>
 	     </choice> 
 	     <choice>
@@ -293,6 +293,13 @@
 
    <ab type="translation"
        xml:id="p0484_translation"
-       corresp="#p0484_transcription"/>
+       corresp="#p0484_transcription">all the rich among the people, shall entreat thy countenance. All the glory of the king's daughter is within in golden borders,
+         Clothed round about with varieties. After her shall virgins be brought to the king: her neighbours shall be brought to thee. 
+         They shall be brought with gladness and rejoicing: they shall be brought into the temple of the king. 
+         Instead of thy fathers, sons are born to thee: thou shalt make them princes over all the earth. 
+         They shall remember thy name throughout all generations. Therefore shall people praise thee for ever; yea, for ever and ever. <!-- DRB psalm 44 -->
+         Our God is our refuge and strength: a helper in troubles, <!-- DRB psalm 45 continues -->
+         
+   </ab>
 
 </div>
