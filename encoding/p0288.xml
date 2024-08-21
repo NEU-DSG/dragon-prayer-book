@@ -64,7 +64,7 @@
 	     <choice>
 		       <seg type="lucas">Or(atio).</seg>
 		       <orig>Or̄.</orig>
-		       <reg>Oratio.</reg>
+		       <reg>Oremus.</reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -122,13 +122,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">v(?)</seg>
-		       <orig>v̇</orig>
-		       <reg>v?</reg>
+		       <orig>ḃ</orig>
+		       <reg>Benedictus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(?).</seg>
 		       <orig>ä.</orig>
-		       <reg>a?.<!--  check expansion --></reg>
+		       <reg>Antiphon</reg>
 	     </choice> 
  
 	     <choice>
@@ -235,12 +235,12 @@
 	     <choice>
 		       <seg type="lucas">m(?)</seg>
 		       <orig>m̈</orig>
-		       <reg>m?</reg>
+		       <reg>Magnificat</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>Antiphon</reg>
 	     </choice> 
  
 	     <choice>
@@ -278,8 +278,8 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(tercia).</seg>
-		       <orig>iii.</orig>
-		       <reg>tertia.</reg>
+		       <orig>iiii.</orig>
+		       <reg>iiii.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">P(ec)c(a)ta.</seg>
@@ -287,9 +287,7 @@
 		       <reg>Peccata.</reg>
 	     </choice>        
 	     <choice>
-		       <seg type="lucas">Or(ati?)o.
-
-</seg>
+		       <seg type="lucas">Or(ati?)o.</seg>
 		       <orig>Or̄o.</orig>
 		       <reg>Oratio.</reg>
 	     </choice> 
@@ -297,6 +295,24 @@
 
    <ab type="translation"
        xml:id="p0288_translation"
-       corresp="#p0288_transcription"/>
+       corresp="#p0288_transcription">The wine having run short, Jesus ordered the jars to be filled with water,
+         which he turned into wine. <!-- cont from last page. DM 63/ google translate (rough summary of John 2, 1-11) --> 
+         Second Sunday. [My] sins, [Lord, are embedded in me like arrows,
+         but before they wound me,
+         heal me, Lord, with the medicine of penitence.] <!-- CPDL, linked in doc. hymn by Orlando di Lasso, based on Psalm 37 possibly. Assuming prompt refers 
+         to pg 287 --> Let us pray. Almighty and eternal God, graciously look
+upon our weakness and stretch forth the right hand of
+Your majesty to our protection: through our Lord. <!-- DM 65 --> Benedictus Antiphon.
+         But when Jesus had come down from the mountain, and behold, a leper came up and worshiped Him,·
+         saying, "Lord, if You will, You can make me clean."
+         And stretching forth His hand Jesus touched him, saying, "I will; be made clean." <!-- DM 66, some words missing from DPB --> 
+         Magnificat. Antiphon. Lord, if You will, You can make me clean."
+         And Jesus said "I will; be made clean." <!-- DM 66, some words different --> Third Sunday. 
+         [My] sins, [Lord, are embedded in me like arrows,
+         but before they wound me,
+         heal me, Lord, with the medicine of penitence.] 
+         <!-- CPDL, linked in doc. hymn by Orlando di Lasso, based on Psalm 37 possibly. Assuming prompt refers 
+         to pg 287 --> Collect. 
+   </ab>
 
 </div>

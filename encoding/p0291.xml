@@ -259,13 +259,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">V(?)</seg>
-		       <orig>V̇</orig>
-		       <reg>V?</reg>
+	           <orig>ḃ</orig>
+		       <reg>Benedictus.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia.</reg>
+		       <reg>antiphon.</reg>
 	     </choice> 
  
 	     <choice>
@@ -335,6 +335,26 @@
 
    <ab type="translation"
        xml:id="p0291_translation"
-       corresp="#p0291_transcription"/>
+       corresp="#p0291_transcription">
+         On the sixth day God finished the work He had been doing. And He
+         rested on the seventh day from all the work He had
+         done. <!-- DM 386, cont. from previous page -->
+         Versicle. And God saw all the things that he had made, and they were very good. <!-- DRB Genesis 1:31. in the same passage as DM 386, but English translation does not 
+         reflect the Latin well enough for the upcoming pattern --> And they were very good. Glory [be to the Father, and to the Son, and to the Holy Ghost. 
+         As it was in the beginning, is now, and ever shall be, world without end.] And God saw all the things that he had made. Ab. <!-- don't know what this is referring to! -->
+         Magnificat. <!-- VERY long prayer! which can be found on OBDS 178) --> Antiphon. My sins, [Lord, are embedded in me like arrows,
+         but before they wound me,
+         heal me, Lord, with the medicine of penitence.] 
+         <!-- CPDL, linked in doc. hymn by Orlando di Lasso, based on Psalm 37 possibly. Assuming prompt refers 
+         to pg 287 --> Collect. Graciously hear, we beseech You, O Lord,
+the prayers of Your people,. that we, who are justly
+afflicted for our sins, may be freed by Your mercy for
+the glory of Your name: through our Lord. <!-- DM 77 --> Versicle. Lord, You have been our refuge
+         from generation to generation. <!-- DM 119 --> Benedictus. Antiphon. The kingdom of heaven
+         is like a householder who went out early in the morning to hire laborers for his vineyard. <!-- DM 79, cont. --> 
+         
+
+      
+   </ab>
 
 </div>

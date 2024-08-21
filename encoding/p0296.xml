@@ -18,7 +18,7 @@
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>antiphon.</reg>
 	     </choice> 
  
 	     <choice>
@@ -124,10 +124,10 @@
 	     </choice> 
 	<choice>
 		       <seg type="lucas">fr(?)</seg>
-		       <orig>fr̈</orig>
-		       <reg>fr?</reg>
-	     </choice> q? 
-	<choice>
+		       <orig>rfr̈</orig>
+		       <reg>feria <!-- this is a guess based on Ash Wednesday. needs checking --></reg>
+	     </choice> q <!-- this might end up being an expansion and would need a choice -->
+         <choice>
 		       <seg type="lucas">(et) </seg>
 		       <orig>+</orig>
 		       <reg>et </reg>
@@ -135,18 +135,18 @@
 	     <choice>
 		       <seg type="lucas">m(iserere?)</seg>
 		       <orig>m̈</orig>
-		       <reg>miserere?<!--  check expansion --></reg>
+		       <reg>Magnificat.</reg>
 	     </choice> 
       <lb/>
 	     <choice>
 		       <seg type="lucas">b(?)</seg>
 		       <orig>ḃ</orig>
-		       <reg>b?</reg>
+		       <reg>Benedictus.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">an(tiphon?).</seg>
 		       <orig>an̈.</orig>
-		       <reg>antiphon?.<!--  check expansion --></reg>
+		       <reg>antiphon.</reg>
 	     </choice>
          <choice>
            <orig>Trade<supplied>t݃</supplied></orig>
@@ -198,7 +198,7 @@
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia.</reg>
+		       <reg>antiphon.</reg>
 	     </choice> 
  
 	     <choice>
@@ -248,7 +248,7 @@
 	     <choice>
 		       <seg type="lucas">b(bat?)o</seg>
 		       <orig>ḃo</orig>
-		       <reg>bbato<!--  check expansion --></reg>
+		       <reg>bato</reg>
 	     </choice> 
  
 	     <choice>
@@ -286,6 +286,25 @@
 
    <ab type="translation"
        xml:id="p0296_translation"
-       corresp="#p0296_transcription"/>
+       corresp="#p0296_transcription"> Magnificat. Antiphon. Then 
+         Jesus stopped and commanded that he should be brought to Him. 
+         And asked him, saying, "What would you
+         have Me do for you?". "Lord, that I may
+         see." And Jesus said to him, "Receive your sight, your
+         faith has saved you." And. at once he received his sight,
+         and followed Him, glorifying God. <!-- DM 90, with some words missing from DPB -->
+         Feria Quarta and magnificat benedictus antiphon. 
+         He shall deliver him to the Gentiles to be mocked, 
+         and scourged, and crucified. <!-- DRB Matthew 20:19 -->
+         Magnificat. Antiphon. All the people
+         upon seeing it gave praise to God. <!-- DM 90 -->
+         Me? of Sunday. <!-- needs checking-->
+         Speak, Lord, for thy servant heareth. <!-- 1 Kings (1 Samuel) 3:9 DRB -->
+         On Saturday. 
+         All from Dan to Bersabee knew that Samuel was a faithful prophet of the Lord. 
+         <!-- 1 Kings (1 Samuel) 3:20 DRB continues-->
+         
+         
+   </ab>
 
 </div>

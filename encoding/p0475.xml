@@ -18,7 +18,7 @@
 	     <choice>
 		       <seg type="lucas">Ps(alm?)</seg>
 		       <orig>Ps̈</orig>
-		       <reg>Psalm?</reg> <!-- check expansion, not covered in current translation data -->
+		       <reg>Psalmus</reg> 
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">D(omi)n(u)s</seg>
@@ -306,6 +306,15 @@
 
    <ab type="translation"
        xml:id="p0475_translation"
-       corresp="#p0475_transcription"/>
+       corresp="#p0475_transcription">name. <!-- Psalm 53 --> A psalm. The lord is king. <!-- Psalm 92-->  A psalm. Rejoice in
+         the Lord, O ye just: praise becometh the upright.Give praise to the Lord on the
+         harp; sing to him with the psaltery, the instrument of ten strings. Sing to him
+         a new canticle, sing well unto him with a loud noise. For the word of the Lord
+         is right, and all his works are done with faithfulness. He loveth mercy and
+         judgment; the earth is full of the mercy of the Lord. By the word of the Lord
+         the heavens were established; and all the power of them by the spirit of his
+         mouth: Gathering together the waters of the sea, as in a vessel; laying up the depths in storehouses. 
+         <!--Continues Psalms 32 -->
+</ab>
 
 </div>
