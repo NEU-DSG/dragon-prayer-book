@@ -67,7 +67,7 @@
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia.</reg>
+		       <reg>antiphon.</reg>
 	     </choice> 
  Corde. In
 <lb/>festo 
@@ -95,7 +95,7 @@
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia.</reg>
+		       <reg>antiphon.</reg>
 	     </choice> 
       <lb/>Ave 
 	<choice>
@@ -172,7 +172,7 @@
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia.</reg>
+		       <reg>antiphon.</reg>
 	     </choice> 
       <lb/>Vox de 
 	<choice>
@@ -258,13 +258,13 @@
 	<choice>
 		       <seg type="lucas">v(ersu?)s</seg>
 		       <orig>v̈s</orig>
-		       <reg>versus<!--  check expansion --></reg>
+		       <reg>vesperas</reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">cap(ite?).</seg>
 		       <orig>cap̄.</orig>
-		       <reg>capite?.<!--  check expansion --></reg>
+		       <reg>capitulum.</reg>
 	     </choice> 
    </ab>
 
