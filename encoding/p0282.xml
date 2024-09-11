@@ -1,306 +1,269 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<div xmlns="http://www.tei-c.org/ns/1.0"
-     type="page"
-     n="133v"
-     xml:id="p0282">
-
-   <ab type="transcription"
-       xml:id="p0282_transcription"
-       corresp="#p0282_translation">
-
-      <lb/>sula. 
-	<choice>
-		       <seg type="lucas">Cui(us)</seg>
-	             <orig>Cuiꝰ</orig>
-		       <reg>Cuius</reg>
-	     </choice> forti 
-	<choice>
-		       <seg type="lucas">pote(n)ci</seg>
-	             <orig>potēci</orig>
-		       <reg>potenci</reg>
-	     </choice>
-      <lb break="no"/>e genu 
-	<choice>
-		       <seg type="lucas">curua(n)t(ur)</seg>
-	             <orig>curuāt݃</orig>
-		       <reg>curuantur</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">o(mn)ia</seg>
-	             <orig>oīa</orig>
-		       <reg>omnia</reg>
-	     </choice> celes
-<lb break="no"/>tia 
-	<choice>
-		       <seg type="lucas">t(er)rest(ri)a</seg>
-	             <orig>ṫresṫa</orig>
-		       <reg>terrestria</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">fate(n)t(ur)</seg>
-	             <orig>fatēt݃</orig>
-		       <reg>fatentur</reg>
-	     </choice> nutu 
-	<choice>
-		       <seg type="lucas">s(u)b</seg>
-	             <orig>sḃ</orig>
-		       <reg>sub</reg>
-	     </choice>
-      <lb break="no"/>dita. Te 
-	<choice>
-		       <seg type="lucas">dep(re)cam(ur)</seg>
-		       <orig>dep̄cam݃ </orig> 
-		       <reg>deprecamur</reg>
-	     </choice> agye
-<lb/>
-	     <choice>
-		       <seg type="lucas">ve(n)ture</seg>
-	             <orig>vēture</orig>
-		       <reg>venture</reg>
-	     </choice> iudex 
-	<choice>
-		       <seg type="lucas">s(e)c(u)li</seg>
-		       <orig>scl͘i</orig>
-		       <reg>seculi</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">s(er)va</seg>
-	             <orig>ɔsv̇a</orig>
-		       <reg>conserva</reg>
-	     </choice> nos
-<lb/>
-	     <choice>
-		       <seg type="lucas">i(n)</seg>
-	             <orig>ī</orig>
-		       <reg>in</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">t(em)p(or)e</seg>
-	             <orig>tꝑe</orig>
-		       <reg>tempore</reg>
-	     </choice> hostis a celo 
-	<choice>
-		       <seg type="lucas">p(er)fidi.</seg>
-	             <orig>ꝑfidi.</orig>
-		       <reg>perfidi.</reg>
-	     </choice>
-      <lb/>Laus 
-	<choice>
-		       <seg type="lucas">ho(no)r</seg>
-	            <orig>hōr</orig>
-		       <reg>honor</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">b(ea)t(us)</seg>
-	             <orig>ḃtꝰ</orig>
-		       <reg>beatus</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">gl(ori)a</seg>
-		       <orig>gl͘a</orig>
-		       <reg>gloria</reg>
-	     </choice> deo
-<lb/>
-	     <choice>
-		       <seg type="lucas">p(at)ri</seg>
-		       <orig>pr̄i</orig>
-		       <reg>patri</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">(et) </seg>
-		       <orig>+ </orig>
-		       <reg>et </reg>
-	     </choice> "filio 
-	<choice>
-		       <seg type="lucas">s(an)c(t)o</seg>
-		       <orig>sc̄o</orig>
-		       <reg>sancto</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">si(mu)l</seg>
-		       <orig>sil͘</orig>
-		       <reg>simul</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">p(ar)aclito</seg>
-	             <orig>ꝑaclito</orig>
-		       <reg>paraclito</reg>
-	     </choice>
-      <lb/>
-	     <choice>
-		       <seg type="lucas">i(n)</seg>
-	             <orig>ī</orig>
-		       <reg>in</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">se(m)pit(er)na</seg>
-	             <orig>sēpiṫna</orig>
-		       <reg>sempiterna</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">s(e)c(u)la.</seg>
-		       <orig>scl͘a.</orig>
-		       <reg>secula.</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">Ame(n).</seg>
-	             <orig>Amē.</orig>
-		       <reg>Amen.</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">V(ersiculus)</seg>
-	             <orig>V̇</orig>
-		       <reg>Versiculus</reg>
-	     </choice> Ro
-<lb break="no"/>rate celi 
-	<choice>
-		       <seg type="lucas">desup(er).</seg>
-	             <orig>desuꝑ.</orig>
-		       <reg>desuper.</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">(et) </seg>
-		       <orig>+ </orig>
-		       <reg>et </reg>
-	     </choice> nubes
-<lb/>
-	     <choice>
-		       <seg type="lucas">plua(n)t</seg>
-	             <orig>pluāt</orig>
-		       <reg>pluant</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">iustu(m).</seg>
-	             <orig>iustū.</orig>
-		       <reg>iustum.</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">Ap(er)iat(ur)</seg>
-	             <orig>Aꝑiat݃</orig>
-		       <reg>Aperiatur</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">t(er)ra</seg>
-	             <orig>ṫra</orig>
-		       <reg>terra</reg>
-	     </choice>
-      <lb/>
-	     <choice>
-		       <seg type="lucas">(et) </seg>
-		       <orig>+ </orig>
-		       <reg>et </reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">g(er)mi(n)et</seg>
-	             <orig>ġmīet</orig>
-		       <reg>germinet</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">salvatore(m).</seg>
-	             <orig>salvatorē.</orig>
-		       <reg>salvatorem.</reg>
-	     </choice> Ad. 
-	<choice>
-		       <seg type="lucas">i(?).</seg>
-	             <orig>ï̈.</orig>
-		       <reg>prima.</reg>
-	     </choice> 
-      <lb/>
-	     <choice>
-		       <seg type="lucas">a(lleluia?).</seg>
-	             <orig>ä.</orig>
-		       <reg>antiphon.</reg>
-	     </choice> 
- Veni 
-	<choice>
-		       <seg type="lucas">(et) </seg>
-		       <orig>+ </orig>
-		       <reg>et </reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">lib(er)a</seg>
-	             <orig>liḃa</orig>
-		       <reg>libera</reg>
-	     </choice> nos 
-	<choice>
-		       <seg type="lucas">d(eu)s</seg>
-	             <orig>ḋs</orig>
-		       <reg>deus</reg>
-	     </choice>
-      <lb/>
-	     <choice>
-		       <seg type="lucas">n(oste)r.</seg>
-		       <orig>nr̄.</orig>
-		       <reg>noster.</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">R(esponsorium).</seg>
-		       <orig>℞.</orig> 
-		       <reg>Responsorium.</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">Ih(ese)u.</seg>
-	             <orig>Iḣu.</orig>
-		       <reg>Iheseu.</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">V(espers)</seg>
-	             <orig>V̇</orig>
-		       <reg>Versiculus.</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Q̇</orig>
-		       <reg>Qui</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">ve(n)turus</seg>
-	             <orig>vēturus</orig>
-		       <reg>venturus</reg>
-	     </choice>
-      <lb/>es 
-	<choice>
-		       <seg type="lucas">i(n)</seg>
-	             <orig>ī</orig>
-		       <reg>in</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">m(un)d(u)m.</seg>
-	             <orig>mḋm.</orig>
-		       <reg>mundum.</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">m(?).</seg>
-		       <orig>m̈.</orig>
-		       <reg>Magnificat.</reg>
-	     </choice> 
- 
-	     <choice>
-		       <seg type="lucas">an(tiphon).</seg>
-		       <orig>an̈.</orig>
-		       <reg>antiphon.</reg>
-	     </choice> 
- Veni
-
-
-</ab>
-
-   <ab type="translation"
-       xml:id="p0282_translation"
-       corresp="#p0282_transcription"> the spotless Victim all divine. At whose dread Name, majestic now,
-         all knees must bend, all hearts must bow;
-         and things celestial Thee shall own,
-         and things terrestrial Lord alone. <!-- preces latinae hymn, linked in doc. continued -->
-   O Holy ONe, to Thee we pray, who comest at the Judgement-day, Protect us here from every blow, Aimed at us by the crafty foe. All glory, honor, 
-   virtue, laud, We pay Thee, Everlasting God, The Father, and the Only Son, 
-   And Holy Spirit, Three in One. <!-- linked in doc, "The Hymns of the Dominican Missal and Breviary" pg 55 --> 
-         Amen. Versicle. Drop down dew, you heavens, from
-         above, and let the clouds rain the just one. Let the earth
-         be opened and bud forth a Savior. <!-- DM 10 --> At i. <!-- not sure what this is referring to --> 
-   Antiphon. Come and deliver us, Our God. <!-- google translate --> Response. Jesus. Versicle.
-         Who is to come into the world. <!-- DRB John 6:14 --> Magnificat. Antiphon. 
-         Come, O Lord, and do not
-         delay: forgive the sins of Your people Israel. <!-- continues, DM 25 --> </ab>
-
+<div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="133v" xml:id="p0282">
+      <ab type="transcription" xml:id="p0282_transcription" corresp="#p0282_translation">
+            <lb/>sula. <choice>
+                  <seg type="lucas">Cui(us)</seg>
+                  <orig>Cuiꝰ</orig>
+                  <reg>Cuius</reg>
+            </choice> forti <choice>
+                  <seg type="lucas">pote(n)ci</seg>
+                  <orig>potēci</orig>
+                  <reg>potenci</reg>
+            </choice>
+            <lb break="no"/>e genu <choice>
+                  <seg type="lucas">curua(n)t(ur)</seg>
+                  <orig>curuāt݃</orig>
+                  <reg>curuantur</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">o(mn)ia</seg>
+                  <orig>oīa</orig>
+                  <reg>omnia</reg>
+            </choice> celes <lb break="no"/>tia <choice>
+                  <seg type="lucas">t(er)rest(ri)a</seg>
+                  <orig>ṫresṫa</orig>
+                  <reg>terrestria</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">fate(n)t(ur)</seg>
+                  <orig>fatēt݃</orig>
+                  <reg>fatentur</reg>
+            </choice> nutu <choice>
+                  <seg type="lucas">s(u)b</seg>
+                  <orig>sḃ</orig>
+                  <reg>sub</reg>
+            </choice>
+            <lb break="no"/>dita. Te <choice>
+                  <seg type="lucas">dep(re)cam(ur)</seg>
+                  <orig>dep̄cam݃ </orig>
+                  <reg>deprecamur</reg>
+            </choice> agye <lb/>
+            <choice>
+                  <seg type="lucas">ve(n)ture</seg>
+                  <orig>vēture</orig>
+                  <reg>venture</reg>
+            </choice> iudex <choice>
+                  <seg type="lucas">s(e)c(u)li</seg>
+                  <orig>scl͘i</orig>
+                  <reg>seculi</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">s(er)va</seg>
+                  <orig>ɔsv̇a</orig>
+                  <reg>conserva</reg>
+            </choice> nos <lb/>
+            <choice>
+                  <seg type="lucas">i(n)</seg>
+                  <orig>ī</orig>
+                  <reg>in</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">t(em)p(or)e</seg>
+                  <orig>tꝑe</orig>
+                  <reg>tempore</reg>
+            </choice> hostis a celo <choice>
+                  <seg type="lucas">p(er)fidi.</seg>
+                  <orig>ꝑfidi.</orig>
+                  <reg>perfidi.</reg>
+            </choice>
+            <lb/>Laus <choice>
+                  <seg type="lucas">ho(no)r</seg>
+                  <orig>hōr</orig>
+                  <reg>honor</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">b(ea)t(us)</seg>
+                  <orig>ḃtꝰ</orig>
+                  <reg>beatus</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">gl(ori)a</seg>
+                  <orig>gl͘a</orig>
+                  <reg>gloria</reg>
+            </choice> deo <lb/>
+            <choice>
+                  <seg type="lucas">p(at)ri</seg>
+                  <orig>pr̄i</orig>
+                  <reg>patri</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">(et) </seg>
+                  <orig>+ </orig>
+                  <reg>et </reg>
+            </choice> "filio <choice>
+                  <seg type="lucas">s(an)c(t)o</seg>
+                  <orig>sc̄o</orig>
+                  <reg>sancto</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">si(mu)l</seg>
+                  <orig>sil͘</orig>
+                  <reg>simul</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">p(ar)aclito</seg>
+                  <orig>ꝑaclito</orig>
+                  <reg>paraclito</reg>
+            </choice>
+            <lb/>
+            <choice>
+                  <seg type="lucas">i(n)</seg>
+                  <orig>ī</orig>
+                  <reg>in</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">se(m)pit(er)na</seg>
+                  <orig>sēpiṫna</orig>
+                  <reg>sempiterna</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">s(e)c(u)la.</seg>
+                  <orig>scl͘a.</orig>
+                  <reg>secula.</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">Ame(n).</seg>
+                  <orig>Amē.</orig>
+                  <reg>Amen.</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">V(ersiculus)</seg>
+                  <orig>V̇</orig>
+                  <reg>Versiculus</reg>
+            </choice> Ro <lb break="no"/>rate celi <choice>
+                  <seg type="lucas">desup(er).</seg>
+                  <orig>desuꝑ.</orig>
+                  <reg>desuper.</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">(et) </seg>
+                  <orig>+ </orig>
+                  <reg>et </reg>
+            </choice> nubes <lb/>
+            <choice>
+                  <seg type="lucas">plua(n)t</seg>
+                  <orig>pluāt</orig>
+                  <reg>pluant</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">iustu(m).</seg>
+                  <orig>iustū.</orig>
+                  <reg>iustum.</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">Ap(er)iat(ur)</seg>
+                  <orig>Aꝑiat݃</orig>
+                  <reg>Aperiatur</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">t(er)ra</seg>
+                  <orig>ṫra</orig>
+                  <reg>terra</reg>
+            </choice>
+            <lb/>
+            <choice>
+                  <seg type="lucas">(et) </seg>
+                  <orig>+ </orig>
+                  <reg>et </reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">g(er)mi(n)et</seg>
+                  <orig>ġmīet</orig>
+                  <reg>germinet</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">salvatore(m).</seg>
+                  <orig>salvatorē.</orig>
+                  <reg>salvatorem.</reg>
+            </choice> Ad. <choice>
+                  <seg type="lucas">i(?).</seg>
+                  <orig>ï.</orig>
+                  <reg>prima.</reg>
+            </choice>
+            <lb/>
+            <choice>
+                  <seg type="lucas">a(lleluia?).</seg>
+                  <orig>ä.</orig>
+                  <reg>antiphon.</reg>
+            </choice> Veni <choice>
+                  <seg type="lucas">(et) </seg>
+                  <orig>+ </orig>
+                  <reg>et </reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">lib(er)a</seg>
+                  <orig>liḃa</orig>
+                  <reg>libera</reg>
+            </choice> nos <choice>
+                  <seg type="lucas">d(eu)s</seg>
+                  <orig>ḋs</orig>
+                  <reg>deus</reg>
+            </choice>
+            <lb/>
+            <choice>
+                  <seg type="lucas">n(oste)r.</seg>
+                  <orig>nr̄.</orig>
+                  <reg>noster.</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">R(esponsorium).</seg>
+                  <orig>℞.</orig>
+                  <reg>Responsorium.</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">Ih(ese)u.</seg>
+                  <orig>Iḣu.</orig>
+                  <reg>Iheseu.</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">V(espers)</seg>
+                  <orig>V̇</orig>
+                  <reg>Versiculus.</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">Q(ui)</seg>
+                  <orig>Q̇</orig>
+                  <reg>Qui</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">ve(n)turus</seg>
+                  <orig>vēturus</orig>
+                  <reg>venturus</reg>
+            </choice>
+            <lb/>es <choice>
+                  <seg type="lucas">i(n)</seg>
+                  <orig>ī</orig>
+                  <reg>in</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">m(un)d(u)m.</seg>
+                  <orig>mḋm.</orig>
+                  <reg>mundum.</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">m(?).</seg>
+                  <orig>m̈.</orig>
+                  <reg>Magnificat.</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">an(tiphon).</seg>
+                  <orig>an̈.</orig>
+                  <reg>antiphon.</reg>
+            </choice> Veni </ab>
+      <ab type="translation" xml:id="p0282_translation" corresp="#p0282_transcription"> the spotless
+            Victim all divine. At whose dread Name, majestic now, all knees must bend, all hearts
+            must bow; and things celestial Thee shall own, and things terrestrial Lord alone.
+            <!-- preces latinae hymn, linked in doc. continued --> O Holy One, to Thee we pray, who
+            comest at the Judgement-day, Protect us here from every blow, Aimed at us by the crafty
+            foe. All glory, honor, virtue, laud, We pay Thee, Everlasting God, The Father, and the
+            Only Son, And Holy Spirit, Three in One.
+            <!-- linked in doc, "The Hymns of the Dominican Missal and Breviary" pg 55 --> Amen.
+            Versicle. Drop down dew, you heavens, from above, and let the clouds rain the just one.
+            Let the earth be opened and bud forth a Savior. <!-- DM 10 --> At i.
+            <!-- not sure what this is referring to --> Antiphon. Come and deliver us, Our God.
+            <!-- google translate --> Response. Jesus. Versicle. Who is to come into the world.
+            <!-- DRB John 6:14 --> Magnificat. Antiphon. Come, O Lord, and do not delay: forgive the
+            sins of Your people Israel. <!-- continues, DM 25 -->
+      </ab>
 </div>
