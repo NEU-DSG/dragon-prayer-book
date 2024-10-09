@@ -91,12 +91,12 @@
 	<choice>
 		       <seg type="lucas">v(ersu)s</seg>
 		       <orig>v̈s</orig>
-		       <reg>versus</reg>
+		       <reg>vesperas</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">cap(ite).</seg>
 		       <orig>cap̄.</orig>
-		       <reg>capite.</reg>
+		       <reg>capitulum.</reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -280,6 +280,15 @@
 
    <ab type="translation"
        xml:id="p0501_translation"
-       corresp="#p0501_transcription"/>
+       corresp="#p0501_transcription">Exalt ye the Lord our God, and adore at his at his holy mountain: 
+         for the Lord our God is holy.<!-- Psalm 98 DRB--> The Feast of Saint Dominic at vespers. Chapter. 
+         <!-- Translation Workflow --> He shone in his days as the morning star in 
+         the midst of a cloud, and as the full moon. And as the sun when it shines, so did he shine in 
+         the temple of God.<!--Ecclus. 50, 6-9 (p. 699) SDM--> [Thanks be to] God.<!-- Translation Workflow -->
+         Rejoice, sweet Mother Church, to whom this happy fetal day is given, in mind of him who thy womb
+         is born a saint this day to Heaven. Our mighty Father, who led forth and marshalled his great 
+         preacher-host, with glory crowned now leaves this earth to dwell on Heavan's blissful coast. 
+         From the prison of flesh set free, <!-- Hymn 113 (p. 400-403) HDMB --> 
+         </ab>
 
 </div>
