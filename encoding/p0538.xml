@@ -60,12 +60,12 @@
 	     <choice>
 		       <seg type="lucas">M(a)g(na)</seg>
 		       <orig>Mg̈</orig>
-		       <reg>Magna</reg>
+		       <reg>Magnificat</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>antiphon.</reg>
 	     </choice> 
  
 	     <choice>
@@ -347,16 +347,25 @@
    <ab type="translation"
        xml:id="p0538_translation"
        corresp="#p0538_transcription">
-        His be the glory, power and salvation, who over all things reigneth in teh highest, Earth's mighty
-        fabric ruling and directing, Onely and Trinal. <!-- HDMB pg 625 --> Amen. Versicle. 
-        
+        His be the glory, power and salvation, who over all things reigneth in the highest, Earth's mighty
+        fabric ruling and directing, Onely and Trinal. <!-- HDMB pg 625, continued from previous page--> Amen. Versicle. 
+         The Lord loved
+         him and adorned him. <!-- DM pg 938 --> [My soul doth] magnify [the Lord.] <!-- this is a guess about what Mg could stand for. it also doesn't look quite like an M. -->
+        Antiphon.
         O Confessor of the Lord N. assist, by thy holy intercession the people
          here present, that, oppressed by the weight
          of imperfections, we
          may be supported by
          the glory of thy happiness, and, guided by
          thee, attain to eternal rewards. Versicle. Pray for us,
-         Blessed N. <!-- OBDS pg 249 -->
+         Blessed N. <!-- OBDS pg 249 --> Versicle. Pray for us, blessed N. In l<!-- need to figure out what this means. -->
+        Antiphon. Master, You did hand over
+         to me five talents; behold, I have gained five others in
+         addition. <!-- DM 1183 / Matt 25 -->
+         Blessed is that servant whom his master, when he comes,
+         shall find so doing. <!-- DM 692 / Matthew 24 --> Antiphon. 
+         A faithful and prudent
+         steward, whom the master will set over his hoμsehold. <!-- DM 788 / Luke 12, 42 continues to next page -->
          
    </ab>
 
