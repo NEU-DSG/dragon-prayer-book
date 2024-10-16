@@ -72,7 +72,7 @@
 	     <choice>
 		       <seg type="lucas">Or(?)o.</seg>
 		       <orig>Or̄o.</orig>
-		       <reg>Or?o.<!--  check expansion --></reg>
+		       <reg>Oratio.</reg>
 	     </choice> 
  
 	     <choice>
@@ -94,7 +94,7 @@
 	<choice>
 		       <seg type="lucas">i(ubilate?).</seg>
 		       <orig>ï.</orig>
-		       <reg>iubilate?.<!--  check expansion --></reg>
+		       <reg>primam.</reg>
 	     </choice> 
  Ave
 <lb/>maria. 
@@ -116,7 +116,7 @@
 	     <choice>
 		       <seg type="lucas">(h)y(mnus?).</seg>
 		       <orig>ȳpꝰ.</orig>
-		       <reg>hymnus?.</reg>
+		       <reg>hymnus.</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -234,8 +234,48 @@
        And pray to Christ for us, that we, 
        being upholden by thy care, may deserve 
        to attain to the heavenly kingdom. 
-       <!-- OBDS p. 80 -->
-       <!-- looks like some adjustments to the code may be needed for the next phrase. Check next time.  -->
+       O Lord, [hear my prayer.] 
+       And let my cry [come unto thee.]
+       Oremus. Oratio.
+       Grant, we beseech Thee, [O Lord God,
+       that we Thy servants
+       may enjoy continual
+       health of mind and
+       body; and that,
+       through the glorious
+       intercession of
+       Blessed Mary, ever
+       Virgin, we may be delivered from present
+       sorrow and hereafter
+       enjoy eternal happiness. Through Christ
+       our Lord.] 
+       <!-- OBDs p80 -->
+       Antiphon.
+       O all ye saints of God,
+       [vouchsafe to intercede for the 
+       salvation of us and of all mankind.]
+       <!-- OBDS p90 -->
+       At prime. Ave Maria.
+       [Incline unto my] aid, O God. 
+       [O God, make haste to help me.]
+       <!-- standard prayer -->
+       Hymn. 
+       Author of grace, sweet Saviour of mine, 
+       Remember that Thy flesh divine, 
+       From the unsullied Virgin came
+       Made like unto our mortal frame. 
+       O Mary, Mother of all grace, 
+       Mother of mercy to our race, 
+       Protect us now from Satan's power. 
+       And own us at life's closing hour. 
+       All glory be to Thee, O Lord, 
+       A Virgin's Son
+       <!-- OBDS p112 -->
+       
+       
+       
+       
+     
    </ab>
 
 </div>
