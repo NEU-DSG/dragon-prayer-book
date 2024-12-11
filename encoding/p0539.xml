@@ -23,7 +23,7 @@
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>antiphon.</reg>
 	     </choice> 
  Ecce vere
 <lb/>
@@ -96,18 +96,18 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">donu(m)</seg>
-		       <orig>donū</orig>
-		       <reg>donum</reg>
+	           <orig>domī</orig> 
+		       <reg>domini</reg>
 	     </choice> tui. 
 	<choice>
 		       <seg type="lucas">Cap(ite)</seg>
 		       <orig>Cap̄</orig>
-		       <reg>Capite</reg>
+		       <reg>Capitulum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Dilcu(n)s.</seg>
 		       <orig>Dilcūs.</orig>
-		       <reg>Dilcuns.</reg>
+		       <reg>Dilcuns.</reg> <!-- I think this is incorrect but I can't figure out what it should be.--> 
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">y(mnus)</seg>
@@ -234,8 +234,8 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">spie(n)s</seg>
-		       <orig>spiēs</orig>
-		       <reg>spiens</reg>
+		       <orig>spuēs</orig>
+		       <reg>spuens</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">cu(m)</seg>
@@ -311,6 +311,16 @@
 
    <ab type="translation"
        xml:id="p0539_translation"
-       corresp="#p0539_transcription"/>
+       corresp="#p0539_transcription">whom the master will set over his hoμsehold. <!-- DM 788 / DRB  Luke 12, 42 --> 
+         Antiphon. Behold an Israelite indeed, in whom there is no guile. <!-- DRB John 1:47 --> Antiphon. Good and faithful servant: enter thou into the joy of thy
+         lord. <!-- DRV Matthew 25:21 --> Chapter. Dilcuns. <!-- I really cannot tell what this says but I think it is probably more like Dilitui... --> Hymn. 
+         Jesu! The world's REdeemer, hear; Thy prelates' fadeless crown, draw near: Accept with gentlest love today the prayers and praises that we pay. This meek Confessor of Thy name Today
+         arrained a glorious fame; whose yearly feast, in solemn state, thy faithful people celebrate. The world and all its boasted good, as vain and passing, he eschewed; and therefore with angelic 
+         bands in endless joys forever stands. Grant then that we, most gracious God, may follow in the steps he trod: and at his prayer thy servants free from stain of all iniquity. 
+         <!--HDMB 625-627, continues onto next page --> 
+              
+         
+   
+   </ab>
 
 </div>
