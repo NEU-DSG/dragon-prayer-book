@@ -29,7 +29,7 @@
 	     <choice>
 		       <seg type="lucas">piissi(n)e</seg>
 		       <orig>piissiē</orig>
-		       <reg>piissine</reg>
+		       <reg>piissime</reg>
 	     </choice> tibi 
 	<choice>
 		       <seg type="lucas">p(at)riq(ue)</seg>
@@ -330,6 +330,8 @@
 
    <ab type="translation"
        xml:id="p0540_translation"
-       corresp="#p0540_transcription"/>
+       corresp="#p0540_transcription"> from stain of all iniquity. To Thee, O Christ, our loving King, all glory, praise, and thanks we bring: All glory, as is ever meet, 
+   to Father and to Paraclete. Amen. Versicle. <!-- HDMB pg 627, continued from previous page --> The just shall flourish like the lily. And shall prosper for ever before the Lord.
+   <!-- OBVM 301 --> Benedictus. Antiphon. </ab>
 
 </div>
