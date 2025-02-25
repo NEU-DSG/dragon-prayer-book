@@ -285,12 +285,10 @@
 		       <reg>quia</reg>
 	     </choice> peccavi nimis co⸗
 
-
-* [[patri nostro]]
 	<choice>
 		       <seg type="lucas">det(?)</seg>
-		       <orig>etº</orig>
-		       <reg>et</reg>
+		       <orig>*etº</orig>
+		       <reg>*et</reg>
 	     </choice> omnibus
  sanctis
 
