@@ -123,7 +123,7 @@
 	     </choice> 
          <choice>
                   <seg type="lucas">corr(ect)io</seg> <!--Hello digitizer! This word can be found scribbled in the left margin of the page; don't-->
-                  <orig>corrio</orig>                 <!--worry if you can't tell what symbol was used to abbreviate it––I honestly suspect no-->
+                  <orig xml:id="n031">corrio</orig>  <!--worry if you can't tell what symbol was used to abbreviate it––I honestly suspect no-->
                   <reg>correctio</reg>                <!--marking was used at all due to it being written in the margin. Just leave a note!-->
          </choice>sedis
 <lb/>

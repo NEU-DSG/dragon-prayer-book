@@ -34,7 +34,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">o(mne)s</seg>
-		       <orig>ōs</orig>
+		       <orig xml:id="n006">ōs</orig>
 		       <reg>omnes</reg>
 	     </choice> 
 	     <choice>

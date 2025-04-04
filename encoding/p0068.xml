@@ -98,8 +98,8 @@
 
          <choice> 
 		       <seg type="lucas">nine(m):</seg>
-		       <orig>ninē:</orig>
-		       <reg> <supplied> ho </supplied> minem:</reg> <!-- marginalia -->
+		       <orig xml:id="n005">ninē:</orig>
+		       <reg> <supplied> ho </supplied> minem:</reg> 
          </choice>   hor  
          <lb break="no"/>ruisti <!-- I'm confused about why this is lb =no -->
 	<choice>

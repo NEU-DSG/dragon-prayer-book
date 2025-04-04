@@ -182,9 +182,9 @@
 <lb/>videbo 
 	<choice>
 		       <seg type="lucas">deu(m).</seg>
-		       <orig>deū.</orig>
+		       <orig xml:id="n023">deū.</orig>
 		       <reg>deum.</reg>
-	     </choice> \\salvatorum meum//
+	     </choice> 
 	<choice>
 		       <seg type="lucas">Que(m)</seg>
 		       <orig>Quē</orig>

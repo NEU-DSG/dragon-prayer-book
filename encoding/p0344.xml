@@ -246,7 +246,7 @@
 	     </choice> fu⸗        |
 	<choice>
 		       <seg type="lucas">Co(n)verte(re).viii</seg>
-		       <orig>Cōvertė.viii</orig>
+		       <orig xml:id="n020">Cōvertė.viii</orig>
 		       <reg>Convertere.viii</reg>
 	     </choice>
    </ab>

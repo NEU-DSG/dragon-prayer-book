@@ -434,7 +434,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(omi)n(u)s.</seg>
-		       <orig>dn̄s.</orig>
+		       <orig xml:id="n011">dn̄s.</orig>
 		       <reg>dominus.</reg>
 	     </choice>
    </ab>

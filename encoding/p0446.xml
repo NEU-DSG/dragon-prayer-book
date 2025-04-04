@@ -56,10 +56,10 @@
 	           <orig>cū</orig>
 		       <reg>cum</reg>
 	     </choice> s t.                                or e
-X 7 
+ 
 	<choice>
 		       <seg type="lucas">S(an)c(t)e</seg>
-		       <orig>Sc̄e</orig>
+		       <orig xml:id="n026">Sc̄e</orig>
 		       <reg>Sancte</reg>
 	     </choice> maurici 
 	<choice>
@@ -67,13 +67,13 @@ X 7
 		       <orig>c̄</orig>
 		       <reg>cum</reg>
 	     </choice> s t                        or e
-x 8 
+
 	<choice>
 		       <seg type="lucas">S(an)c(t)e</seg>
 		       <orig>Sc̄e</orig>
 		       <reg>Sancte</reg>
 	     </choice> Sebastiane                                or e
-X 9 
+
 	<choice>
 		       <seg type="lucas">S(an)c(t)e</seg>
 		       <orig>Sc̄e</orig>
@@ -85,7 +85,7 @@ X 9
 		       <orig>Sc̄e</orig>
 		       <reg>Sancte</reg>
 	     </choice> petre                                        or e
-+ 11 
+
 	<choice>
 		       <seg type="lucas">O(mne)s</seg>
 		       <orig>Os̄</orig>

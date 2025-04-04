@@ -387,7 +387,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝓ</orig>
+		       <orig xml:id="n040">ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice>
    </ab>

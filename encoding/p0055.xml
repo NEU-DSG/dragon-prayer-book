@@ -28,7 +28,7 @@
       <lb/>audieritis 
 	<choice>
 		       <seg type="lucas">noli(te)</seg>
-		       <orig>noli</orig> <!-- this is crossed out, what do we do? -->
+		       <orig xml:id="n003">noli</orig>
 		       <reg>nolite</reg>
 	     </choice> obdura
 <lb break="no"/>re corda 
@@ -209,7 +209,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">mea(m).</seg>
-		       <orig>meā.</orig>
+		       <orig xml:id="n004">meā.</orig>
 		       <reg>meam.</reg>
 	     </choice> 
 	     <choice>
