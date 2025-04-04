@@ -48,15 +48,17 @@
 	I signed off my comments with my initials, CEL.-->
 	<hyperDiv>
 		<note xml:id="n000" target="#p0003" anchored="true" xml:lang="en" type="editorial">
-			<p><figure>M</figure> <!-- This is potentially an initial or an abbreviation for mulier (woman) or Maria/Mary. This page is not encoded, so the target id does not link 
+			<p><figure>M</figure> <!-- This is potentially an initial or an abbreviation for mulier (woman) or Maria/Mary. 
+				This page is not encoded, so the target id does not link 
 				to an actual xml file. CEL --></p></note>
 		<note xml:id="n001" target="p0003" anchored="true" xml:lang="en" type="editorial">
-			<p><figure><del>✝</del></figure> <!-- This scribbled-out cross has a small circle within it, making it look similar to a Celtic or Basalt cross. It may also be a generic cruciform 
+			<p><figure><del>✝</del></figure> <!-- This scribbled-out cross has a small circle within it,
+				making it look similar to a Celtic or Basalt cross. It may also be a generic cruciform 
 				halo cross/ringed cross. This page is not encoded, so the target id does not link 
 				to an actual xml file. CEL --></p></note>
 		<note xml:id="n002" target="p0042.xml" anchored="true" xml:lang="la" type="authorial">
 			<p><add>Ignē.</add></p></note>
-		<<note xml:id="n003" target="p0055.xml" anchored="true" xml:lang="la" type="editorial">
+		<note xml:id="n003" target="p0055.xml" anchored="true" xml:lang="la" type="editorial">
 			<p><corr>Nolite</corr></p></note>
 		<note xml:id="n004" target="p0055.xml" anchored="true" xml:lang="la" type="editorial">
 			<p><corr>[ami] in j[esu] meas[?] requiem meam</corr></p></note>
