@@ -191,9 +191,9 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">fam(u)li</seg>
-		       <orig>faml͘i</orig>
+		       <orig xml:id="n024">faml͘i</orig>
 		       <reg>famuli</reg>
-	     </choice>        fac
+	     </choice>        
 <lb break="no"/>tui 
 	<choice>
 		       <seg type="lucas">qua(m)</seg>

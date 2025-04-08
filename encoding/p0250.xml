@@ -235,7 +235,7 @@
 	     </choice> fide; Tu 
 	<choice>
 		       <seg type="lucas">a(u)t(em).*</seg>
-		       <orig>at̄.*</orig>
+		       <orig xml:id="n015">at̄.*</orig>
 		       <reg>autem.*</reg>
 	     </choice> Adiu
 <lb break="no"/>

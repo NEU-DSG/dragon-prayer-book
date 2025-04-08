@@ -34,7 +34,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">D(eu)s</seg>
-	             <orig>Ḋs</orig>
+	             <orig xml:id="n008">Ḋs</orig>
 		       <reg>Deus</reg>
 	     </choice> cui 
 	<choice>

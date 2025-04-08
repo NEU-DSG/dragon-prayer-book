@@ -145,10 +145,9 @@
       <reg>ioannes</reg>
     </choice> 
  baptista                or e
-+ 11 
  <choice>
       <seg type="lucas">O(mne)s</seg>
-      <orig>Os̄</orig>
+      <orig xml:id="n025">Os̄</orig>
       <reg>Omnes</reg>
     </choice> 
     <choice>
