@@ -116,7 +116,7 @@
 		       <seg type="lucas">Q(ui)</seg>
 		       <orig>Q̇</orig>
 		       <reg>Qui</reg>
-	     </choice> vi.        Mathie 
+	     </choice> vi.        Matthiam
 	<choice>
 		       <seg type="lucas">ap(u)li</seg>
 		       <orig>apl͘i</orig>
@@ -259,6 +259,22 @@
 
    <ab type="translation"
        xml:id="p0562_translation"
-       corresp="#p0562_transcription"/>
+       corresp="#p0562_transcription">
+         St. Peter’s Chair at Rome 
+         O God, who in giving the keys of the kingdom of heaven 
+         to blessed Peter, Your apostle, 
+         endowed him with power to bind. and loose; 
+         <!-- DM pg 777 -->
+         grant us, by the help of his prayers, 
+         to be loosed from the bonds. of our sins:
+         who live and reign.
+         <!-- DM pg 778 -->
+         St. Matthias Apostle 
+         O God, who numbered blessed Matthias among the company of Your apostles,
+         grant, we beseech You,
+         that through his intercession we may ever be sensible of
+         Your compassion and love: through our Lord.
+         <!-- DM pg 834 -->
+   </ab>
 
 </div>
