@@ -276,11 +276,10 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">celeb(ra)t</seg>
-		       <orig>celeb̈t</orig>
+		       <orig xml:id="n036">celeb̈t</orig>
 		       <reg>celebrat</reg>
 	     </choice>
-      <lb/>S?on ?[**] Confesorum? <!-- marginalia --> 
-
+      
 
 </ab>
 

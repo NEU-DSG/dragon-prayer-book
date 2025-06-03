@@ -265,7 +265,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(omi)nico*</seg>
-		       <orig>dn̄ico*</orig>
+		       <orig xml:id="n016">dn̄ico*</orig>
 		       <reg>dominico*</reg>
 	     </choice> 
 	     <choice>
@@ -285,12 +285,10 @@
 		       <reg>quia</reg>
 	     </choice> peccavi nimis co⸗
 
-
-* [[patri nostro]]
 	<choice>
 		       <seg type="lucas">det(?)</seg>
-		       <orig>etº</orig>
-		       <reg>et</reg>
+		       <orig>*etº</orig>
+		       <reg>*et</reg>
 	     </choice> omnibus
  sanctis
 

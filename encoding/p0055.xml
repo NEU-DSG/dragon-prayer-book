@@ -28,7 +28,7 @@
       <lb/>audieritis 
 	<choice>
 		       <seg type="lucas">noli(te)</seg>
-		       <orig>noli</orig> <!-- this is crossed out, what do we do? -->
+		       <orig xml:id="n003">noli</orig>
 		       <reg>nolite</reg>
 	     </choice> obdura
 <lb break="no"/>re corda 
@@ -209,7 +209,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">mea(m).</seg>
-		       <orig>meā.</orig>
+		       <orig xml:id="n004">meā.</orig>
 		       <reg>meam.</reg>
 	     </choice> 
 	     <choice>
@@ -270,6 +270,19 @@
 
    <ab type="translation"
        xml:id="p0055_translation"
-       corresp="#p0055_transcription"/>
+       corresp="#p0055_transcription">
+         [Our] King, [a Virgin’s son,] O come [let us adore. ]As it was in the beginning, is now, and ever shall be, world without end.]
+         V. Today, if ye shall hear His voice, harden not your hearts, as in the provocation, according to the day of temptation in the wilderness where your fathers tempted Me and proved Me and saw my works.
+         Forty years long was I offended with that generation, and 1 said: These men do 
+         <!--OBDS p. 26 -->
+         always err in heart; but My ways they have not known, so I swore in My wrath, that they shall not enter into My rest.
+         [Our] King, [a Virgin’s son, O come let us adore.]
+         Glory be to the Father,[ and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end.]
+         [Our] King, [a Virgin’s son,] O come [let us adore. ]As it was in the beginning, is now, and ever shall be, world without end.]
+         Hymnus 
+         WHOM earth, and sea and sky proclaim The Ruler of their triple frame 
+         <!--OBDS p. 28  -->
+         
+   </ab>
 
 </div>

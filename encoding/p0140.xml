@@ -21,13 +21,13 @@
 		       <orig>dn̄s</orig>
 		       <reg>dominus</reg>
 	     </choice> susce⸗
-ptor 
+ptor
 	<choice>
 		       <seg type="lucas">e(st)</seg>
 	             <orig>ē</orig>
 		       <reg>est</reg>
 	     </choice> 
-	     <choice>
+         <choice xml:id="n0010">
 		       <seg type="lucas">a(n)i(m)e</seg>
 	             <orig>aīe</orig>
 		       <reg>anime</reg>

@@ -52,9 +52,9 @@
 	     <choice>
 	           <!-- 0308 applied on Q but not appearing  -->
 		       <seg type="lucas">Q(ua)re</seg>
-		       <orig>Q̈re</orig>
+		       <orig xml:id="n021">Q̈re</orig>
 		       <reg>Quare</reg>
-	     </choice> <supplied>me</supplied> posuisti *
+	     </choice> posuisti *
 	     <choice>
 		       <seg type="lucas">t(ra)riu(m)</seg>
 		       <orig>ɔẗriū</orig>

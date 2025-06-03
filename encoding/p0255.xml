@@ -19,7 +19,7 @@
 		       <seg type="lucas">enut(ri)es</seg>
 		       <orig>enuṫes</orig>
 		       <reg>enutries</reg>
-	     </choice> me. <seg next="#seg255">Edu⸗</seg>
+	     </choice> me. <seg next="#seg255" xml:id="n018">Edu⸗</seg>
 *hoc    <seg xml:id="seg255">ces</seg> me de <!-- check transcription here I think there's something missing -->
 	<choice>
 		       <seg type="lucas">laq(ue)o+que(m)</seg>

@@ -124,12 +124,12 @@
 	     <choice>
 		       <seg type="lucas">b(?)</seg>
 		       <orig>ḃ</orig>
-		       <reg>b?<!-- check expansion --></reg>
+		       <reg>benedictus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">an(tiphon?).</seg>
 		       <orig>an̈.</orig>
-		       <reg>antiphon?.<!--  check expansion --></reg>
+		       <reg>antiphon.</reg>
 	     </choice> 
  Euge serve 
 	<choice>
@@ -162,7 +162,7 @@
 	     <choice>
 		       <seg type="lucas">p(ra)</seg>
 		       <orig>p̈</orig>
-		       <reg>pra</reg>
+		       <reg>per</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">m(u)lta</seg>
@@ -187,7 +187,7 @@
 	<choice>
 		       <seg type="lucas">cap(ite?)</seg>
 		       <orig>cap̄</orig>
-		       <reg>capite?</reg>
+		       <reg>capitulum.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Dilcu(n?)s.</seg>
@@ -256,7 +256,7 @@
 	     <choice>
 		       <seg type="lucas">cap(ut).</seg>
 		       <orig>cap̄.</orig>
-		       <reg>caput.</reg>
+		       <reg>capitulum.</reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -341,5 +341,4 @@
        The just man will give his
        heart to seek the Lord, his Maker, to petition the Most
        High, <!-- DM 848 continues to next page --></ab>
-
 </div>

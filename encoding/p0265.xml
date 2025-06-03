@@ -116,7 +116,7 @@
 		       <seg type="lucas">i(n)sidia(n)tes</seg>
 		       <orig>īsidiātes</orig>
 		       <reg>insidiantes</reg>
-	     </choice> <seg next="#seg265">re⸗</seg> +
+	     </choice> <seg next="#seg265" xml:id="n019">re⸗</seg> +
 <lb/>
 	     <seg xml:id="seg265">
          <choice>
