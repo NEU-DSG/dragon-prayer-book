@@ -34,7 +34,7 @@
 		       <seg type="lucas">na(ra?)</seg>
 		       <orig>nä</orig>
 		       <reg>nara?<!--  check expansion --></reg>
-	     </choice> 
+	</choice>  natalitia 
       <lb break="no"/>licia 
 	<choice>
 		       <seg type="lucas">cole(re)</seg>
@@ -281,6 +281,26 @@
 
    <ab type="translation"
        xml:id="p0535_translation"
-       corresp="#p0535_transcription"/>
+       corresp="#p0535_transcription">
+         O God, You allow us to keep the feast
+         of Your holy martyrs N. and N.; may we enjoy their company
+         in everlasting bliss: through our Lord. 
+         <!-- DM pg 683 -->
+         Memory of Saints Gordianus and Epimachus 
+         Grant, we beseech You, almighty God,
+         that we who keep the feast of Your blessed martyrs, 
+         Gordianus and Epimachus, 
+         may be helped by their prayers to You:
+         through our Lord.
+         <!-- DM pg 921 -->
+         Light and Modesty. Gervasius and Protasius Collect. 
+         <!-- Google Translate -->
+         O God, who year by year gladden us
+         by the feast of Your apostles Philip and James; 
+         grant, we pray, that even as we rejoice in their merits,
+         we may be taught by their example: 
+         through our Lord. 
+         <!-- DM pg 924 -->
+   </ab>
 
 </div>
