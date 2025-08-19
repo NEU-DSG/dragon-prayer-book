@@ -71,7 +71,7 @@
 	     <choice>
 		       <seg type="lucas">p(at)ra?</seg>
 		       <orig>pr̄a</orig>
-		       <reg>prasta</reg>
+		       <reg>presta</reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -152,7 +152,7 @@
 		       <orig>ꝓcopii.</orig>
 		       <reg>procopii.</reg>
 	     </choice>
-      <lb/>Beruhardi. Egidii.
+      <lb/>Bernhardi. Egidii.
 <lb/>
 	     <choice>
 		       <seg type="lucas">INt(er)cessio</seg>
@@ -237,6 +237,15 @@
 
    <ab type="translation"
        xml:id="p0543_translation"
-       corresp="#p0543_transcription"/>
+       corresp="#p0543_transcription"> You may free us from all sins: through [our Lord]. <!-- DM 797, continued from previous page -->
+         Ambrose, Remigius collect. O God, You gave to Your people blessed N.,
+         as a minister of eternal salvation; grant we beseech You,
+         that he whom we had on earth as a teacher of life, we
+         may deserve to have as an intercessor in heaven:
+         through our Lord. <!-- DM 697 --> Saints Maurus, Anthony, Benedict, Procopius, Bernard, Giles. Let the intercession of the blessed abbot, N.,
+         commend us, we pray You, O Lord, so that what we
+         cannot gain by our own merits, we may obtain by his
+         patronage: through [our Lord.] <!-- DM 710 --> Saints Paul, Esubius, Jerome, Edward. 
+   </ab>
 
 </div>
