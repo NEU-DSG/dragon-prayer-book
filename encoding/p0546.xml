@@ -47,7 +47,7 @@
 		       <orig>mortē</orig>
 		       <reg>mortem</reg>
 	     </choice> nec amica mor
-<lb break="no"/>tis sen?a 
+<lb break="no"/>tis seva 
 	<choice>
 		       <seg type="lucas">pena(rum)</seg>
 		       <orig>penaꝝ</orig>
@@ -56,18 +56,18 @@
 	     <choice>
 		       <seg type="lucas">g(e)n(er)a?</seg>
 		       <orig>gṅa?</orig>
-		       <reg>genera?</reg>
+		       <reg>genera</reg>
 	     </choice> pave
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">s(an)c(t)es</seg>
 		       <orig>scēs</orig>
-		       <reg>sanctes</reg>
+		       <reg>scens</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sa(n)g(ui)ne(m)</seg>
 		       <orig>sāġnē</orig>
-		       <reg>sanguinem</reg>
+		       <reg>sanguine</reg>
 	     </choice> fuso meruit sa
 <lb break="no"/>
 	     <choice>
@@ -78,7 +78,7 @@
 	     <choice>
 		       <seg type="lucas">s(an)c(t)ade(re)</seg>
 		       <orig>scādė</orig>
-		       <reg>sanctadere</reg>
+		       <reg>scandere</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">celu(m).</seg>
@@ -120,7 +120,7 @@
 	<choice>
 		       <seg type="lucas">mitt(?)es</seg>
 		       <orig>remittēs</orig>
-		       <reg>remitt?es<!--  check expansion --></reg>
+		       <reg>remittens</reg>
 	     </choice> 
  
 	     <choice>
@@ -194,7 +194,7 @@
 	     <choice>
 		       <seg type="lucas">sp(er)</seg>
 		       <orig>sꝑ</orig>
-		       <reg>sper</reg>
+		       <reg>semper</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sp(iritu)s</seg>
@@ -225,7 +225,7 @@
 	     <choice>
 		       <seg type="lucas">sec(u)li.</seg>
 		       <orig>secli.</orig>
-		       <reg>seculi. <!-- I don't see a diacritic here --></reg>
+		       <reg>secli.</reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -262,12 +262,12 @@
 	     <choice>
 		       <seg type="lucas">M(a)g(na)</seg>
 		       <orig>M̈</orig>
-		       <reg>Magna</reg>
+		       <reg>Magnificat</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
  Ista
 <lb/>
@@ -302,6 +302,19 @@
 
    <ab type="translation"
        xml:id="p0546_translation"
-       corresp="#p0546_transcription"/>
+       corresp="#p0546_transcription">Lo, on Thy handmaid fell a twofold blessing,
+         Who, in her body vanquishing the weakness,
+         It that same body, grace from Heaven obtaining, 
+         Bore the world Witness.
+   Death nor the rending pains of death appalled her; 
+   Bondage and torment found her undefeated:
+   So by the shedding of her blood attained she Heavenly guerdon. 
+   Fountain of mercy, hear the prayer she offers;
+   Purge our offesnes, pardon our transgressions, 
+   SO that hereafter we to Thee may render Praise with thanksgiving. 
+   Thou, the All-Father, Thou, the One-begotten, 
+   Thou, Holy Spirit, Three in One co-equal, Glory be henceforth Thine through all the ages, 
+   World without ending. <!-- Hymns of the Dominican Missal and breviary pg 647-649, continued from prev page --> Amen. 
+   Versicle. <!-- NOT DONE YET WITH THIS PAGE!--> </ab>
 
 </div>
