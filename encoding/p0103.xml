@@ -176,9 +176,8 @@
             </choice> re <lb break="no"/>
             <choice>
                   <seg type="lucas">gi(n)a</seg>
-                  <orig>gīa</orig>
+                  <orig xml:id="n007">gīa</orig>
                   <reg>gina</reg>
-            </choice> <supplied>mundi</supplied> <choice>
                   <seg type="lucas">i(n)t(er)cede</seg>
                   <orig>īṫcede</orig>
                   <reg>intercede</reg>

@@ -73,15 +73,10 @@
 <lb/>amoris 
 	<choice>
 		       <seg type="lucas">i(n)</seg>
-		       <orig>ī</orig>
+		       <orig xml:id="n002">ī</orig>
 		       <reg>in</reg>
 	     </choice> eis \\
-	<choice>
-		       <seg type="lucas">igne(m)//</seg>
-		       <orig>ignē//</orig>
-	      <!-- How to represent this being off to the side? -->
-		       <reg>ignem//</reg>
-	     </choice> 
+ 
 	     <choice>
 		       <seg type="lucas">acce(n)de.</seg>
 		       <orig>accēde.</orig>

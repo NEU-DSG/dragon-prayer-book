@@ -66,10 +66,10 @@
 	     </choice> esto 
 	<choice>
 		       <seg type="lucas">p(ar)ce</seg>
-	           <orig>ꝑce</orig>
+	           <orig xml:id="n030">ꝑce</orig>
 		       <reg>parce</reg>
 	    <!-- this is scribbled out, not damage, but maybe of note? -->
-	     </choice> [nobis] eis
+	     </choice> [nobis]
 <lb/><lb/>
 	     <choice>
 		       <seg type="lucas">d(omi)ne.</seg>

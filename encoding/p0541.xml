@@ -249,24 +249,24 @@
 	     <choice>
 		       <seg type="lucas">g(?).</seg>
 		       <orig>ġ.</orig>
-		       <reg>g?.<!--  check expansion --></reg>
+		       <reg>germinabit</reg>
 	     </choice> 
  
       <lb/>In 
 	<choice>
 		       <seg type="lucas">n(?)</seg>
 		       <orig>ij</orig>
-		       <reg>n?<!-- check expansion --></reg>
+		       <reg>ii</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">v(ersu)s</seg>
 		       <orig>v̈s</orig>
-		       <reg>versus</reg>
+	                <reg>vesperas</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ps(alm)</seg>
 		       <orig>p̈s</orig>
-		       <reg>psalm</reg>
+		       <reg>psalmus</reg>
 	     </choice> Dixit. 
 	<choice>
 		       <seg type="lucas">B(ea)t(u)s</seg>
@@ -283,12 +283,12 @@
 	<choice>
 		       <seg type="lucas">M(a)g(na).</seg>
 		       <orig>Mg̈.</orig>
-		       <reg>Magna.</reg>
+		       <reg>Magnificat.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
  Similabo 
 	<choice>
@@ -302,7 +302,7 @@
 
    <ab type="translation"
        xml:id="p0541_translation"
-       corresp="#p0541_transcription"> to petition the Most
+       corresp="#p0541_transcription">to petition the Most
          High. <!-- DM 848 continued from previous page. --> Response. The Lord guided the just
          in direct ways, showed him the kingdom of God. <!-- DM 673 --> In [direct ways.] Glory [be to the Father, and to the Son, and to the Holy Ghost. 
          As it was in the beginning, is now, and ever shall be, world without end.] [The Lord guided] the just. Versicle. The just [man will give his
@@ -310,7 +310,25 @@
          High.] At ix. Little chapter. The Lord guided the just
          in direct ways, showed him the kingdom of God, and
          gave him knowledge of holy things; He prospered him
-         in his labors and made abundant the fruit of his works. <!-- DM 673 -->
+         in his labors and made abundant the fruit of his works. <!-- DM 673 --> Response. 
+         The just man shall
+         flourish like the palm tree. In the house of the Lord. Versicle. He shall grow up like the cedar in Lebanon. <!-- DM 701 -->
+         In [the house of the Lord.] Glory [be to the Father, and to the Son, and to the Holy Ghost. 
+         As it was in the beginning, is now, and ever shall be, world without end.] The just [man shall flourish like the palm tree.]
+         Versicle.    The just [man shall
+         spring up as a lily, and shall flourish forever before the Lord.] <!-- DM 707. this phrase shows up a couple times around "grow up like the cedar in Lebanon" so it's my educated guess for just the letter g: Iustus germinabit.--> 
+         At II. vespers. Psalm. The Lord said [to my Lord: Sit thou at my right hand: Until I make thy enemies thy footstool...] <!-- DRB Psalm 109. One of two Psalms that starts with "Dixit." --> 
+         Blessed is the man [that feareth the Lord: he shall delight exceedingly in his commandments.] <!-- DRB Psalm 111:1. There are two Psalms that start with Beatus Vir, see DM 707 -->
+         Praise [the Lord, ye children: praise ye the name of the Lord.] <!-- DRB Psalm 112 -->
+         I have believed, [therefore have I spoken; but I have been humbled exceedingly.] <!-- DRB Psalm 115. -->
+         When the Lord brought back [the captivity of Sion, we became like men comforted.] <!-- DRB Psalm 125. The only psalm that starts with In Convertendo. -->
+         [MY soul doth magnify the Lord,
+         and my spirit hath rejoiced in God my Savior...] <!-- the Magnificat -->
+         Alleluia. 
+         I shall liken
+         him to the wise man,
+         who built his house
+         upon a rock.  <!-- OBDS 250, continues to next page --> 
    </ab>
 
 </div>

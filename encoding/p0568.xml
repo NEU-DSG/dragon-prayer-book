@@ -166,7 +166,7 @@
 	     <choice>
 		       <seg type="lucas">na(ra?)licia</seg>
 		       <orig>nälicia</orig>
-		       <reg>nara?licia<!--  check expansion --></reg>
+		       <reg>nara?licia<!--  should be Natalitia--></reg>
 	     </choice> 
  
 	     <choice>
@@ -215,6 +215,33 @@
 
    <ab type="translation"
        xml:id="p0568_translation"
-       corresp="#p0568_transcription"/>
+       corresp="#p0568_transcription">
+        <!-- Continued from p0567 -->       
+        [We beseech You, O Lord,] let us always follow up the feast [of Your holy martyrs Primus and Felician,] 
+        and through their prayers to feel the gift of Your protection: 
+        <!-- DM 960 -->
+        Through Anthony the Confessor
+        <!-- My translation -->
+        May the votive solemnity of the blessed Anthony, Thy Confessor, rejoice Thy Church, 
+        O God, that it may ever be defended with all spiritual helps and made worthy to be blessed with everlasting joys. 
+        Through [Christ our Lord]
+        <!-- OBDS 280 -->
+        May the solemn feast day of Your holy martyrs Basilides, Cyrinus, Nabor and Nazarius shine brighly upon us, 
+        we beseech You, O Lord; and may that which everlasting glory has conferred upon them [accrue 
+        also to us as fruits of our devotion. ]
+        <!-- DM 966-967 -->
+        <!-- Continues on next page -->
+        
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+   </ab>
 
 </div>

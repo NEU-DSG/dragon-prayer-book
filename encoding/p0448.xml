@@ -104,7 +104,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Kath(er)ina</seg>
-		       <orig>Katḣina</orig>
+		       <orig xml:id="n029">Katḣina</orig>
 		       <reg>Katherina</reg>
 	     </choice>                                or e
 <lb/>
@@ -112,11 +112,11 @@
 		       <seg type="lucas">S(an)c(t)a</seg>
 		       <orig>Scā</orig>
 		       <reg>Sancta</reg>
-	     </choice> barbaraX \gesenis?/                        or e
+	     </choice> barbara                       or e
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)a</seg>
-		       <orig>Sc̄a</orig>
+		       <orig xml:id="n028">Sc̄a</orig>
 		       <reg>Sancta</reg>
 	     </choice> margaretha                                or e
 <lb/>

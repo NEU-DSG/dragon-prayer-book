@@ -241,9 +241,8 @@
 		       <seg type="lucas">m(at)ris</seg>
 		       <orig>mr̈is</orig>
 		       <reg>matris</reg>
-	     </choice> <supplied>absolve neru</supplied>
-16 <!-- writing in the bottom margin -->
-<lb/>?an Snm? Martrys 
+	     </choice> <supplied xml:id="n032">absolve neru</supplied>
+
 
 
 </ab>

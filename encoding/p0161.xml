@@ -41,7 +41,7 @@
 	             <orig>ītellc̄m</orig>
 		       <reg>intellectum</reg>
 	     </choice>
-         <lb/>et [[ut]]<!-- strikethrough doesn't work on oxygen so this is what i'm working with -->
+         <lb/><note xml:id="n012">ut</note>
 	<choice>
 		       <seg type="lucas">disca(m)</seg>
 	             <orig>discā</orig>

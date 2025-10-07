@@ -15,10 +15,18 @@
 				<note></note>
 			</notesStmt>
 			<sourceDesc>
-				<bibl>Dragon Prayer Book; publication details to be supplied</bibl>
-			</sourceDesc>
+				<bibl>Dragon Prayer Book; publication details to be supplied</bibl>	
+			</sourceDesc>	
 		</fileDesc>
-		<revisionDesc></revisionDesc>
+		<profileDesc>
+			<handNotes>
+				<handNote><!--  There are three potential scribes in the manuscript, though further research and analysis would be required to determine this.
+				The original author as well as scribes 1 and 2 write in Latin, while scribe 3 writes in German, or kurrentschrift. For now,
+				I have not included a specific hand in the notes, as a personography would be needed. Instead, I've just used type to distinguish between
+				the author's notes and scribal notes. See the DPB Inventory of Marginalia Document for more info. CEL--> </handNote>
+			</handNotes>
+		</profileDesc>
+		<revisionDesc></revisionDesc>	
 	</teiHeader>
 	<text>
 		<body>
@@ -33,4 +41,120 @@
 </div>
 		</body>
 	</text>
+	<!-- I (Claire Lavarreda) added in the hyperdiv and notes/marginalia below as part of my project with the DITI. I was unable
+	to note my revisions in the revisionDesc, so I'm adding it here. Feel free to edit, remove, or otherwise 
+	change these notes and the format as the DPB requires. For more information on the notes and my speculation on their meanings,
+	see my project documents within the DPB Google Drive.
+	I signed off my comments with my initials, CEL.-->
+	<hyperDiv>
+		<note xml:id="n000" target="#p0003" anchored="true" xml:lang="en" type="editorial">
+			<p><figure>M</figure> <!-- This is potentially an initial or an abbreviation for mulier (woman) or Maria/Mary. 
+				This page is not encoded, so the target id does not link 
+				to an actual xml file. CEL --></p></note>
+		<note xml:id="n001" target="p0003" anchored="true" xml:lang="en" type="editorial">
+			<p><figure><del>✝</del></figure> <!-- This scribbled-out cross has a small circle within it,
+				making it look similar to a Celtic or Basalt cross. It may also be a generic cruciform 
+				halo cross/ringed cross. This page is not encoded, so the target id does not link 
+				to an actual xml file. CEL --></p></note>
+		<note xml:id="n002" target="p0042.xml" anchored="true" xml:lang="la" type="authorial">
+			<p><add>Ignē.</add></p></note>
+		<note xml:id="n003" target="p0055.xml" anchored="true" xml:lang="la" type="editorial">
+			<p><corr>Nolite</corr></p></note>
+		<note xml:id="n004" target="p0055.xml" anchored="true" xml:lang="la" type="editorial">
+			<p><corr>[ami] in j[esu] meas[?] requiem meam</corr></p></note>
+		<note xml:id="n005" target="p0068.xml" anchored="true" xml:lang="la" type="authorial">
+			<p><corr>Ninē</corr></p></note>
+		<note xml:id="n006" target="p0078.xml" anchored="true" xml:lang="la" type="editorial">
+			<p><add>Omnes</add></p></note>
+		<note xml:id="n007" target="p0103.xml" anchored="true" xml:lang="la" type="editorial">
+			<p><add>Mundi</add></p></note>
+		<note xml:id="n008" target="p0128.xml" anchored="true" xml:lang="la" type="authorial">
+			<p><add>d</add></p></note>
+		<note xml:id="n009" target="p0137.xml" anchored="true" xml:lang="la" type="editorial">
+			<p><add>El espiritu sancto</add><!-- This note is at the very bottom of the page, 
+			but is likely related to the line above it, "in spiritum sanctum sanctam," so I 
+			added the xml id to sanctam. CEL--></p></note>
+		<note xml:id="n010" target="p0140.xml" anchored="true" xml:lang="la" type="authorial">
+			<p><corr>Avertet mala inimicis meis in veritate tua disperde illos</corr></p></note>
+		<note xml:id="n011" target="p0146.xml" anchored="true" xml:lang="la" type="authorial">
+			<p><add>Ita dominus pater dominus filius: dominus spiritus sanctus. Et tamen non tres domini: sed unus est
+				dominus.</add><!-- This was encoded already as part of the main text. I added the xml id,
+			but it may not be needed, as it's incorporated into the rest of the page in Lucas'
+			transcription. CEL --></p></note>
+		<note xml:id="n040" target="p0149.xml" anchored="true" type="editorial">
+			<p><figure>Cat's paw print</figure><!-- No paw-print character to insert from
+			character map, so I described it. The original is drawn, not described. CEL--></p></note>
+		<note xml:id="n012" target="p0161.xml" anchored="true" xml:lang="la" type="editorial">
+			<p><corr>Et</corr></p> </note>
+		<note xml:id="n013" target="p0176.xml" anchored="true" xml:lang="la" type="editorial">
+			<p><corr>ia</corr></p> <!-- Again, it looks like someone may have had
+			a system in place for some of the marginalia. This encoder used seg for 
+			ia, so I did add the note xml id, but feel free to remove it. CEL--></note>
+		<note xml:id="n014" target="p0193.xml" anchored="true" xml:lang="la" type="editorial">
+			<p><add>L</add>
+			<lb/><add>F</add></p></note>
+		<note xml:id="n015" target="p0250.xml" anchored="true" xml:lang="la" type="editorial">
+			<p><add>Domine miserere nostri</add></p></note>
+		<note xml:id="n016" target="p0251.xml" anchored="true" xml:lang="la" type="editorial">
+			<p><add>et omnibus sanctis</add></p></note>
+		<note xml:id="n017" target="p0253.xml" anchored="true" xml:lang="la" type="editorial">
+			<p><add>nobis</add> <!-- Another instance of the existing seg system. Left it
+			as is, and added my xml id. Did not feel comfortable deleting somebody's
+			whole strategy/approach. :) CEL--></p></note>
+		<note xml:id="n018" target="p0255.xml" anchored="true" xml:lang="la" type="authorial">
+			<p><add>hoc</add><!-- Existing seg system. CEL --></p></note>
+		<note xml:id="n019" target="p0265.xml" anchored="true" xml:lang="la" type="editorial">
+			<p><figure>✝</figure></p></note>
+		<note xml:id="n020" target="p0344.xml" anchored="true" xml:lang="la" type="authorial">
+			<p><add>viii</add><!-- Included in main text already as well. CEL --></p></note>
+		<note xml:id="n021" target="p0351.xml" anchored="true" xml:lang="la" type="authorial">
+			<p><add>me</add></p></note>
+		<note xml:id="n022" target="p0352.xml" anchored="true" xml:lang="la" type="authorial">
+			<p><corr>me</corr></p></note>
+		<note xml:id="n023" target="p0382.xml" anchored="true" xml:lang="la" type="editorial">
+			<p><add>salvatorum meum</add></p></note>
+		<note xml:id="n024" target="p0403.xml" anchored="true" xml:lang="la" type="editorial">
+			<p><add>factum</add></p></note>
+		<note xml:id="n025" target="p0444.xml" anchored="true" xml:lang="la" type="editorial">
+			<p><figure>✝</figure></p></note>
+		<note xml:id="n026" target="p0446.xml" anchored="true" xml:lang="la" type="editorial">
+			<p><figure>❌</figure>
+				<lb/><figure>❌</figure>
+				<lb/><figure>❌</figure>
+				<lb/><figure>❌</figure> <!-- Applies to lines 7, 8, 9, 11. CEL --></p></note>
+		<note xml:id="n027" target="p0447.xml" anchored="true" xml:lang="la" type="editorial">
+			<p><figure>❌</figure>
+				<lb/>
+				<lb/>
+				<lb/><figure>❌</figure></p></note>
+		<note xml:id="n028" target="p0448.xml" anchored="true" xml:lang="la" type="editorial">
+			<p><add>S</add></p></note>
+		<note xml:id="n029" target="p0448.xml" anchored="true" xml:lang="la" type="editorial">
+			<p><add>de senis</add></p></note>
+		<note xml:id="n030" target="p0449.xml" anchored="true" xml:lang="la" type="editorial">
+			<p><corr>eis</corr></p></note>
+		<note xml:id="n031" target="p0496.xml" anchored="true" xml:lang="la" type="editorial">
+			<p><corr>ectio</corr><!-- Someone noted that a digitizer should leave a note since the 
+			symbol isn't clear. Left that as is. CEL--></p></note>
+		<note xml:id="n032" target="p0510.xml" anchored="true" xml:lang="de" type="editorial">
+			<p><add>Von dem apostel</add></p></note>
+		<note xml:id="n033" target="p0519.xml" anchored="true" xml:lang="de" type="editorial">
+			<p><add>Von einem marterer</add></p></note>
+		<note xml:id="n034" target="p0527.xml" anchored="true" xml:lang="de" type="editorial">
+			<p><add>Von vill martern</add></p></note>
+		<note xml:id="n035" target="p0530.xml" anchored="true" xml:lang="de" type="editorial">
+			<p><add>✝vil Martyren</add></p></note>
+		<note xml:id="n036" target="p0536.xml" anchored="true" xml:lang="de" type="editorial">
+			<p><add>Von de Confesoren</add></p></note>
+		<note xml:id="n037" target="p0545.xml" anchored="true" xml:lang="de" type="editorial">
+			<p><add>Von den Jungfraun</add></p></note>
+		<note xml:id="n038" target="p0607.xml" anchored="true" xml:lang="de" type="editorial">
+			<p><!-- This page seemed like a general librarian's or archivist's notes. 
+				I can't quite tell if it's in German or English, and 
+				there are some symbols and numbers. It looks like this page wasn't included 
+				in the encoding anyway! CEL --></note>
+		
+		<hyperDiv>
+			
+	
 </TEI>

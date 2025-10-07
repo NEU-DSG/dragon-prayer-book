@@ -233,7 +233,7 @@
 		       <orig>q̇s</orig>
 		       <reg>quis</reg>
 	     </choice> <seg next="#seg253"><supplied>oste⸗</supplied></seg>
-*nobis  <supplied><seg xml:id="seg253">dit</seg> 
+         <supplied xml:id="n017">*nobis</supplied><seg xml:id="seg253">dit</seg> 
 	<choice>
 		       <seg type="lucas">bo(na).†</seg>
 		       <orig>bö.</orig>
@@ -269,7 +269,7 @@
 		       <seg type="lucas">d(omi)ne</seg>
 		       <orig>dn̄e</orig>
 		       <reg>domine</reg>
-	     </choice> dedis⸗</supplied>
+	     </choice> dedis⸗
 
 
 </ab>

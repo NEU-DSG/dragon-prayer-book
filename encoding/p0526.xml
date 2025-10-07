@@ -148,7 +148,7 @@
 		       <orig>q͘u</orig>
 		       <reg>q?u<!--  check expansion, what is going on here  --></reg>
 	     </choice> 
-      <lb break="no"/>tui. Crisogo?? 
+         <lb break="no"/>tui. Chrysogoni
 	<choice>
 		       <seg type="lucas">or(ati?)o.</seg>
 		       <orig>or̄o.</orig>
@@ -229,6 +229,25 @@
 
    <ab type="translation"
        xml:id="p0526_translation"
-       corresp="#p0526_transcription"/>
+       corresp="#p0526_transcription">
+         Your martyr, may at his pleading
+         be freed from all ills that threaten us:
+         through our Lord.
+         <!-- DM pg 829 -->
+         Memory of St. Marcellius, M. 
+         Grant, we beseech You, almighty God,
+         that we who keep the feast day of blessed Marcellus, Your martyr, 
+         may be strengthened in our love of Your name through his intercession: 
+         through our Lord. 
+         <!-- DM pg 1110 -->
+         Memory of St. Chrysogonus, M. 
+         Be near to our prayers, O Lord, 
+         that we who know that by our sins we deserve punishment, 
+         may be freed through the pleading of blessed Chrysogonus, 
+         Your martyr: through our Lord. 
+         <!-- DM pg 1225 -->
+         Memory of St. Agapitus, M. 
+         <!-- DM pg 1082 -->
+   </ab>
 
 </div>
