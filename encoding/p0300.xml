@@ -262,13 +262,31 @@
             </choice>
       </ab>
 
-      <ab type="translation" xml:id="p0300_translation" corresp="#p0300_transcription">every nation 
-            I held the preeminence of the proud and lofty necks I trampled on by my own power. 
-            <!-- Google translate? -->
-            Vespers. In high heaven was my dwelling-place, my throne a pillar of cloud. 
-            (Superbonum. Gloria. Super. Ad M(?). alleluia). All wisdom is from the Lord God 
-            and has always been with him and is before the ages. In sabbato alleulia. 
-            Wisdom built a house for herself, tore down the seven pillars, subdued the 
-            nations of the proud, and trampled down the necks of the lofty by her own power. 
-            Alleluia. Wisdom cries out in the streets if anyone loves wisdom.</ab>
+      <ab type="translation" xml:id="p0300_translation" corresp="#p0300_transcription">
+            In every nation and in every people,
+            <!--DRB begins with et in omni terra steti, And have stood in all the earth, also reverses order of people and nation--> 
+            I have had the chief rule. 
+            <!--DRB has "habui," DPB has tenui-->
+            <!-- DRB: Ecclesiasticus (Sirach) 24:8, includes additional phrases not in the Dragon Prayer Book as above--> 
+            <!--DPB contains no period after sea and a period after in every people. I have chosen to follow the DRB punctuation.-->
+            I have trampled the necks 
+            <!--DRB Ecclasiasticus (Sirach) 24:11, switches colla with corda, to mean heart rather than neck-->
+            of the proud and lofty with my own virtue
+            <!--DRB: Ecclasiasticus (Sirach) 24:11, exchanges the words of superborum et sublimium for excellentium et humilium, but the translation is synonymous-->
+            Vespers.
+            I dwell in the highest places, and my throne is in a pillar of a cloud
+            <!--DRB: Ecclasiasticus (Sirach) 24:7, Dragon Prayer Book verb in present tense while DRB is perfect-->
+            [I have trampled the necks of] the proud [and lofty with my own virtue]
+            Glory [be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end.]
+            [I have trampled the necks of] the proud [and lofty with my own virtue
+            <!--DRB: Ecclasiasticus (Sirach) 24:11, see above-->
+            Ad M(?). a(lleluia?)
+            Wisdom hath built herself a house, she hath cleaved seven pillars
+            <!--DRB: Proverbs 9:1, uses excidit instead of scidit as the latter is a variant of the former-->
+            In sabb(at)o a(lleluia?).
+            All wisdom is from the Lord God, and hath been always with him, and is before all time.
+            <!--DRB: Ecclasiasticus (Sirach) 1:1-->
+            And I have trampled the necks of the proud and lofty with my own virtue
+            <!--DRB: Ecclasiasticus (Sirach) 24:11, see above-->
+</ab>
 </div>
