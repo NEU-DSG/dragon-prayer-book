@@ -37,7 +37,7 @@
 		       <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> ad.
-<lb/>into?. 
+<lb/>iuto?.  <!--not sure what the ? mark means. Is this missing a unicode character representing the "rium"? of adjutorium? it does look like ms is missing an abbrev.   -->
 
 	     <choice>
 		       <seg type="lucas">y(m)n(us).</seg>
@@ -47,7 +47,7 @@
 	     <choice>
 		       <seg type="lucas">cyeme(n)t?.</seg>
 		       <orig>cyemēt?.</orig>
-		       <reg>cyement?.</reg>
+	           <reg>cyement?.</reg> <!--this should be "memento," the start of the standard hymn in the Little Office for every hour, is the ? representing a unicode character? -->
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Ps(alm).</seg>
@@ -221,7 +221,7 @@
 	     <choice>
 		       <seg type="lucas">Co(n)v(er)te</seg>
 		       <orig>Cōv̇tė</orig>
-		       <reg>Converte</reg> <!-- check expansion -->
+		       <reg>Converte</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(omi)ne</seg>
@@ -297,13 +297,14 @@
        xml:id="p0096_translation"
        corresp="#p0096_transcription"> and hereafter enjoy eternal happiness. Through [our Lord Jesus Christ]. Adu?j. <!-- ? --> Hail Mary, [full of grace, the Lord is with Thee. 
          Blessed art thou amongst women, and blessed is the fruit of thy womb, Jesus. Holy Mary, mother of God, pray for us sinners, now and at the hour of our death.] 
-         O God, come [to my assistance]. <!--unsure of this -->
-         Hymn. Cyemente?. When the Lord brought back the captivity of Sion, we became like men comforted. 
+         [Incline unto my] aid, O God. <!--Deus, in adjutorium meum intende, OBDS p. 110 -->
+         Hymn. Remember. <!--this sequence follows the OBDS exactly. This word is a corrupted "Memento," the start of the hymn for every hour in the Little Office of the Blessed Virgin--> 
+         When the Lord brought back the captivity of Sion, we became like men comforted. 
          Then was our mouth filled with gladness; and our tongue with joy. Then shall they say among the Gentiles: The Lord hath done great things for them.
          The Lord hath done great things for us: we are become joyful. 
          Turn again our captivity, O Lord, as a stream in the south. 
          They that sow in tears shall reap in joy.
-          <!-- Psalm 125 DRB cont -->
+          <!-- Psalm 125 DRB cont, the psalm for nones -->
           </ab>
 
 </div>
