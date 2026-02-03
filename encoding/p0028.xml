@@ -313,13 +313,13 @@
 	     <choice>
 		       <seg type="lucas">s(i)b(i).</seg>
 	           <orig>sḃ.</orig>
-		       <reg>sibi.</reg>
+		       <reg>sub.</reg>
 	     </choice> 
 	     <choice>
-	        <!-- not fully transcribed -->
+	        
 		       <seg type="lucas">sa(?)?(?)to</seg>
-		       <orig>sa?to</orig>
-		       <reg>sa???to<!--  check expansion --></reg>
+	        <orig>saċṙṅto</orig><!-- needs unicode character, sacrnto, two-dot diacritic over the c and the r, diacritic over n-->
+		       <reg>sacramento</reg>
 	     </choice> 
  mirabili
 
