@@ -169,7 +169,7 @@
 	<choice>
 		       <seg type="lucas">()</seg>
 		       <orig>ōs</orig>
-		       <reg><!-- supply expansion--></reg>
+		       <reg>omnes</reg>
 	     </choice>
 <lb/>
 	     <choice>
@@ -179,8 +179,8 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)t()cedat?</seg>
-		       <orig>īt̄cedāt?</orig>
-		       <reg>int<!-- supply expansion-->cedat?</reg>
+		       <orig>īt̄cedāt</orig>
+		       <reg>intercedat</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)</seg>
