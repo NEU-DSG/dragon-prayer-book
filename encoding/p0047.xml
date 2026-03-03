@@ -18,13 +18,13 @@
 	<choice>
 		       <seg type="lucas">d(omi)n(?)s;</seg>
 		       <orig>dn̄s;</orig>
-		       <reg>domin?s;</reg>
+		       <reg>dominus;</reg>
 	     </choice> es
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">ca(n)</seg>
 	             <orig>cā</orig>
-		       <reg>can</reg>
+		       <reg>cam</reg>
 	     </choice> dedit 
 	<choice>
 		       <seg type="lucas">time(n)tib(us)</seg>
@@ -91,7 +91,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">reg(i)t</seg>
-		       <orig>reg̈t</orig>
+	           <orig>reg̈t</orig>  <!-- please check this abbreviation, OBDS has regnat -->
 		       <reg>regit</reg>
 	     </choice> 
 	     <choice>
@@ -311,9 +311,19 @@
 
    <ab type="translation"
        xml:id="p0047_translation"
-       corresp="#p0047_transcription">Heart and merciful Lord. He gave meat to those who feared him. Glory. We give You thanks, almighty God, for all 
-         Your benefices: He who lives and reigns forever and ever. A restful night and a perfect evening. May the Almighty and Merciful Lord grant us. The giver of all goods;
-   he blesses the drink of his handmaids. Vespers antiphon. He bore the holy cross who shattered hell. He was girded with power. He rose on the third day. Alleluia. (Dici te in
-   naconibus al:) Because he reigns</ab>
+       corresp="#p0047_transcription">He has made a memory of His 
+         wonderful works being a kind and merciful Lord: 
+         he hath given food to them that fear him. 
+         Glory [be to the Father, and to the Son, and to the 
+         Holy Ghost. As it was in the beginning, is now, 
+         and ever shall be, world without end.]
+         Blessed is the Lord in His gifts and holy in all His works: Who
+         liveth and reigneth world without end. 
+         <!-- OBDS p. 474, has regnat instead of regit --> Collacion.
+         A quiet night and perfect end may the almighty and merciful Lord grant to us. 
+         <!-- based this on web sources for compline --> 
+         
+       
+   </ab>
 
 </div>
