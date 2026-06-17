@@ -179,21 +179,20 @@
 		       <reg>Pater</reg>
 	     </choice> 
 	     <choice>
-	           <!-- check transcription, looks like nr -->
 		       <seg type="lucas">m(ate)r</seg>
-		       <orig>m̄r</orig>
-		       <reg>mater</reg>
+		       <orig>n̄r</orig>
+		       <reg>noster</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">l(?).</seg>
 		       <orig>l͘.</orig>
-		       <reg>l?.<!--  check expansion --></reg>
+		       <reg>lectio</reg>
 	     </choice> 
  
 	     <choice>
 	       
 		       <seg type="lucas">(septima).</seg>
-		       <orig>vii.</orig> <!-- check transcription here -->
+		       <orig>vii.</orig>
 		       <reg>septima.</reg>
 	     </choice> 
       <lb/>
@@ -303,6 +302,20 @@
 
    <ab type="translation"
        xml:id="p0379_translation"
-       corresp="#p0379_transcription"/>
+       corresp="#p0379_transcription">
+       Hope in God, for I will still give praise unto Him: the salvation of my countenance and my God.
+       <!--OBDS page 433-->
+       Alleluia
+       My soul hath thirsted after the strong living God : when shall I come and appear before the face of Lord?
+       <!--OBDS page 432, insignificant spelling change-->
+       Versiculus Give not up to beasts the souls that confess to Thee.
+       And forget not the souls of Thy poor for ever.
+       <!--OBDS page 435, spelling change/abbreviation-->
+       Our Father, [who art in heaven: hallowed be thy name. Thy kingdom come. Thy will be done, on earth as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us. And lead us not into temptation, but deliver us from evil.]
+       Seventh lesson
+       My SPIRIT shall waste away, my days will be shortened, and only the grave remaineth unto me. I have not sinned, and yet mine eye abideth in bitterness. Deliver me, O Lord, and set me at Thy side, and let any man's hand fight against me.
+       <!--OBDS page 435-->
+   </ab>
+      
 
 </div>
