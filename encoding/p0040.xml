@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <div xmlns="http://www.tei-c.org/ns/1.0"
@@ -290,3 +291,297 @@
        corresp="#p0040_transcription"/>
 
 </div>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="12v"
+     xml:id="p0040">
+
+   <ab type="transcription"
+       xml:id="p0040_transcription"
+       corresp="#p0040_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">mi(?)a</seg>
+		       <orig>mīa</orig>
+		       <reg>mi?a<!--  check expansion --></reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">(chirstus).</seg>
+		       <orig>xⁱ.</orig>
+	           <!-- I do not know what character to put here -->
+		       <reg>chirstus.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Igne(m)</seg>
+		       <orig>Ignē</orig>
+		       <reg>Ignem</reg>
+	     </choice> sui 
+	<choice>
+		       <seg type="lucas">a(m)oris;</seg>
+		       <orig>āoris;</orig>
+	      <!-- diacritic appears over both characters so I used the FE26 one -->
+		       <reg>amoris;</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">acce(n)dat</seg>
+		       <orig>accēdat</orig>
+		       <reg>accendat</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(eu)s</seg>
+		       <orig>ḋs</orig>
+		       <reg>deus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cordib(us)</seg>
+		       <orig>cordib⋮ </orig>
+		       <reg>cordibus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(ost)ris.</seg>
+		       <orig>nr̄is.</orig>
+		       <reg>nostris.</reg>
+	     </choice>
+      <lb/><!-- in. m. --> <!-- check transcription here these characters are super wild --> Ille nos 
+         <choice>
+               <seg type="lucas">n(?).</seg>
+               <orig>nº.</orig>
+               <reg>n?.<!--  check expansion --></reg>
+         </choice>
+         <choice>
+		       <seg type="lucas">b(e)n(e)</seg>
+		       <orig>bn̄</orig>
+		       <reg>bene</reg>
+	     </choice>
+      <lb break="no"/>dicat; 
+	<choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q͘</orig>
+	      <!-- used dot to the right, not sure if it's supposed to be dot above -->
+		       <reg>qui</reg>
+	     </choice> sine fine vivit 
+<lb/>
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">reg(na)t.</seg>
+		       <orig>reg̈t.</orig>
+	           <!-- used double dot here, not sure if it is that or macron -->
+		       <reg>regnat.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Eva(n)g(e)lica</seg>
+		       <orig>Evāgl͘ica</orig>
+		       <reg>Evangelica</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">l(?)cco;</seg>
+		       <orig>lc̄co;</orig>
+	           <!-- diacritic appears over both c's, used the double diacritic -->
+		       <reg>l?cco;<!--  check expansion --></reg>
+	     </choice> 
+      <lb/>sit 
+	<choice>
+		       <seg type="lucas">nob(is)</seg>
+		       <orig>noḃ</orig>
+		       <reg>nobis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sal(us)</seg>
+		       <orig>salꝰ</orig>
+		       <reg>salus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ro)tecto(m?).</seg>
+		       <orig>ꝓtectō.</orig>
+		       <reg>protectom?. <!-- check expansion --></reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Di(v)</seg>
+		       <orig>D͘i</orig>
+	           <!-- dot appears to be between letters, marked as such -->
+		       <reg>Div</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">inu(m).</seg>
+		       <orig>inū.</orig>
+		       <reg>inum.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">auxiliu(m);</seg>
+		       <orig>auxiliū;</orig>
+		       <reg>auxilium;</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ma(n)eat</seg>
+		       <orig>māeat</orig>
+		       <reg>maneat</reg>
+	           <!--   ^^ watch out boy she'll chew you up -->
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(em)p(er)</seg>
+		       <orig>sꝑ</orig>
+		       <reg>semper</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">nobiscu(m).</seg>
+		       <orig>nobiscū.</orig>
+		       <reg>nobiscum.</reg>
+	     </choice> Ad 
+	<choice>
+		       <seg type="lucas">societate(m)</seg>
+		       <orig>societatē</orig>
+		       <reg>societatem</reg>
+	     </choice> ci
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">viu(m)</seg>
+		       <orig>viū</orig>
+		       <reg>vium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sup(er)no(rum);</seg>
+		       <orig>suꝑnoꝝ;</orig>
+		       <reg>supernorum;</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(er)ducat</seg>
+		       <orig>ꝑducat</orig>
+		       <reg>perducat</reg>
+	     </choice>
+      <lb/>nos rex 
+	<choice>
+		       <seg type="lucas">a(n)g(e)lo(rum).</seg>
+		       <orig>āgl͘oꝝ.</orig>
+		       <reg>angelorum.</reg>
+	     </choice> Per e
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">va(n)g(e)lica</seg>
+		       <orig>vāgl͘ica</orig>
+		       <reg>vangelica</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">dc(?)a;</seg>
+		       <orig>dc̄a;</orig>
+	           <!-- macron appears over both letters -->
+		       <reg>dc?a;<!--  check expansion --></reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">delea(n)t(ur)</seg>
+		       <orig>deleāt݃</orig>
+	           <!-- used two dots here, not positive about it -->
+		       <reg>deleantur</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(ost)ra</seg>
+		       <orig>nr̄a</orig>
+		       <reg>nostra</reg>
+	     </choice>
+      <lb/>delicta. 
+	<choice>
+		       <seg type="lucas">Intell(e)c(tu)m</seg>
+		       <orig>Intellc̄m</orig>
+	      <!-- not sure if macron combining the c and m is appropriate but that's where the abbrev sits so -->
+		       <reg>Intellectum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(an)c(t)i</seg>
+		       <orig>sc̄i</orig>
+		       <reg>sancti</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">eva(n)</seg>
+		       <orig>evā</orig>
+		       <reg>evan</reg>
+	     </choice>
+      <lb break="no"/>gelij; 
+	<choice>
+		       <seg type="lucas">ap(er)iat</seg>
+		       <orig>aꝑiat</orig>
+		       <reg>aperiat</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">nob(is)</seg>
+		       <orig>noḃ</orig>
+		       <reg>nobis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(ir)tus</seg>
+		       <orig>v̇tus</orig>
+		       <reg>virtus</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">s(em)p(er)s</seg>
+		       <orig>sp̄s</orig>
+		       <reg>sempers</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(an)c(t)i.</seg>
+		       <orig>sc̄i.</orig>
+		       <reg>sancti.</reg>
+	     </choice> De 
+	<choice>
+		       <seg type="lucas">b(?)ta</seg>
+		       <orig>bt̄a</orig>
+		       <reg>b?ta<!--  check expansion --></reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">v(ir)gi(n)e</seg>
+		       <orig>v̇gīe</orig>
+		       <reg>virgine</reg>
+	     </choice> ma
+<lb break="no"/>ria. jn. 
+	<choice>
+		       <seg type="lucas">j(?)</seg>
+		       <orig>jº</orig>
+		       <reg>j <!-- check expansion --> ?</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(?).</seg>
+		       <orig>nº.</orig>
+		       <reg>n?.<!--  check expansion --></reg>
+	     </choice> 
+ Alma 
+	<choice>
+		       <seg type="lucas">v(ir)go</seg>
+		       <orig>v̇go</orig>
+		       <reg>virgo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(ir)⸗</seg>
+		       <orig>v̇⸗</orig>
+		       <reg>vir⸗</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0040_translation"
+       corresp="#p0040_transcription"/>
+
+</div>
+>>>>>>> Stashed changes

@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <div xmlns="http://www.tei-c.org/ns/1.0"
@@ -279,3 +280,286 @@
    </ab>
 
 </div>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="35v"
+     xml:id="p0086">
+
+   <ab type="transcription"
+       xml:id="p0086_transcription"
+       corresp="#p0086_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ro)</seg>
+		       <orig>ꝓ</orig>
+		       <reg>pro</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">nob(is)</seg>
+		       <orig>noḃ</orig>
+		       <reg>nobis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(christu)m</seg>
+		       <orig>xp̄m</orig>
+		       <reg>christum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">dep(re)care</seg>
+		       <orig>dep̄care</orig>
+		       <reg>deprecare</reg>
+	     </choice>
+      <lb/>ut tuis fulti 
+	<choice>
+		       <seg type="lucas">p(at)rociniis</seg>
+		       <orig>pr̄ociniis</orig>
+		       <reg>patrociniis</reg>
+	     </choice>
+      <lb/>ad celestia 
+	<choice>
+		       <seg type="lucas">reg(na)</seg>
+		       <orig>reg̈</orig>
+		       <reg>regna</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">me(re)am(ur)</seg>
+		       <orig>mėam݃</orig>
+		       <reg>mereamur</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">p(er)ve(n)ire.</seg>
+		       <orig>ꝑvēire.</orig>
+		       <reg>pervenire.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">D(omi)ne</seg>
+		       <orig>Dn̄e</orig>
+		       <reg>Domine</reg>
+	     </choice> ex. 
+	<choice>
+		       <seg type="lucas">Orem(us).</seg>
+		       <orig>Oremꝰ.</orig>
+		       <reg>Oremus.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">Or(?)o.</seg>
+		       <orig>Or̄o.</orig>
+		       <reg>Oratio.</reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">Co(n)cede</seg>
+		       <orig>C̄ōcede</orig>
+		       <reg>Concede</reg>
+	     </choice> nos famu.
+<lb/>
+	     <choice>
+		       <seg type="lucas">An(tiphon).</seg>
+		       <orig>An̈.</orig>
+		       <reg>Antiphon.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">S(an)c(t)i</seg>
+		       <orig>Sc̄i</orig>
+		       <reg>Sancti</reg>
+	     </choice> dei. Ad. 
+	<choice>
+		       <seg type="lucas">i(ubilate?).</seg>
+		       <orig>ï.</orig>
+		       <reg>primam.</reg>
+	     </choice> 
+ Ave
+<lb/>maria. 
+	<choice>
+		       <seg type="lucas">D(eu)s</seg>
+		       <orig>Ḋs</orig>
+		       <reg>Deus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">adiu(n)t.</seg>
+		       <orig>adiut̄.</orig>
+		       <reg>adiunt.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(h)y(mnus?).</seg>
+		       <orig>ȳpꝰ.</orig>
+		       <reg>hymnus.</reg>
+	     </choice> 
+      <lb/>
+	     <choice>
+		       <seg type="lucas">MEme(n)to</seg>
+		       <orig>MEmēto</orig>
+		       <reg>MEmento</reg>
+	     </choice> salutis ac
+<lb break="no"/>tor 
+	<choice>
+		       <seg type="lucas">q(uo)d</seg>
+		       <orig>qḋ</orig>
+		       <reg>quod</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(ost)ri</seg>
+		       <orig>nr̄i</orig>
+		       <reg>nostri</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uo)nda(m)</seg>
+		       <orig>q̈ndā</orig>
+		       <reg>quondam</reg>
+	     </choice> cor
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">p(or)is</seg>
+		       <orig>ꝑis</orig>
+		       <reg>poris</reg>
+	     </choice> ex illibata 
+	<choice>
+		       <seg type="lucas">v(ir)gi(n)e</seg>
+		       <orig>v̇gīe</orig>
+		       <reg>virgine</reg>
+	     </choice> nas
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">ce(n)do</seg>
+		       <orig>cēdo</orig>
+		       <reg>cendo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">forma(n)</seg>
+		       <orig>formā</orig>
+		       <reg>forman</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">su(m)pseris.</seg>
+		       <orig>sūpseris.</orig>
+		       <reg>sumpseris.</reg>
+	     </choice> Ma
+<lb break="no"/>ria 
+	<choice>
+		       <seg type="lucas">m(ate)r</seg>
+		       <orig>mr̄</orig>
+		       <reg>mater</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">gr(ati)e</seg>
+		       <orig>gr̄e</orig>
+		       <reg>gratie</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(ate)r</seg>
+		       <orig>mr̄</orig>
+		       <reg>mater</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mi(sericordi)e</seg>
+		       <orig>mīe</orig>
+		       <reg>misericordie</reg>
+	     </choice> tu
+<lb/>nos ab hoste 
+	<choice>
+		       <seg type="lucas">p(ro)tege</seg>
+		       <orig>ꝓtege</orig>
+		       <reg>protege</reg>
+	     </choice> et
+<lb/>hora mortis suscipe. G
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">l(ori)a</seg>
+		       <orig>l͘a</orig>
+		       <reg>loria</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(ibi)</seg>
+		       <orig>ṫ</orig>
+		       <reg>tibi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">nat(us)</seg>
+		       <orig>natꝰ</orig>
+		       <reg>natus</reg>
+	     </choice> es de 
+	<choice>
+		       <seg type="lucas">v(ir)⸗</seg>
+		       <orig>v̇⸗</orig>
+		       <reg>vir⸗</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0086_translation"
+       corresp="#p0086_transcription">
+       And pray to Christ for us, that we, 
+       being upholden by thy care, may deserve 
+       to attain to the heavenly kingdom. 
+       O Lord, [hear my prayer.] 
+       And let my cry [come unto thee.]
+       Oremus. Oratio.
+       Grant, we beseech Thee, [O Lord God,
+       that we Thy servants
+       may enjoy continual
+       health of mind and
+       body; and that,
+       through the glorious
+       intercession of
+       Blessed Mary, ever
+       Virgin, we may be delivered from present
+       sorrow and hereafter
+       enjoy eternal happiness. Through Christ
+       our Lord.] 
+       <!-- OBDs p80 -->
+       Antiphon.
+       O all ye saints of God,
+       [vouchsafe to intercede for the 
+       salvation of us and of all mankind.]
+       <!-- OBDS p90 -->
+       At prime. Ave Maria.
+       [Incline unto my] aid, O God. 
+       [O God, make haste to help me.]
+       <!-- standard prayer -->
+       Hymn. 
+       Author of grace, sweet Saviour of mine, 
+       Remember that Thy flesh divine, 
+       From the unsullied Virgin came
+       Made like unto our mortal frame. 
+       O Mary, Mother of all grace, 
+       Mother of mercy to our race, 
+       Protect us now from Satan's power. 
+       And own us at life's closing hour. 
+       All glory be to Thee, O Lord, 
+       A Virgin's Son
+       <!-- OBDS p112 -->
+       
+       
+       
+       
+     
+   </ab>
+
+</div>
+>>>>>>> Stashed changes

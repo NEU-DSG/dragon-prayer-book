@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <div xmlns="http://www.tei-c.org/ns/1.0"
@@ -294,3 +295,301 @@
    </ab>
 
 </div>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="168v"
+     xml:id="p0352">
+
+   <ab type="transcription"
+       xml:id="p0352_transcription"
+       corresp="#p0352_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">meu(m).</seg>
+		       <orig>meū.</orig>
+		       <reg>meum.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">V(espers)</seg>
+		       <orig>V̇</orig>
+		       <reg>Vespers</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Que(m)</seg>
+		       <orig>Quē</orig>
+		       <reg>Quem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">visur(us)</seg>
+		       <orig>visurꝰ</orig>
+		       <reg>visurus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">su(m)</seg>
+		       <orig>sū</orig>
+		       <reg>sum</reg>
+	     </choice>
+      <lb/>ego 
+	<choice>
+		       <seg type="lucas">ip(s)e</seg>
+		       <orig>ip̄e</orig>
+		       <reg>ipse</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ali(us)</seg>
+		       <orig>aliꝰ</orig>
+		       <reg>alius</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">oc(u)li</seg>
+		       <orig>ocl͘i</orig>
+		       <reg>oculi</reg>
+	     </choice>
+      <lb/>mei 
+	     <choice>
+		       <seg type="lucas">sp(e)c(t)uri</seg>
+		       <orig>ɔspcūri</orig>
+		       <reg>conspecturi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(un)t.</seg>
+		       <orig>sṫ.</orig>
+		       <reg>sunt.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Sal(vatorem).</seg>
+		       <orig>Sal.</orig>
+		       <reg>Salvatorem.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">l(?).</seg>
+		       <orig>l͘.</orig>
+		       <reg>l?.<!--  check expansion --></reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">ii(?).</seg>
+		       <orig>ïi.</orig>
+		       <reg>ii?.<!--  check expansion --></reg>
+	     </choice> 
+      <lb/>TEdet 
+	<choice>
+		       <seg type="lucas">a(n)i(m)a(m)</seg>
+		       <orig>aīa⋮</orig>
+		       <reg>animam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mea(m)</seg>
+		       <orig>meā</orig>
+		       <reg>meam</reg>
+	     </choice> vi
+<lb break="no"/>te mee: 
+	<choice>
+		       <seg type="lucas">dimitta(m)</seg>
+		       <orig>dimittā</orig>
+		       <reg>dimittam</reg>
+	     </choice> ad
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">v(er)su(m)</seg>
+		       <orig>v̇sū</orig>
+		       <reg>versum</reg>
+	     </choice> me 
+	<choice>
+		       <seg type="lucas">eloq(ui)u(m)</seg>
+		       <orig>eloq̇ū</orig>
+		       <reg>eloquium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">meu(m).</seg>
+		       <orig>meū.</orig>
+		       <reg>meum.</reg>
+	     </choice> lo
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">q(ua)r</seg>
+		       <orig>q̈r</orig>
+		       <reg>quar</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">amaritudi(n)e</seg>
+		       <orig>amaritudīe</orig>
+		       <reg>amaritudine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(n)i(m)e</seg>
+		       <orig>aīe</orig>
+		       <reg>anime</reg>
+	     </choice> mee:
+<lb/>
+	     <choice>
+		       <seg type="lucas">dica(m)</seg>
+		       <orig>dicā</orig>
+		       <reg>dicam</reg>
+	     </choice> deo. Noli me 
+	     <choice>
+		       <seg type="lucas">de(m)na</seg>
+		       <orig>ɔdēna</orig>
+		       <reg>condemna</reg>
+	     </choice>
+      <lb break="no"/>re. Indica 
+	<choice>
+		       <seg type="lucas">m(ihi):</seg>
+		       <orig>ṁ:</orig>
+		       <reg>mihi:</reg>
+	     </choice> cur me ita
+<lb/>iudices:c 
+	<choice>
+		       <seg type="lucas">Nu(m)q(ui)d</seg>
+		       <orig>Nūq̇d</orig>
+		       <reg>Numquid</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">bonu(m)</seg>
+		       <orig>bonū</orig>
+		       <reg>bonum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(ibi)</seg>
+		       <orig>ṫ</orig>
+		       <reg>tibi</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">videt(ur)</seg>
+		       <orig>videt݃</orig>
+		       <reg>videtur</reg>
+	     </choice> si 
+	<choice>
+		       <seg type="lucas">calu(m)nieris*(et)</seg>
+		       <orig>calūnieris*+</orig>
+		       <reg>calumnieris*et</reg>
+	     </choice> op⸗ +me? ,<!-- check transcription -->
+<lb/>
+	     <choice>
+		       <seg type="lucas">p(ri)mas</seg>
+		       <orig>ṗmas</orig>
+		       <reg>primas</reg>
+	     </choice> me 
+	<choice>
+		       <seg type="lucas">op(us)</seg>
+		       <orig>opꝰ</orig>
+		       <reg>opus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">manuu(m)</seg>
+		       <orig>manuū</orig>
+		       <reg>manuum</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">tuar(um);</seg>
+		       <orig>tuaꝝ;</orig>
+		       <reg>tuarum;</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     
+	     <choice>
+		       <seg type="lucas">siliu(m)</seg>
+		       <orig>ɔsiliū</orig>
+		       <reg>consilium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(m)pior(um)</seg>
+		       <orig>īpior⋮</orig>
+		       <reg>impiorum</reg>
+	     </choice> ad
+<lb break="no"/>iuves:c 
+	<choice>
+		       <seg type="lucas">Nu(m)q(ui)d</seg>
+		       <orig>Nūq̇d</orig>
+		       <reg>Numquid</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">oc(u)li</seg>
+		       <orig>ocl͘i</orig>
+		       <reg>oculi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ca(r)nei</seg>
+		       <orig>cȧnei</orig>
+		       <reg>carnei</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">t(ibi)</seg>
+		       <orig>ṫ</orig>
+		       <reg>tibi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(un)t</seg>
+		       <orig>sṫ</orig>
+		       <reg>sunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(ut)</seg>
+		       <orig>ȧ</orig>
+		       <reg>aut</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sic(ut)</seg>
+		       <orig>sic̄</orig>
+		       <reg>sicut</reg>
+	     </choice> videt 
+	<choice>
+		       <seg type="lucas">ho(mo)</seg>
+		       <orig>hō</orig>
+		       <reg>homo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> tu vi⸗
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0352_translation"
+       corresp="#p0352_transcription">
+         
+         My  Saviour. <!-- OBDS 407 --> Vespers
+         V.  Whom I  myself  shall  see  and not  another,  and  my eyes  shall  behold. R.  My  Saviour. <!-- OBDS pg 407-->
+         My  soul  is  weary iTA  of  my  life:  I  will let  go  my  speech against  myself:  
+         I  will speak  in  the  bitter- ness of  my  soul:  I will  say  unto  God :  
+         Do not  Thou  condemn me.  Show  me  why Thou  judgest  me  so. <!-- OBDS pg 407-->
+         Doth  it  seem  good unto  Thee  to  dishon- our me  and  oppress me,  the  work  of  Thine own  hands,  
+         and  help the  counsel  of  the wicked?  Hast  Thou eyes  of  flesh?  or  as  a man  seeth,  dost  Thou also  see? <!-- OBDS pg 408 -->
+   </ab>
+
+</div>
+>>>>>>> Stashed changes

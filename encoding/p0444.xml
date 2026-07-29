@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <div xmlns="http://www.tei-c.org/ns/1.0"
@@ -220,3 +221,228 @@
   </ab>
 
 </div>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+   type="page"
+   n="214v"
+   xml:id="p0444">
+
+  <ab type="transcription"
+    xml:id="p0444_transcription"
+    corresp="#p0444_translation">
+ SECOND LITANY OF SAINTS
+<lb/>tas 
+ <choice>
+      <seg type="lucas">un(us)</seg>
+       <orig>unꝰ</orig>
+      <reg>unus</reg>
+    </choice> 
+    <choice>
+      <seg type="lucas">d(eu)s</seg>
+       <orig>ḋs</orig>
+      <reg>deus</reg>
+    </choice> 
+    <choice>
+      <seg type="lucas">misere(re)</seg>
+       <orig>miserė</orig>
+      <reg>miserere</reg>
+    </choice> eis.
+<lb/>
+    <choice>
+      <seg type="lucas">S(an)c(t)a</seg>
+      <orig>Sc̄a</orig>
+      <reg>Sancta</reg>
+    </choice> Maria ora 
+ <choice>
+      <seg type="lucas">p(ro)</seg>
+       <orig>ꝓ</orig>
+      <reg>pro</reg>
+    </choice> eis.
+<lb/>
+    <choice>
+      <seg type="lucas">S(an)c(t)a</seg>
+      <orig>Sc̄a</orig>
+      <reg>Sancta</reg>
+    </choice> dei 
+ <choice>
+      <seg type="lucas">ge(n)it(ri)x</seg>
+       <orig>gēiṫx</orig>
+      <reg>genitrix</reg>
+    </choice>                or e
+<lb/>
+    <choice>
+      <seg type="lucas">S(an)c(t)a</seg>
+      <orig>Sc̄a</orig>
+      <reg>Sancta</reg>
+    </choice> 
+    <choice>
+      <seg type="lucas">v(ir)go</seg>
+       <orig>v̇go</orig>
+      <reg>virgo</reg>
+    </choice> 
+    <choice>
+      <seg type="lucas">v(ir)ginu(m)</seg>
+       <orig>v̇ginū</orig>
+      <reg>virginum</reg>
+    </choice>            ora e
+<lb/>
+    <choice>
+      <seg type="lucas">S(an)c(t)e</seg>
+      <orig>Sc̄e</orig>
+      <reg>Sancte</reg>
+    </choice> michael                    or e
+<lb/>
+    <choice>
+      <seg type="lucas">S(an)c(t)e</seg>
+      <orig>Sc̄e</orig>
+      <reg>Sancte</reg>
+    </choice> gabriel                    or e
+<lb/>
+    <choice>
+      <seg type="lucas">S(an)c(t)e</seg>
+      <orig>Sc̄e</orig>
+      <reg>Sancte</reg>
+    </choice> raphael                    or e
+<lb/>
+    <choice>
+      <seg type="lucas">O(mne)s</seg>
+      <orig>Os̄</orig>
+      <reg>Omnes</reg>
+    </choice> 
+    <choice>
+      <seg type="lucas">s(an)c(t)i</seg>
+      <orig>sc̄i</orig>
+      <reg>sancti</reg>
+    </choice> 
+    <choice>
+      <seg type="lucas">a(n)g(e)li</seg>
+       <orig>āgl͘i</orig>
+      <reg>angeli</reg>
+    </choice> 
+    <choice>
+      <seg type="lucas">(et) </seg>
+      <orig>+ </orig>
+      <reg>et </reg>
+    </choice> 
+    <choice>
+      <seg type="lucas">a(r)cha(n)g(e)li</seg>
+       <orig>ȧchāgl͘i</orig>
+      <reg>archangeli</reg>
+    </choice>   orte.
+<lb/>
+    <choice>
+      <seg type="lucas">O(mne)s</seg>
+      <orig>Os̄</orig>
+      <reg>Omnes</reg>
+    </choice> 
+    <choice>
+      <seg type="lucas">s(an)c(t)i</seg>
+      <orig>sc̄i</orig>
+      <reg>sancti</reg>
+    </choice> 
+    <choice>
+      <seg type="lucas">b(ea)tor(um)</seg>
+       <orig>bt̄oꝝ</orig>
+      <reg>beatorum</reg>
+    </choice> 
+    <choice>
+      <seg type="lucas">sp(iritu)m</seg>
+      <orig>sp̄m̄</orig>
+      <reg>spiritum</reg>
+    </choice> 
+    <choice>
+      <seg type="lucas">ordi(n)es</seg>
+       <orig>ordīes</orig>
+      <reg>ordines</reg>
+    </choice> orte.
+<lb/>
+    <choice>
+      <seg type="lucas">S(an)c(t)e</seg>
+      <orig>Sc̄e</orig>
+      <reg>Sancte</reg>
+    </choice> 
+    <choice>
+      <seg type="lucas">joh(?)s</seg>
+       <orig>ioḣs</orig>
+      <reg>ioannes</reg>
+    </choice> 
+ baptista                or e
++ 11 
+ <choice>
+      <seg type="lucas">O(mne)s</seg>
+      <orig>Os̄</orig>
+      <reg>Omnes</reg>
+    </choice> 
+    <choice>
+      <seg type="lucas">s(an)c(t)i</seg>
+      <orig>sc̄i</orig>
+      <reg>sancti</reg>
+    </choice> 
+    <choice>
+      <seg type="lucas">p(at)ria(r)che</seg>
+       <orig>pr̄iāche</orig>
+      <reg>patriarche</reg>
+    </choice> 
+    <choice>
+      <seg type="lucas">(et) </seg>
+      <orig>+</orig>
+      <reg>et </reg>
+    </choice> 
+    <choice>
+      <seg type="lucas">p(ro)phe</seg>
+       <orig>ꝓpḣe</orig>
+      <reg>prophe</reg>
+    </choice>    orate.
+<lb/>
+    <choice>
+      <seg type="lucas">S(an)c(t)e</seg>
+      <orig>Sc̄e</orig>
+      <reg>Sancte</reg>
+    </choice> Petre                    or e
+<lb/>
+    <choice>
+      <seg type="lucas">S(an)c(t)e</seg>
+      <orig>Sc̄e</orig>
+      <reg>Sancte</reg>
+    </choice> paule                    or e
+<lb/>
+    <choice>
+      <seg type="lucas">S(an)c(t)e</seg>
+      <orig>Sc̄e</orig>
+      <reg>Sancte</reg>
+    </choice> Andrea                    or e
+<lb/>
+    <choice>
+      <seg type="lucas">S(an)c(t)e</seg>
+      <orig>Sc̄e</orig>
+      <reg>Sancte</reg>
+    </choice> Jacobe                    or e
+
+
+</ab>
+
+  <ab type="translation"
+    xml:id="p0444_translation"
+    corresp="#p0444_transcription">
+    <!-- conitnues from the previous page -->
+        Holy Trinity, one God, have mercy on us.  
+        Holy Mary, pray for us.  
+        Holy Mother of God, pray for us.  
+        Holy Virgin of Virgins, pray for us.  
+        St. Michael, pray for us.  
+        St. Gabriel, pray for us.  
+        St. Raphael, pray for us.  
+        All you Holy Angels and Archangels pray for us.  
+        St. John Baptist, pray for us.
+        All you Holy orders of blessed Spirits, pray for us.  
+        St. Peter, pray for us.  
+        St. Paul, pray for us.  
+        St. Andrew, pray for us.  
+        St. James (the greater), pray for us. 
+      <!-- DM page 400 -->
+  </ab>
+
+</div>
+>>>>>>> Stashed changes

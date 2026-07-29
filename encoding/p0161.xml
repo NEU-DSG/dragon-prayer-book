@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <div xmlns="http://www.tei-c.org/ns/1.0"
@@ -276,3 +277,283 @@
          Let the proud be ashamed, because they have done unjustly towards me: but I will be employed in thy commandments. <!--ps118 cont --> </ab>
 
 </div>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="73r"
+     xml:id="p0161">
+
+   <ab type="transcription"
+       xml:id="p0161_transcription"
+       corresp="#p0161_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">Man(us)</seg>
+	             <orig>Manꝰ</orig>
+		       <reg>Manus</reg>
+	     </choice> tue 
+	<choice>
+		       <seg type="lucas">fecer(un)t</seg>
+		       <orig>fecer̄t</orig>
+		       <reg>fecerunt</reg>
+	     </choice> me 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+	             <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> plas
+<lb/>
+	     <choice>
+		       <seg type="lucas">maver(un)t</seg>
+		       <orig>maver̄t</orig>
+		       <reg>maverunt</reg>
+	     </choice> me: da 
+	<choice>
+		       <seg type="lucas">m(ihi)</seg>
+	             <orig>ṁ</orig>
+		       <reg>mihi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)tell(e)c(tu)m</seg>
+	             <orig>ītellc̄m</orig>
+		       <reg>intellectum</reg>
+	     </choice>
+         <lb/>et [[ut]]<!-- strikethrough doesn't work on oxygen so this is what i'm working with -->
+	<choice>
+		       <seg type="lucas">disca(m)</seg>
+	             <orig>discā</orig>
+		       <reg>discam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ma(n)data</seg>
+	           <orig>mādata</orig>
+		       <reg>mandata</reg>
+	     </choice> tua. 
+	<choice>
+		       <seg type="lucas">Q(ui)</seg>
+		       <orig>Qi</orig> 
+		       <reg>Qui</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">time(n)t</seg>
+	            <orig>timēt</orig>
+		       <reg>timent</reg>
+	     </choice> te 
+	<choice>
+		       <seg type="lucas">videb(un)t</seg>
+		       <orig>videb̄t</orig>
+		       <reg>videbunt</reg>
+	     </choice> me 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+	             <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> leta
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">bu(n)t(ur):</seg>
+	             <orig>būt݃:</orig> 
+		       <reg>buntur:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uia)</seg>
+		       <orig>q:</orig> 
+		       <reg>quia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+	             <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(er)ba</seg>
+	             <orig>v̇ba</orig>
+		       <reg>verba</reg>
+	     </choice> tua 
+	<choice>
+		       <seg type="lucas">sup(er)</seg>
+	             <orig>suꝑ</orig>
+		       <reg>super</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sp(er)a</seg>
+	             <orig>sꝑa</orig>
+		       <reg>spera</reg>
+	     </choice>
+      <lb break="no"/>vi. Cognovi 
+	<choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uia)</seg>
+		       <orig>q:</orig> 
+		       <reg>quia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">eq(ui)</seg>
+		       <orig>eq̇</orig>
+		       <reg>equi</reg>
+	     </choice>
+      <lb break="no"/>tas iudicia tua: 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+	             <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+	             <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(er)ita</seg>
+	             <orig>v̇ita</orig>
+		       <reg>verita</reg>
+	     </choice>
+      <lb break="no"/>te tua 
+	<choice>
+		       <seg type="lucas">hu(m)iliasti</seg>
+	             <orig>hu̇iliasti</orig>
+		       <reg>humiliasti</reg>
+	     </choice> me. Fi
+<lb break="no"/>at 
+	<choice>
+		       <seg type="lucas">mi(serocordi)a</seg>
+	             <orig>mīa</orig>
+		       <reg>miserocordia</reg>
+	     </choice> tua ut 
+	     <choice>
+		       <seg type="lucas">solet(ur)</seg>
+		       <orig>ɔsolet݃</orig>
+		       <reg>consoletur</reg>
+	     </choice> me:
+<lb/>
+	     <choice>
+		       <seg type="lucas">s(e)c(un)d(um)</seg>
+	             <orig>scḋ⋮</orig>
+		       <reg>secundum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">eloq(ui)u(m)</seg>
+	             <orig>eloq̇ū</orig>
+		       <reg>eloquium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tuu(m)</seg>
+	             <orig>tuū</orig>
+		       <reg>tuum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(er)vo</seg>
+	             <orig>sv̇o</orig>
+		       <reg>servo</reg>
+	     </choice> tuo.
+<lb/>
+	     <choice>
+		       <seg type="lucas">Venia(n)t</seg>
+	             <orig>Veniāt</orig>
+		       <reg>Veniant</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(ihi)</seg>
+	             <orig>ṁ</orig>
+		       <reg>mihi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mis(er)at(i)o(ne)s</seg>
+	             <orig>miṡatōs</orig>
+		       <reg>miserationes</reg>
+	     </choice> tue
+<lb/>
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+	             <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">viva(m):</seg>
+	             <orig>vivā:</orig>
+		       <reg>vivam:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uia)</seg>
+		       <orig>q:</orig>
+		       <reg>quia</reg>
+	     </choice> lex tua medita
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">t(i)o(n)</seg>
+	             <orig>tō</orig>
+		       <reg>tion</reg>
+	     </choice> mea 
+	<choice>
+		       <seg type="lucas">e(st).</seg>
+	             <orig>ē.</orig>
+		       <reg>est.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Co(n)fu(n)da(n)t(ur)</seg>
+	              <orig>Cōfūdāt݃</orig>
+		       <reg>Confundantur</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sup(er)bi</seg>
+	             <orig>suꝑbi</orig>
+		       <reg>superbi</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">q(uia)</seg>
+		       <orig>q:</orig>
+		       <reg>quia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)iuste</seg>
+	             <orig>īiuste</orig>
+		       <reg>iniuste</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)iq(ui)tate(m)</seg>
+	              <orig>īiq̇tate</orig>
+		       <reg>iniquitatem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">fecer(un)t</seg>
+		       <orig>fecer̄t</orig>
+		       <reg>fecerunt</reg>
+	     </choice> in
+<lb/>me: ego 
+	<choice>
+		       <seg type="lucas">a(u)t(em)</seg>
+		       <orig>at̄</orig>
+		       <reg>autem</reg>
+	     </choice> exercebor 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+	             <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ma(n)⸗</seg>
+	             <orig>mā⸗</orig>
+		       <reg>man⸗</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0161_translation"
+       corresp="#p0161_transcription">hy hands have made me and formed me: give me understanding, and I will learn thy commandments. 
+         They that fear thee shall see me, and shall be glad: because I have greatly hoped in thy words. 
+         I know, O Lord, that thy judgments are equity: and in thy truth thou hast humbled me. 
+         O! let thy mercy be for my comfort, according to thy word unto thy servant. 
+         Let thy tender mercies come unto me, and I shall live: for thy law is my meditation.
+         Let the proud be ashamed, because they have done unjustly towards me: but I will be employed in thy commandments. <!--ps118 cont --> </ab>
+
+</div>
+>>>>>>> Stashed changes

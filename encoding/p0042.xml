@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <div xmlns="http://www.tei-c.org/ns/1.0"
@@ -292,3 +293,304 @@
          At Vespers. Lord, hear my prayer, I pray.</ab>
 
 </div>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="13v"
+     xml:id="p0042">
+
+   <ab type="transcription"
+       xml:id="p0042_transcription"
+       corresp="#p0042_translation">
+
+      <lb/>um 
+	<choice>
+		       <seg type="lucas">sup(er)no(rum)</seg>
+		       <orig>suꝑnoꝝ</orig>
+		       <reg>supernorum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(er)ducat</seg>
+		       <orig>ꝑducat</orig>
+		       <reg>perducat</reg>
+	     </choice>
+      <lb/>nos 
+	<choice>
+		       <seg type="lucas">regi(n)a</seg>
+		       <orig>regīa</orig>
+		       <reg>regina</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(n)gelo(rum).</seg>
+		       <orig>āgeloꝝ.</orig>
+		       <reg>angelorum.</reg>
+	     </choice> Ge
+<lb break="no"/>nal cap. Ad te leva. 
+	<choice>
+		       <seg type="lucas">Gl(ori)a.</seg>
+		       <orig>Gl͘a.</orig>
+		       <reg>Gloria.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">An(tiphon).</seg>
+		       <orig>An̈.</orig>
+	           <!-- used two dots, not sure if that or macron -->
+		       <reg>Antiphon.</reg>
+	     </choice> veni 
+	<choice>
+		       <seg type="lucas">s(anc)te</seg>
+		       <orig>st̄e</orig>
+		       <reg>sancte</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sp(iritu)s</seg>
+		       <orig>sp̄s</orig>
+		       <reg>spiritus</reg>
+	     </choice> reple
+<lb/>
+	     <choice>
+		       <seg type="lucas">tuo(rum)</seg>
+		       <orig>tuoꝝ</orig>
+		       <reg>tuorum</reg>
+	     </choice> corda 
+	<choice>
+		       <seg type="lucas">fideliu(m)</seg>
+		       <orig>fideliū</orig>
+		       <reg>fidelium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> tui
+<lb/>amoris 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> eis \\
+	<choice>
+		       <seg type="lucas">igne(m)//</seg>
+		       <orig>ignē//</orig>
+	      <!-- How to represent this being off to the side? -->
+		       <reg>ignem//</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">acce(n)de.</seg>
+		       <orig>accēde.</orig>
+		       <reg>accende.</reg>
+	     </choice> Qui  
+         <choice>
+               <seg type="lucas">Q(ui).</seg>
+               <orig>Q͘.</orig>
+               <reg>Qui.</reg>
+         </choice>
+         <!-- this qui looks like an abbreviation to me, just a Q and a dot, check transcription -->
+	<choice>
+		       <seg type="lucas">p(er)</seg>
+		       <orig>ꝑ</orig>
+		       <reg>per</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">diu(m)sitate(re).</seg>
+		       <orig>diūsitatē.</orig>
+		       <reg>diumsitatere.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">li(n)guar(um)</seg>
+		       <orig>līguaꝝ</orig>
+		       <reg>linguarum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cu(n)cta</seg>
+		       <orig>cūcta</orig>
+		       <reg>cuncta</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">(rum)</seg>
+		       <orig>ꝝ</orig>
+		       <reg>rum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ge(n)tes</seg>
+		       <orig>gētes</orig>
+		       <reg>gentes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">vi(n)tate</seg>
+		       <orig>vītate</orig>
+		       <reg>vintate</reg>
+	     </choice> fidei 
+	<choice>
+		       <seg type="lucas">co(n)</seg>
+		       <orig>cō</orig>
+		       <reg>con</reg>
+	     </choice>
+      <lb break="no"/>gregasti 
+	<choice>
+		       <seg type="lucas">all(?)</seg>
+		       <orig>all͘</orig>
+	      <!-- not sure if that dot is supposed to be there -->
+		       <reg>all?</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">al(?).</seg>
+		       <orig>al͘.</orig>
+	           <!-- Not sure dot diacritic is appropriate -->
+		       <reg>al?.<!--  check expansion --></reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">K(yrie eleison).</seg>
+		       <orig>K.</orig>
+	           <!-- No diacritics spotted -->
+		       <reg>Kyrie eleison.</reg>
+	     </choice>  
+	     <choice>
+		       <seg type="lucas">(Christe eleison)</seg>
+		       <orig>X</orig>
+	           <!-- this looks like a capital X to me so I included it but not sure how to represent this -->
+		       <reg>Christe eleison</reg>
+	     </choice> . 
+	<choice>
+		       <seg type="lucas">K(yrie eleison).</seg>
+		       <orig>K.</orig>
+	      <!-- no diacritics spotted -->
+		       <reg>Kyrie eleison.</reg>
+	     </choice> 
+      <lb/>
+	     <choice>
+		       <seg type="lucas">P(ate)r</seg>
+		       <orig>Pr̄</orig>
+	           <!-- there appears to be a diacritic over the modified r -->
+		       <reg>Pater</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(oste)r.</seg>
+		       <orig>nr̄.</orig>
+	           <!-- not sure if this is right diacritic, might be dot -->
+		       <reg>noster.</reg>
+	     </choice> Et ne. 
+	<choice>
+		       <seg type="lucas">V(espers)</seg>
+		       <orig>V̇</orig>
+		       <reg>Vespers</reg>
+	     </choice> Emitte
+<lb/>
+	     <choice>
+		       <seg type="lucas">sp(iritu)m</seg>
+		       <orig>sp̄m</orig>
+	           <!-- diacritic appears over m and p so used combining one -->
+		       <reg>spiritum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tuu(m)</seg>
+		       <orig>tuū</orig>
+		       <reg>tuum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">creabu(n)t(ur).</seg>
+		       <orig>creabūt݃.</orig>
+	           <!-- not positive about two dots -->
+		       <reg>creabuntur.</reg>
+	     </choice> Et
+<lb/>
+	     <choice>
+		       <seg type="lucas">renovab(is)</seg>
+		       <orig>renovaḃ</orig>
+		       <reg>renovabis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">facie(m)</seg>
+		       <orig>faciē</orig>
+		       <reg>faciem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(er)r(a)e.</seg>
+		       <orig>ṫre.</orig>
+		       <reg>terrae.</reg>
+	     </choice> Sal
+<lb break="no"/>vos fac servos tuos. 
+	<choice>
+		       <seg type="lucas">D(eu)s</seg>
+		       <orig>D͘s</orig>
+	      <!-- dot appears between letters so I used dot between letters but it might be
+	            supposed to be attached to the D -->
+		       <reg>Deus</reg>
+	     </choice> 
+      <lb/>
+	     <choice>
+		       <seg type="lucas">m(eu)s</seg>
+		       <orig>ṁs</orig>
+	           <!-- the dot might be supposed to be between them but this looks closest to what is in the text -->
+		       <reg>meus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sp(er)antes</seg>
+		       <orig>sꝑantes</orig>
+		       <reg>sperantes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> te. 
+	<choice>
+		       <seg type="lucas">V(espers).</seg>
+		       <orig>V̇.</orig>
+		       <reg>Vespers.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">D(omi)ne</seg>
+		       <orig>Dn̄e</orig>
+		       <reg>Domine</reg>
+	     </choice>
+      <lb/>exaudi 
+	<choice>
+		       <seg type="lucas">oro(num)</seg>
+		       <orig>orō⋮</orig>
+		       <reg>oronum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mea(m).</seg>
+		       <orig>meā.</orig>
+		       <reg>meam.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Or(?)o.</seg>
+		       <orig>Or̄o.</orig>
+		       <reg>Or?o.<!--  check expansion --></reg>
+	     </choice> 
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0042_translation"
+       corresp="#p0042_transcription">To the society of citizens, 
+         may the queen of the angels lead us to one of the heavenly places.
+         General chapter. To you, I have lifted up. Glory. Antiphon. 
+         Come, Holy Spirit, fill the hearts of Thy faithful and kindle in them 
+         kindle in them the fire of Thy love. (I think there is an error in transcription, Qui per diumsitatere)
+         You have gathered the nations together in the unity of faith. Alleluia. Lord have mercy.
+         Christ have mercy. Lord have mercy. Our father and not.
+         At Vespers. Send forth thy spirit, and they shall be created.
+         And thou shalt renew the face of the earth.
+         Save Thy servants. My God, who hope in Thee.
+         At Vespers. Lord, hear my prayer, I pray.</ab>
+
+</div>
+>>>>>>> Stashed changes

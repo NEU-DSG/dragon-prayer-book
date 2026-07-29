@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <div xmlns="http://www.tei-c.org/ns/1.0"
@@ -273,3 +274,280 @@
    </ab>
 
 </div>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="168r"
+     xml:id="p0351">
+
+   <ab type="transcription"
+       xml:id="p0351_transcription"
+       corresp="#p0351_translation">
+
+      <lb/>mittis me ut 
+	<choice>
+		       <seg type="lucas">glucia(m)</seg>
+		       <orig>gluciā</orig>
+		       <reg>gluciam</reg>
+	     </choice> sa
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">liva(m)</seg>
+		       <orig>livā</orig>
+		       <reg>livam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mea(m):</seg>
+		       <orig>meā:</orig>
+		       <reg>meam:</reg>
+	     </choice> Peccavi. 
+	<choice>
+		       <seg type="lucas">Q(ui)d</seg>
+		       <orig>Q̇d</orig>
+		       <reg>Quid</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">facia(m)</seg>
+		       <orig>faciā</orig>
+		       <reg>faciam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(ibi)</seg>
+		       <orig>ṫ</orig>
+		       <reg>tibi</reg>
+	     </choice> o custos 
+	<choice>
+	      <!-- check transcription, looks like the c is small and raised -->
+		       <seg type="lucas">ho(m)i(nu)m:c</seg>
+		       <orig>hōim:c</orig>
+		       <reg>hominum:c</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+	           <!-- 0308 applied on Q but not appearing  -->
+		       <seg type="lucas">Q(ua)re</seg>
+		       <orig>Q̈re</orig>
+		       <reg>Quare</reg>
+	     </choice> <supplied>me</supplied> posuisti *
+	     <choice>
+		       <seg type="lucas">t(ra)riu(m)</seg>
+		       <orig>ɔẗriū</orig>
+		       <reg>contrarium</reg>
+	     </choice> *me
+<lb/>
+	     <choice>
+		       <seg type="lucas">t(ibi);</seg>
+		       <orig>ṫ;</orig>
+		       <reg>tibi;</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">f(a)c(ta)s</seg>
+		       <orig>fc̄s</orig>
+		       <reg>factas</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">su(m)</seg>
+		       <orig>sū</orig>
+		       <reg>sum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(ihi)met</seg>
+		       <orig>ṁmet</orig>
+		       <reg>mihimet</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ip(s)i</seg>
+		       <orig>ip̄i</orig>
+		       <reg>ipsi</reg>
+	     </choice> gra
+<lb break="no"/>vis:c <!-- raised c? check transcription --> Cur 
+	<choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">toll(es)</seg>
+		       <orig>toll͘</orig>
+		       <reg>tolles</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ec)c(a)t(um)</seg>
+		       <orig>pct̄⋮</orig>
+		       <reg>peccatum</reg>
+	     </choice> me
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">u(m):</seg>
+		       <orig>ū:</orig>
+		       <reg>um:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ua)re</seg>
+		       <orig>q̈re</orig>
+		       <reg>quare</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> aufers 
+	<choice>
+		       <seg type="lucas">i(n)iq(ui)ta</seg>
+		       <orig>īiq̇ta</orig>
+		       <reg>iniquita</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">te(m)</seg>
+		       <orig>tē</orig>
+		       <reg>tem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mea(m):c</seg>
+		       <orig>meā:c</orig> <!-- raised c? -->
+		       <reg>meam:c</reg>
+	     </choice> Ecce 
+	<choice>
+		       <seg type="lucas">n(un)c</seg>
+		       <orig>n̄c</orig>
+		       <reg>nunc</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">pulve(re)</seg>
+		       <orig>pulvė</orig>
+		       <reg>pulvere</reg>
+	     </choice>
+      <lb/>dormio: 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> si mane me  
+<lb/>
+	     <choice>
+		       <seg type="lucas">q(ue)sieris</seg>
+		       <orig>q̄sieris</orig>
+		       <reg>quesieris</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(u)bsista(m).</seg>
+		       <orig>sḃsistā.</orig>
+		       <reg>subsistam.</reg>
+	     </choice>        ||
+<lb/>Credo 
+	<choice>
+		       <seg type="lucas">q(uod)</seg>
+		       <orig>ȹ</orig>
+		       <reg>quod</reg>
+	     </choice> redem⸗                ||
+<lb/>ptor 
+	<choice>
+		       <seg type="lucas">m(eu)s</seg>
+		       <orig>m̄s</orig>
+		       <reg>meus</reg>
+	     </choice> vivit [?] <!-- check transcription -->                ||Credo.
+<lb/>
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">novissi(m)o</seg>
+		       <orig>novissīo</orig>
+		       <reg>novissimo</reg>
+	     </choice> die de 
+	<choice>
+		       <seg type="lucas">t(er)ra</seg>
+		       <orig>ṫra</orig>
+		       <reg>terra</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">su(r)</seg>
+		       <orig>su̇</orig>
+		       <reg>sur</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">rectur(us)</seg>
+		       <orig>recturꝰ</orig>
+		       <reg>recturus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">su(m)</seg>
+		       <orig>sū</orig>
+		       <reg>sum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ca(r)ne</seg>
+		       <orig>cȧne</orig>
+		       <reg>carne</reg>
+	     </choice> mea
+<lb/>videbo 
+	<choice>
+		       <seg type="lucas">deu(m).</seg>
+		       <orig>deū.</orig>
+		       <reg>deum.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Salvatore(m)</seg>
+		       <orig>Salvatorē</orig>
+		       <reg>Salvatorem</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0351_translation"
+       corresp="#p0351_transcription">
+         
+         How  long  wilt  Thou not  spare  me,  nor  let me  alone  till  I  swallow down  my  spittle? 
+         I  have  sinned:  what shall  I  do  unto  Thee, O  Keeper  of  men? Why  hast  Thou  set me  contrary  to  Thee; and  I  am  become  burdensome to  myself? 
+         Why  dost  Thou  not do  away  with  my  sin, and  why  takest  Thou not  away  mine  iniquity ?  
+         Behold,  now I  shall  sleep  in  the dust,  and  if  Thou seek  me  in  the  morning I  shall  not  be.
+         R.  I  believe  that my  Redeemer  liveth, and  in  the  last  day  I shall  rise  out  of  the earth:  and  in  my flesh  shall  I  see  God, my  Saviour.  
+         V.  Whom I  myself  shall  see  and not  another,  and  my eyes  shall  behold. R.  My  Saviour.
+         <!-- OBDS pg 406, 407-->
+         
+   </ab>
+
+</div>
+>>>>>>> Stashed changes

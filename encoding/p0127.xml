@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="56r" xml:id="p0127">
@@ -344,3 +345,351 @@
       </ab>
 
 </div>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="56r" xml:id="p0127">
+
+      <ab type="transcription" xml:id="p0127_transcription" corresp="#p0127_translation">
+            <lb/>
+            <choice>
+                  <orig>Cōfiteor.</orig>
+                  <reg>Confiteor.</reg>
+            </choice>Dye <choice>
+                  <seg type="lucas">wochn(er)in.</seg>
+                  <orig>wochṅin.</orig>
+                  <!-- needs checking-->
+                  <reg>wochnerin.</reg>
+            </choice>
+            <lb/>
+            <choice>
+                  <seg type="lucas">mise(re)at(ur)</seg>
+                  <orig>misėat݃</orig>
+                  <reg>misereatur</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">v(est)ri.</seg>
+                  <orig>vr̄i.</orig>
+                  <reg>vestri.</reg>
+            </choice> Dy <choice>
+                  <seg type="lucas">wochn(er)i(n).</seg>
+                  <orig>wochṅī.</orig>
+                  <!-- needs checking -->
+                  <reg>wochnerin.</reg>
+            </choice>
+            <lb/>
+            <choice>
+                  <seg type="lucas">misere(re).</seg>
+                  <orig>miserė.</orig>
+                  <reg>miserere.</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">K(yrie eleison).</seg>
+                  <orig>K.</orig>
+                  <reg>Kyrie eleison.</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">(Christe eleison)</seg>
+                  <orig>X</orig>
+                  <!-- unsure is this a special character for "Christ" ?-->
+                  <reg>Christe eleison</reg>
+            </choice> . <choice>
+                  <seg type="lucas">K(yrie eleison).</seg>
+                  <orig>K.</orig>
+                  <reg>Kyrie eleison.</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">P(ate)r</seg>
+                  <orig>Pr̄</orig>
+                  <reg>Pater</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">n(oste)r.</seg>
+                  <orig>nr̄.</orig>
+                  <reg>noster.</reg>
+            </choice> Et <lb/>ne. <choice>
+                  <seg type="lucas">V(ersiculus)</seg>
+                  <orig>V̇</orig>
+                  <reg>Versiculus</reg>
+            </choice> Salvas fac <choice>
+                  <seg type="lucas">a(n)cillas</seg>
+                  <orig>ācillas</orig>
+                  <reg>ancillas</reg>
+            </choice>
+            <lb/>tuas. <choice>
+                  <seg type="lucas">D(eu)s</seg>
+                  <orig>Ḋs</orig>
+                  <reg>Deus</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">m(eu)s</seg>
+                  <orig>m̄s</orig>
+                  <reg>meus</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">sp(er)a(n)tes</seg>
+                  <orig>sꝑātes</orig>
+                  <reg>sperantes</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">i(n)</seg>
+                  <orig>ī</orig>
+                  <reg>in</reg>
+            </choice> te. <lb/>
+            <choice>
+                  <seg type="lucas">D(omi)ne</seg>
+                  <orig>Dn̄e</orig>
+                  <reg>Domine</reg>
+            </choice> ex. <choice>
+                  <seg type="lucas">Or(emus).</seg>
+                  <orig>Or̄.</orig>
+                  <reg>Oremus.</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">D(eu)s</seg>
+                  <orig>Ḋs</orig>
+                  <reg>Deus</reg>
+            </choice> cui <choice>
+                  <seg type="lucas">p(ro)p(ri)u(m)</seg>
+                  <orig>ꝓṗū</orig>
+                  <reg>proprium</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">e(st).</seg>
+                  <orig>ē.</orig>
+                  <reg>est.</reg>
+            </choice>
+            <lb/>
+            <choice>
+                  <seg type="lucas">Or(ati)o</seg>
+                  <orig>Or̄o</orig>
+                  <reg>Oratio</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">vb(er)</seg>
+                  <orig>vḃ</orig>
+                  <reg>vber</reg>
+            </choice> die. <choice>
+                  <seg type="lucas">xv.</seg>
+                  <orig> xv.</orig>
+                  <reg>xv.</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">ps(almen).</seg>
+                  <orig>p̈s.</orig>
+                  <reg>psalmen.</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">P(ate)r</seg>
+                  <orig>Pr̄</orig>
+                  <reg>Pater</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">n(oste)r</seg>
+                  <orig>nr̄</orig>
+                  <reg>noster</reg>
+            </choice>
+            <lb/>Et ne. <choice>
+                  <seg type="lucas">S(ed).</seg>
+                  <orig>S⋮.</orig>
+                  <reg>Sed.<!--  check expansion needs checking! --></reg>
+            </choice> A A <choice>
+                  <seg type="lucas">p(or)ta</seg>
+                  <orig>ꝑta</orig>
+                  <reg>porta</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">i(n)feri.</seg>
+                  <orig>īferi.</orig>
+                  <reg>inferi.</reg>
+            </choice> E <lb break="no"/>rue <choice>
+                  <seg type="lucas">d(omi)ne</seg>
+                  <orig>dn̄e</orig>
+                  <reg>domine</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">a(n)i(m)as</seg>
+                  <orig>aīas</orig>
+                  <reg>animas</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">eor(um).</seg>
+                  <orig>eoꝝ.</orig>
+                  <reg>eorum.</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">Do(mine)</seg>
+                  <orig>Doᵉ</orig>
+                  <reg>Domine</reg>
+            </choice> ex. <lb/>ABsolve <choice>
+                  <seg type="lucas">q(uesumu)s</seg>
+                  <orig>q̄s</orig>
+                  <reg>quesumus</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">do(mine)</seg>
+                  <orig>doᵉ</orig>
+                  <reg>domine</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">Or(ati)o.</seg>
+                  <orig>Or̄o.</orig>
+                  <reg>Oratio.</reg>
+            </choice>
+            <lb/>
+            <choice>
+                  <seg type="lucas">a(n)i(m)as</seg>
+                  <orig>aīas</orig>
+                  <reg>animas</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">fam(u)lor(um)</seg>
+                  <orig>faml͘oꝝ</orig>
+                  <reg>famulorum</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">fam(u)la</seg>
+                  <orig>faml͘a</orig>
+                  <reg>famula</reg>
+            </choice>
+            <lb break="no"/>
+            <choice>
+                  <seg type="lucas">r(um)q(ue)</seg>
+                  <orig>ꝝq⋮</orig>
+                  <reg>rumque</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">tuar(um)</seg>
+                  <orig>tuaꝝ</orig>
+                  <reg>tuarum</reg>
+            </choice> ab <choice>
+                  <seg type="lucas">o(mn)i</seg>
+                  <orig>oī</orig>
+                  <reg>omni</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">vi(n)c(u)lo</seg>
+                  <orig>vīcl͘o</orig>
+                  <reg>vinculo</reg>
+            </choice> deli <lb break="no"/>
+            <choice>
+                  <seg type="lucas">ctor(um)</seg>
+                  <orig>ctoꝝ</orig>
+                  <reg>ctorum</reg>
+            </choice> ut <choice>
+                  <seg type="lucas">i(n)</seg>
+                  <orig>ī</orig>
+                  <reg>in</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">resurrect(i)o(n)is</seg>
+                  <orig>resurrectōis</orig>
+                  <reg>resurrectionis</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">gl(ori)a</seg>
+                  <orig>gl͘a</orig>
+                  <reg>gloria</reg>
+            </choice>
+            <lb/>
+            <choice>
+                  <seg type="lucas">i(n)t(er)</seg>
+                  <orig>it͘</orig>
+                  <reg>inter</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">s(an)c(t)os</seg>
+                  <orig>scōs</orig>
+                  <reg>sanctos</reg>
+            </choice> tuos resuscitati <choice>
+                  <seg type="lucas">r(e)</seg>
+                  <orig>r̄</orig>
+                  <reg>re</reg>
+            </choice>
+            <lb break="no"/>
+            <choice>
+                  <seg type="lucas">spire(n)t.</seg>
+                  <orig>spirēt.</orig>
+                  <reg>spirent.</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">P(er).</seg>
+                  <orig>Ꝑ.</orig>
+                  <reg>Per.</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">V(ersiculus).</seg>
+                  <orig>V̇.</orig>
+                  <reg>Versiculus.</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">Me(m)or</seg>
+                  <orig>Mēor</orig>
+                  <reg>Memor</reg>
+            </choice> esto <choice>
+                  <seg type="lucas">(con)⸗</seg>
+                  <orig>ɔ</orig>
+                  <reg>con⸗</reg>
+            </choice>
+      </ab>
+
+      <ab type="translation" xml:id="p0127_translation" corresp="#p0127_transcription"> I confess to
+            [almighty God, to blessed Mary ever virgin, to blessed Dominic our Father, to all the
+            saints, (and to you, father), that I have sinned exceedingly in thought, word, deed, and
+            omission, through my fault: I beseech you, pray for me.] <!-- OBDS 490--> Weekly
+            presider: <!-- German, CJ Jones --> May almighty God have mercy on you, [and may He
+            forgive you all your sins; may He free you from all evil, save and strengthen you in
+            every good work and may He lead you to eternal life.]
+            <!-- OBDS 491 - general absolution --> Weekly presider: <!-- German, CJ Jones --> [Have
+            mercy on] me, O God : according to Thy great mercy. And according to the multitude of
+            Thy tender mercies: blot out mine iniquity. Wash me yet more from mine iniquity: and
+            cleanse me from my sin. For I know mine iniquity: and my sin is always before me. To
+            Thee only have I sinned and have done evil before Thee: that Thou mayest be justified in
+            Thy words and mayest overcome when Thou art judged. For behold I was conceived in
+            iniquities: and in sins did my mother conceive me. For behold Thou hast loved truth: the
+            uncertain and hidden things of Thy wisdom Thou hast made manifest unto me. Thou shalt
+            sprinkle me with hyssop and I shall be cleansed: Thou shalt wash me and I shall be made
+            whiter than snow. To my hearing Thou shalt give joy and gladness: and the bones that
+            have been humbled shall rejoice. Turn away Thy face from my sins: and blot out all mine
+            iniquities. Create a clean heart in me, O God: and renew a right spirit within my
+            bowels. Cast me not away from Thy face: and take not Thy Holy Spirit from me. Restore
+            unto me the joy of Thy salvation: and strengthen me with a perfect spirit. I will teach
+            the unjust Thy ways: and the wicked shall be converted to Thee. Deliver me from blood, O
+            God, Thou God of my salvation: and my tongue shall extol Thy justice. O Lord, Thou wilt
+            open my lips : and my mouth shall declare Thy praise. For if Thou hadst desired
+            sacrifice, I would indeed have given it: with burnt offerings Thou wilt not be
+            delighted. A sacrifice to God is an afflicted spirit: a contrite and humble heart, O
+            God, Thou wilt not despise. Deal favourably, O Lord, in Thy good will with Sion: that
+            the walls of Jerusalem may be built up. Then shalt Thou accept the sacrifice of justice,
+            oblations, and whole burnt offerings : then shall they lay calves upon Thine altar.
+            Eternal rest give to them, O Lord: and let perpetual light shine upon them. The bones
+            that have been humbled shall rejoice in the
+            Lord.<!-- OBDS pg 441 - Psalm 50, office of the dead. not sure if it is implying the entire psalm -->
+            Lord have mercy, Christ have mercy, Lord have mercy. Our Father, [who art in heaven:
+            hallowed be thy name. Thy kingdom come. Thy will be done, on earth as it is in heaven.
+            Give us this day our daily bread, and forgive us our trespasses, as we forgive those who
+            trespass against us. And [lead us] not [into temptation, but deliver us from evil.]
+            Versicle. O Lord, save Thy handmaids. Who trust in Thee, O my God. <!-- OBDS 486--> O
+            Lord, [hear my prayer.] Let us pray. God, whose property it is [always to have mercy and
+            to spare: receive our prayer, that the mercy of Thy compassion may graciously pardon us
+            and all Thy servants, who are bound by the chain of our faults. Graciously hear, O Lord,
+            the prayers of Thy suppliants, and spare those who con- fess their sins to Thee, that
+            Thou mayest grant us in Thy goodness both pardon and peace. In Thy unspeakable clemency,
+            O Lord, show Thy mercy upon us : that Thou mayest both strip us of all our sins, and
+            deliver us from the punishment which for them we deserve. O God, who art offended by sin
+            and appeased by repentance: look favourably upon the prayers of Thy suppliant people,
+            and turn away the scourges of Thy anger, which we deserve for our sins. Through Christ
+            our Lord. <!-- OBDS 489 --> Collects over the fifteen psalms.
+            <!-- after Oratio(Collect) is german, CJ Jones --> Our Father, [who art in heaven:
+            hallowed be thy name. Thy kingdom come. Thy will be done, on earth as it is in heaven.
+            Give us this day our daily bread, and forgive us our trespasses, as we forgive those who
+            trespass against us. And [lead us] not [into temptation, but deliver us from evil.] From
+            the gates of hell. Deliver their souls, O Lord. <!-- OBDS 441 --> O Lord, [hear my
+            prayer. And let my cry come unto Thee.] Collect. Absolve, O Lord, we beseech You, the
+            soul of your servant from every bond of sin, that he may be raised up in the glory of
+            the resurrection, and live again among Your saints: through our Lord. <!-- DM 1306 -->
+            Versicle. Be mindful of your congregations. <!-- Google translate, needs checking -->
+      </ab>
+
+</div>
+>>>>>>> Stashed changes

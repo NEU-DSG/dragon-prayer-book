@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <div xmlns="http://www.tei-c.org/ns/1.0"
@@ -284,3 +285,291 @@ nostri.
    </ab>
 
 </div>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="117v"
+     xml:id="p0250">
+
+   <ab type="transcription"
+       xml:id="p0250_transcription"
+       corresp="#p0250_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">q(ue)</seg>
+	             <orig>q⋮</orig>
+		       <reg>que</reg>
+	     </choice> soli filio
+	<choice>
+		       <seg type="lucas">cu(m)</seg>
+	             <orig>cū</orig>
+		       <reg>cum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sp(irit)u</seg>
+	             <orig>spū</orig>
+		       <reg>spiritu</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ar)acli</seg>
+	             <orig>ꝑacli</orig>
+		       <reg>paracli</reg>
+	     </choice>
+      <lb break="no"/>to 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(un)c</seg>
+		       <orig>n̄c</orig>
+		       <reg>nunc</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)p(er)petuu(m).</seg>
+	            <orig>īpꝑetuū.</orig>
+		       <reg>inperpetuum.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Ame(n).</seg>
+	             <orig>Amē.</orig>
+		       <reg>Amen.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">V(espers)</seg>
+	             <orig>V̇</orig>
+		       <reg>Versiculus.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Vesp(er)ti(n)a</seg>
+	             <orig>Vesꝑtīa</orig>
+		       <reg>Vespertina</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">or(ati)o.</seg>
+	             <orig>ōr̄o.</orig>
+		       <reg>oratio.</reg>
+	     </choice> ascendat
+<lb/>ad te 
+	<choice>
+		       <seg type="lucas">d(omi)ne.</seg>
+		       <orig>dn̄e.</orig>
+		       <reg>domine.</reg>
+	     </choice> Et 
+	<choice>
+		       <seg type="lucas">desce(n)dat</seg>
+	             <orig>descēdat</orig>
+		       <reg>descendat</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(upe)r</seg>
+		       <orig>sr̄</orig>
+		       <reg>super</reg>
+	     </choice>
+      <lb/>nos 
+	<choice>
+		       <seg type="lucas">mi(sericordi)a</seg>
+	             <orig>mīa</orig>
+		       <reg>misericordia</reg>
+	     </choice> tua. Ad 
+	<choice>
+		       <seg type="lucas">(co)pl(is?)</seg>
+	             <orig>ɔpl͘</orig>
+		       <reg>conplis</reg>
+	     </choice> iu
+<lb break="no"/>be 
+	<choice>
+		       <seg type="lucas">d(omi)na</seg>
+		       <orig>dn̄a</orig>
+		       <reg>domina</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">b(e)n(e)dice(re).</seg>
+	             <orig>bn̄dicė.</orig>
+		       <reg>benedicere.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Nocte(m)</seg>
+	             <orig>Noctē</orig>
+		       <reg>Noctem</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">q(ui)eta(m)</seg>
+	             <orig>q̇etā</orig>
+		       <reg>quietam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">fine(m)</seg>
+	             <orig>finē</orig>
+		       <reg>finem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(er)f(e)c(tu)m;</seg>
+	             <orig>ꝑfc̄m;</orig> 
+		       <reg>perfectum;</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(ri)buat</seg>
+	             <orig>ṫbuat</orig>
+		       <reg>tribuat</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">nob(is)</seg>
+	             <orig>noḃ</orig>
+		       <reg>nobis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mni)p(oten)s</seg>
+		       <orig>op̄s</orig>
+		       <reg>omnipotens</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mi(seri)cors</seg>
+	             <orig>mīcors</orig>
+		       <reg>misericors</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)n(u)s.</seg>
+		       <orig>dn̄s.</orig>
+		       <reg>dominus.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">Ame(n).</seg>
+	             <orig>Amē.</orig>
+		       <reg>Amen.</reg>
+	     </choice> Sorores sobrie
+<lb/>estote 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> vigilate; 
+	<choice>
+		       <seg type="lucas">q(uia)</seg>
+		       <orig>q:</orig>
+		       <reg>quia</reg>
+	     </choice> ad
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">v(er)sari(us)</seg>
+	             <orig>v̇sariꝰ</orig> 
+		       <reg>versarius</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(este)r</seg>
+		       <orig>vr̄</orig>
+		       <reg>vester</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">dyabol(us).</seg>
+	             <orig>dyabolꝰ.</orig>
+		       <reg>dyabolus.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ta(m)q(uam)</seg>
+	             <orig>tāq̈</orig> <!-- we have no decided the abbreviation for quam -->
+		       <reg>tamquam</reg>
+	     </choice>
+      <lb/>leo 
+	<choice>
+		       <seg type="lucas">rugie(n)s</seg>
+	             <orig>rugiēs</orig>
+		       <reg>rugiens</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">c(ir)cuit</seg>
+	             <orig>ċcuit</orig>
+		       <reg>circuit</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">quere(n)s</seg>
+	             <orig>querēs</orig>
+		       <reg>querens</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">que(m)</seg>
+	             <orig>quē</orig>
+		       <reg>quem</reg>
+	     </choice> devoret: cui resistite
+<lb/>fortes 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+	             <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> fide; Tu 
+	<choice>
+		       <seg type="lucas">a(u)t(em).*</seg>
+		       <orig>at̄.*</orig>
+		       <reg>autem.*</reg>
+	     </choice> Adiu
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">toriu(m)</seg>
+	             <orig>toriū</orig>
+		       <reg>torium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(ost)r(u)m</seg>
+		       <orig>nr̄m</orig>
+		       <reg>nostrum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+	             <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">no(m)i(n)e</seg>
+	             <orig>noīe</orig>
+		       <reg>nomine</reg>
+	     </choice> 
+	  
+*Domine
+mise-
+rere
+nostri.
+
+
+	     
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0250_translation"
+       corresp="#p0250_transcription"> All laud to God the Father be;
+         All praise, Eternal Son, to Thee;
+         All glory, as is ever meet,
+         To God the Holy Paraclete. <!-- source linked in main transc. doc hymn "o lux beata" translation john neale -->
+         Versicle. The evening prayer. May this ascend to Thee, O Lord, and may Thy Mercy descend upon us. <!-- incomplete/needs checking -unsure of "May this". source linked (it's from the Mass -->
+         At compline. We pray thee vouchsafe us a blessing. <!-- OBDS pg 30 --> 
+         A quiet night and perfect end may He give to us, the almighty and merciful Lord. <!-- linked in doc st. catherine center and my transl. -->
+         Amen. Sisters, Be sober and watch: because your adversary the devil, as a roaring lion, goeth about seeking whom he may devour. 
+         Whom resist ye, strong in faith: but you. <!-- 1 peter 5:8 but they add "tu autem" and I'm not sure if it makes sense. --> Lord, have mercy on us. 
+         Our help is in the name of the Lord, <!-- psalm 123 cont also it looks like a word is missing in the transcription -->
+   </ab>
+
+</div>
+>>>>>>> Stashed changes

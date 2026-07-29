@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <div xmlns="http://www.tei-c.org/ns/1.0"
@@ -308,3 +309,315 @@
    </ab>
 
 </div>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="31v"
+     xml:id="p0078">
+
+   <ab type="transcription"
+       xml:id="p0078_transcription"
+       corresp="#p0078_translation">
+
+      <lb/>LAudate 
+	<choice>
+		       <seg type="lucas">d(omi)n(um)</seg>
+		       <orig>dn̄⋮</orig>
+		       <reg>dominum</reg>
+	     </choice> de celis:
+<lb/>laudate 
+	<choice>
+		       <seg type="lucas">eu(m)</seg>
+		       <orig>eū</orig>
+		       <reg>eum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> excelsis.
+<lb/>Laudate 
+	<choice>
+		       <seg type="lucas">eu(m)</seg>
+		       <orig>eū</orig>
+		       <reg>eum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mne)s</seg>
+		       <orig>ōs</orig>
+		       <reg>omnes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(n)g(e)li</seg>
+		       <orig>āgl͘i</orig>
+		       <reg>angeli</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ei(us):</seg>
+		       <orig>eiꝰ:</orig>
+		       <reg>eius:</reg>
+	     </choice>
+      <lb/>laudate 
+	<choice>
+		       <seg type="lucas">eu(m)</seg>
+		       <orig>eū</orig>
+		       <reg>eum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mne)s</seg>
+		       <orig>ōs</orig>
+		       <reg>omnes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(ir)tutes</seg>
+		       <orig>v̇tutes</orig>
+		       <reg>virtutes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ei(us).</seg>
+		       <orig>eiꝰ.</orig>
+		       <reg>eius.</reg>
+	     </choice>
+      <lb/>Laudate 
+	<choice>
+		       <seg type="lucas">eu(m)</seg>
+		       <orig>eū</orig>
+		       <reg>eum</reg>
+	     </choice> sol 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">lu(n)a:</seg>
+		       <orig>lūa:</orig>
+		       <reg>luna:</reg>
+	     </choice> lau
+<lb break="no"/>date 
+	<choice>
+		       <seg type="lucas">eu(m)</seg>
+		       <orig>eū</orig>
+		       <reg>eum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mne)s</seg>
+		       <orig>ōs</orig>
+		       <reg>omnes</reg>
+	     </choice> stelle 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">lume(n).</seg>
+		       <orig>lumē.</orig>
+		       <reg>lumen.</reg>
+	     </choice>
+      <lb/>Laudate 
+	<choice>
+		       <seg type="lucas">eu(m)</seg>
+		       <orig>eū</orig>
+		       <reg>eum</reg>
+	     </choice> celi 
+	<choice>
+		       <seg type="lucas">celo(rum):</seg>
+		       <orig>celoꝝ:</orig>
+		       <reg>celorum:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et)</seg>
+		       <orig>+</orig>
+		       <reg>et</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">aq(ue)</seg>
+	     	<orig>aq̄</orig> 
+		       <reg>aquae</reg>
+	     </choice> \\omnes// 
+	<choice>
+		       <seg type="lucas">q(ue)</seg>
+		<orig>q̄</orig> 
+		       <reg>quae</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(upe)r</seg>
+		       <orig>sr̄</orig>
+		       <reg>super</reg>
+	     </choice> celos 
+	<choice>
+		       <seg type="lucas">s(un)t</seg>
+		       <orig>sṫ</orig>
+		       <reg>sunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">laude(n)t</seg>
+		       <orig>laudēt</orig>
+		       <reg>laudent</reg>
+	     </choice> no
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">me(n)</seg>
+		       <orig>mē</orig>
+		       <reg>men</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)ni.</seg>
+		       <orig>dn̄i.</orig>
+		       <reg>domini.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Q(ui)a</seg>
+		       <orig>Q͘a</orig>
+		       <reg>Quia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ip(s)e</seg>
+		       <orig>ip̄e</orig>
+		       <reg>ipse</reg>
+	     </choice> dixit et
+<lb/>
+	     <choice>
+		       <seg type="lucas">f(a)c(t)a</seg>
+		       <orig>fc̄a</orig>
+		       <reg>facta</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(un)t:</seg>
+		       <orig>sṫ:</orig>
+		       <reg>sunt:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ip(s)e</seg>
+		       <orig>ip̄e</orig>
+		       <reg>ipse</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ma(n)davit</seg>
+		       <orig>mādavit</orig>
+		       <reg>mandavit</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> cre
+<lb break="no"/>ata 
+	<choice>
+		       <seg type="lucas">s(un)t.</seg>
+		       <orig>sṫ.</orig>
+		       <reg>sunt.</reg>
+	     </choice> Statuit ea 
+	<choice>
+		<seg type="lucas">i(n)et(er)nu(m)</seg>
+		<orig>īeṫnū</orig>
+		<reg>ineternum</reg>
+	     </choice> 
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(e)c(u)l(um)</seg>
+		       <orig>scl͘⋮</orig>
+		       <reg>seculum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(e)c(u)li:</seg>
+		       <orig>scl͘i:</orig>
+		       <reg>seculi:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(re)ceptu(m)</seg>
+		       <orig>p̄ceptū</orig>
+		       <reg>preceptum</reg>
+	     </choice> posuit
+<lb/>
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">no(n)</seg>
+		       <orig>nō</orig>
+		       <reg>non</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(re)t(er)ibit.</seg>
+		       <orig>p̄t̄ibit.</orig>
+		       <reg>preteribit.</reg>
+	     </choice> Laudate 
+	<choice>
+		       <seg type="lucas">d(omi)n(um)</seg>
+		       <orig>dn̄⋮</orig>
+		       <reg>dominum</reg>
+	     </choice>
+      <lb/>de 
+	<choice>
+		       <seg type="lucas">t(er)ra:</seg>
+		       <orig>t̄ra:</orig>
+		       <reg>terra:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">draco(n)es</seg>
+		       <orig>dracōes</orig>
+		       <reg>dracones</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mne)s</seg>
+		       <orig>ōs</orig>
+		       <reg>omnes</reg>
+	     </choice> abys
+<lb break="no"/>si. Ignis 
+	<choice>
+		       <seg type="lucas">g(ra)ndo</seg>
+		       <orig>gn̈do</orig>
+		       <reg>grando</reg>
+	     </choice> nix glaci⸗
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0078_translation"
+       corresp="#p0078_transcription">
+   	Praise ye the Lord from the heavens: 
+  	praise ye Him in the high places. 
+  	Praise ye Him, all His angels: praise ye Him, all His hosts. 
+  	Praise ye Him, O sun and moon: praise Him all ye stars and light. 
+  	Praise Him, O ye heavens of heavens: and let all the waters
+   	<!-- OBDS p. 62  -->
+  	that are above the heavens, praise the name of the Lord. 
+  	For He spoke and they were made:
+  	He commanded and they were created. 
+  	He hath established them for ever, and for ages and ages: 
+  	He hath made a decree and it shall not pass away. 
+  	O praise the Lord from the earth: ye dragons and all ye deeps.
+  	Fire, hail, snow, ice, stormy winds: which fulfil His word:
+   	<!-- OBDS p. 64  -->
+   	
+   	
+   	
+   	
+   </ab>
+
+</div>
+>>>>>>> Stashed changes

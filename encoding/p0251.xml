@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <div xmlns="http://www.tei-c.org/ns/1.0"
@@ -317,3 +318,324 @@
    </ab>
 
 </div>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="118r"
+     xml:id="p0251">
+
+   <ab type="transcription"
+       xml:id="p0251_transcription"
+       corresp="#p0251_translation">
+
+      <lb/>fecit 
+	<choice>
+		       <seg type="lucas">celu(m)</seg>
+		       <orig>celū</orig>
+		       <reg>celum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(er)ra(m).</seg>
+		       <orig>ṫrā.</orig>
+		       <reg>terram.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">P(ate)r</seg>
+		       <orig>Pr̄</orig>
+		       <reg>Pater</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(oste)r.</seg>
+		       <orig>nr̄.</orig>
+		       <reg>noster.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">Co(n)fiteor</seg>
+		       <orig>Cōfiteor</orig>
+		       <reg>Confiteor</reg>
+	     </choice> deo 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">b(ea)te</seg>
+		       <orig>bt̄e</orig>
+		       <reg>beate</reg>
+	     </choice> ma
+<lb break="no"/>rie 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">b(ea)to</seg>
+		       <orig>bt̄o</orig>
+		       <reg>beato</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)nico</seg>
+		       <orig>dn̄ico</orig>
+		       <reg>dominico</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mn)ib(us)</seg>
+		       <orig>ōib⋮</orig>
+		       <reg>omnibus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(an)c(t)is</seg>
+		       <orig>sc̄is</orig>
+		       <reg>sanctis</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">vob(is)</seg>
+		       <orig>voḃ</orig>
+		       <reg>vobis</reg>
+	     </choice> sorores 
+	<choice>
+		       <seg type="lucas">q(uia)</seg>
+		       <orig>q:</orig>
+		       <reg>quia</reg>
+	     </choice> peccavi
+<lb/>nimis 
+	<choice>
+		       <seg type="lucas">cogitat(i)o(n)e</seg>
+		       <orig>cogitatōe</orig>
+		       <reg>cogitatione</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">locut(i)o(n)e</seg>
+		       <orig>locutōe</orig>
+		       <reg>locutione</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">op(er)e</seg>
+		       <orig>oꝑe</orig>
+		       <reg>opere</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">omissio(n)e</seg>
+		       <orig>omissiōe</orig>
+		       <reg>omissione</reg>
+	     </choice> mea cul
+<lb break="no"/>pa 
+	<choice>
+		       <seg type="lucas">p(re)cor</seg>
+		       <orig>p̄cor</orig>
+		       <reg>precor</reg>
+	     </choice> vos orate 
+	<choice>
+		       <seg type="lucas">p(ro)</seg>
+		       <orig>ꝑ</orig>
+		       <reg>pro</reg>
+	     </choice> me
+<lb/>
+	     <choice>
+		       <seg type="lucas">Misereat(ur)</seg>
+		       <orig>Misereat݃</orig>
+		       <reg>Misereatur</reg>
+	     </choice> tui 
+	<choice>
+		       <seg type="lucas">o(mni)p(oten)s</seg>
+		       <orig>op̄s</orig>
+		       <reg>omnipotens</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(eu)s</seg>
+		       <orig>ḋs</orig>
+		       <reg>deus</reg>
+	     </choice> et
+<lb/>dimittat 
+	<choice>
+		       <seg type="lucas">t(ibi)</seg>
+		       <orig>ṫ</orig>
+		       <reg>tibi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mn)ia</seg>
+		       <orig>oīa</orig>
+		       <reg>omnia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ec)c(a)ta</seg>
+		       <orig>pct̄a</orig>
+		       <reg>peccata</reg>
+	     </choice> tua
+<lb/>
+	     <choice>
+		       <seg type="lucas">libe(re)t</seg>
+		       <orig>libėt</orig>
+		       <reg>liberet</reg>
+	     </choice> te ab 
+	<choice>
+		       <seg type="lucas">o(mn)i</seg>
+		       <orig>ōi</orig>
+		       <reg>omni</reg>
+	     </choice> malo 
+	<choice>
+		       <seg type="lucas">salv(et)</seg>
+		       <orig>salv⋮</orig>
+		       <reg>salvet</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(con)firmet</seg>
+		       <orig>ɔfirmet</orig>
+		       <reg>confirmet</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mn)i</seg>
+		       <orig>ōi</orig>
+		       <reg>omni</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">op(er)e</seg>
+		       <orig>oꝑe</orig>
+		       <reg>opere</reg>
+	     </choice> bono
+<lb/>
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(er)ducat</seg>
+		       <orig>ꝑducat</orig>
+		       <reg>perducat</reg>
+	     </choice> ad 
+	<choice>
+		       <seg type="lucas">vita(m)</seg>
+		       <orig>vitā</orig>
+		       <reg>vitam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">eterna(m).</seg>
+		       <orig>eternā.</orig>
+		       <reg>eternam.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">Ame(n).</seg>
+		       <orig>Amē.</orig>
+		       <reg>Amen.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Co(n)fiteor</seg>
+		       <orig>Cōfiteor</orig>
+		       <reg>Confiteor</reg>
+	     </choice> deo 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">b(ea)te</seg>
+		       <orig>b̄te</orig>
+		       <reg>beate</reg>
+	     </choice>
+      <lb/>marie 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">b(ea)to</seg>
+		       <orig>bt̄o</orig>
+		       <reg>beato</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)nico*</seg>
+		       <orig>dn̄ico*</orig>
+		       <reg>dominico*</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> tibi
+<lb/>
+	     <choice>
+		       <seg type="lucas">m(ate)r</seg>
+		       <orig>mr̄</orig>
+		       <reg>mater</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uia)</seg>
+		       <orig>q:</orig>
+		       <reg>quia</reg>
+	     </choice> peccavi nimis co⸗
+
+	<choice>
+		       <seg type="lucas">det(?)</seg>
+		       <orig>*etº</orig>
+		       <reg>*et</reg>
+	     </choice> omnibus
+ sanctis
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0251_translation"
+       corresp="#p0251_transcription">made heaven and earth. 
+         Our Father, [who art in heaven: hallowed be thy name. Thy kingdom come. 
+         Thy will be done, on earth as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us.
+         And lead us not into temptation, but deliver us from evil.]
+         I confess to almighty God, to blessed Mary
+         ever a virgin, to blessed Dominic our father, to all
+         the saints and to you, brethren, that I have sinned
+         exceedingly by thought, word, deed and omission,
+         through my fault: I beseech you to pray for me.
+         May almighty God have mercy on you and
+         forgive you all your sins: may He free you from all
+         evil, strengthen and confirm you in every good
+         work, and bring you to life everlasting. Amen. 
+      I confess to almighty God, to blessed Mary
+         ever a virgin, to blessed Dominic, to all
+         the saints and to you mother, that I have sinned
+         exceedingly by thought, <!-- DM pg 617 cont, ordinary of the mass -->
+   </ab>
+
+</div>
+>>>>>>> Stashed changes

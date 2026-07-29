@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <div xmlns="http://www.tei-c.org/ns/1.0"
@@ -405,3 +406,412 @@
          He died for our salvation, <!--athanasian cont --></ab>
 
 </div>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="67r"
+     xml:id="p0149">
+
+   <ab type="transcription"
+       xml:id="p0149_transcription"
+       corresp="#p0149_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">p(at)ris</seg>
+		       <orig>pr̄is</orig>
+		       <reg>patris</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">an(te)</seg>
+		       <orig>an̄</orig>
+		       <reg>ante</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(e)c(u)la</seg>
+		       <orig>scl͘a</orig>
+		       <reg>secula</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ge(n)it(us):</seg>
+		       <orig>gēitꝰ:</orig>
+		       <reg>genitus:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">h(om)o</seg>
+		       <orig>hō</orig>
+		       <reg>homo</reg>
+	     </choice> ex
+<lb/>
+	     <choice>
+		       <seg type="lucas">sub(stanti)a</seg>
+		       <orig>suḃa</orig>
+		       <reg>substantia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(at)ris</seg>
+		       <orig>mr̄is</orig>
+		       <reg>matris</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(e)c(u)lo</seg>
+		       <orig>scl͘o</orig>
+	         
+		       <reg>seculo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">nat(us).</seg>
+		       <orig>natꝰ.</orig>
+		       <reg>natus.</reg>
+	     </choice> Per
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">f(e)c(tu)s</seg>
+		       <orig>fc̄s</orig>
+		       <reg>fectus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(eu)s:</seg>
+		       <orig>ḋs:</orig>
+		       <reg>deus:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(er)f(e)c(tu)s</seg>
+		       <orig>ꝑfc̄s</orig>
+		       <reg>perfectus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">h(om)o</seg>
+		       <orig>hō</orig>
+		       <reg>homo</reg>
+	     </choice> ex 
+	<choice>
+		       <seg type="lucas">a(n)i(m)a</seg>
+		       <orig>aīa</orig>
+		       <reg>anima</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">r(ati)o(n)a</seg>
+		       <orig>röa</orig>
+		       <reg>rationa</reg>
+	     </choice>
+      <lb break="no"/>li 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">hu(m)ana</seg>
+		       <orig>hūana</orig>
+		       <reg>humana</reg>
+	     </choice> carne 
+	<choice>
+		       <seg type="lucas">s(u)bsiste(n)s.</seg>
+		       <orig>sḃsistēs.</orig>
+		       <reg>subsistens.</reg>
+	     </choice> 
+      <lb/>
+	     <choice>
+		       <seg type="lucas">Eq(ua)l(is)</seg>
+		       <orig>Eq̈l͘</orig>
+		       <reg>Equalis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(at)ri</seg>
+		       <orig>pr̄i</orig>
+		       <reg>patri</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(e)c(un)d(um)</seg>
+		       <orig>scḋ⋮</orig>
+		       <reg>secundum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(iv)initate(m):</seg>
+		       <orig>ḋinitatē:</orig>
+		       <reg>divinitatem:</reg>
+	     </choice> mi
+<lb break="no"/>nor 
+	<choice>
+		       <seg type="lucas">p(at)re</seg>
+		       <orig>pr̄e</orig>
+		       <reg>patre</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(e)c(un)d(um)</seg>
+		       <orig>scḋ⋮</orig>
+		       <reg>secundum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">hu(m)anitate(m).</seg>
+		       <orig>hūanitatē.</orig>
+		       <reg>humanitatem.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">Q(u)i</seg>
+		       <orig>Qi</orig>
+		       <reg>Qui</reg>
+	           	    
+	     </choice> licet 
+	<choice>
+		       <seg type="lucas">d(eu)s</seg>
+		       <orig>ḋs</orig>
+		       <reg>deus</reg>
+	     </choice> sit 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">h(om)o:</seg>
+		       <orig>hō:</orig>
+		       <reg>homo:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">no(n)</seg>
+		       <orig>nō</orig>
+		       <reg>non</reg>
+	     </choice>
+      <lb/>duo 
+	<choice>
+		       <seg type="lucas">t(ame)n</seg>
+		       <orig>tn̄</orig>
+		       <reg>tamen</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(ed)</seg>
+		       <orig>s⋮</orig>
+		       <reg>sed</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">un(us)</seg>
+		       <orig>unꝰ</orig>
+		       <reg>unus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">e(st)</seg>
+		       <orig>ē</orig>
+		       <reg>est</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(christus).</seg>
+		       <orig>xꝰ.</orig>
+		       <reg>christus.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Un(us)</seg>
+		       <orig>Unꝰ</orig>
+		       <reg>Unus</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">a(u)t(em)</seg>
+		       <orig>at̄</orig>
+		       <reg>autem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> 
+	     <choice>
+	             <seg type="lucas">(con)v(er)sio(n)e</seg>
+	             <orig>ɔv̇siōe</orig>
+		       <reg>con</reg>
+	           
+	     </choice>
+	     <choice>
+		       <seg type="lucas">d(iv)initatis</seg>
+		       <orig>ḋinitatis</orig>
+		       <reg>divinitatis</reg>
+	     </choice> in
+<lb break="no"/>carne: 
+	<choice>
+		       <seg type="lucas">s(ed)</seg>
+		       <orig>s⋮</orig>
+		       <reg>sed</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">assu(m)pt(i)o(n)e</seg>
+		       <orig>assūptoē</orig>
+		       <reg>assumptione</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">hu(m)ani</seg>
+		       <orig>hūani</orig>
+		       <reg>humani</reg>
+	     </choice>
+      <lb break="no"/>tatis 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> deo. 
+	<choice>
+		       <seg type="lucas">Un(us)</seg>
+		       <orig>Unꝰ</orig>
+		       <reg>Unus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mn)ino</seg>
+		       <orig>ōino</orig>
+		       <reg>omnino</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+	             <seg type="lucas">(con)fusio(n)e</seg>
+	             <orig>ɔfusiōe</orig>
+		       <reg>confusione</reg>
+	     </choice>
+	     
+	     <choice>
+		       <seg type="lucas">sub(stanti)e:</seg>
+		       <orig>suḃe:</orig>
+		       <reg>substantie:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(ed)</seg>
+		       <orig>s⋮</orig>
+		       <reg>sed</reg>
+	     </choice> unitate 
+	<choice>
+	    
+		       <seg type="lucas">p(er)</seg>
+		       <orig>ꝑ</orig>
+		       <reg>per</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">so(n)e.</seg>
+		       <orig>sōe.</orig>
+		       <reg>sone.</reg>
+	           
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Na(m)</seg>
+		       <orig>Nā</orig>
+		       <reg>Nam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sic(ut)</seg>
+		       <orig>sic̄</orig>
+		       <reg>sicut</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(n)i(m)a</seg>
+		       <orig>aīa</orig>
+		       <reg>anima</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">r(ati)onal(is)</seg>
+		       <orig>rōnal͘</orig>
+		       <reg>rationalis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et)</seg>
+		       <orig>+</orig>
+		       <reg>et</reg>
+	     </choice>
+      <lb/>caro 
+	<choice>
+		       <seg type="lucas">un(us)</seg>
+		       <orig>unꝰ</orig>
+		       <reg>unus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">e(st)</seg>
+		       <orig>ē</orig>
+		       <reg>est</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">h(om)o:</seg>
+		       <orig>hō:</orig>
+		       <reg>homo:</reg>
+	     </choice> ita 
+	<choice>
+		       <seg type="lucas">d(eu)s</seg>
+		       <orig>ḋs</orig>
+		       <reg>deus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">h(om)o</seg>
+		       <orig>hō</orig>
+		       <reg>homo</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">un(us)</seg>
+		       <orig>unꝰ</orig>
+		       <reg>unus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">e(st)</seg>
+		       <orig>ē</orig>
+		       <reg>est</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(christus).</seg>
+		       <orig>xp̄r.</orig>
+		       <reg>christus.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Q(u)i</seg>
+		       <orig>Qi</orig>
+		       <reg>Qui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">pass(us)</seg>
+		       <orig>passꝰ</orig>
+		       <reg>passus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">e(st)</seg>
+		       <orig>ē</orig>
+		       <reg>est</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ro)</seg>
+		       <orig>ꝓ</orig>
+		       <reg>pro</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0149_translation"
+       corresp="#p0149_transcription"> As God, He was begotten of the substance of the Father before time; 
+         as man, He was born in time of the substance of His Mother.
+         He is perfect God; and He is perfect man, with a rational soul and human flesh. 
+         He is equal to the Father in His divinity, but inferior to the Father in His humanity. 
+         Although He is God and man, He is not two, but one Christ. 
+         And He is one, not because His divinity was changed into flesh, but because His humanity was assumed unto God. 
+         He is one, not by a mingling of substances, but by unity of person. 
+         As a rational soul and flesh are one man: so God and man are one Christ. 
+         He died for our salvation, <!--athanasian cont --></ab>
+
+</div>
+>>>>>>> Stashed changes
