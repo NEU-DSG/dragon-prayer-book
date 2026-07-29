@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <div xmlns="http://www.tei-c.org/ns/1.0"
@@ -155,3 +156,162 @@
    </ab>
 
 </div>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="216v"
+     xml:id="p0448">
+
+   <ab type="transcription"
+       xml:id="p0448_transcription"
+       corresp="#p0448_translation">
+ SECOND LITANY OF SAINTS
+<lb/>
+	     <choice>
+		       <seg type="lucas">O(mne)s</seg>
+		       <orig>Ōs</orig>
+		       <reg>Omnes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(an)c(t)i</seg>
+		       <orig>sc̄i</orig>
+		       <reg>sancti</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(con)fessores</seg>
+		       <orig>ɔfessores</orig>
+		       <reg>confessores</reg>
+	     </choice>                          orate
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Scā</orig>
+		       <reg>Sancta</reg>
+	     </choice> Anna                                        ore
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Scā</orig>
+		       <reg>Sancta</reg>
+	     </choice> maria 
+	<choice>
+		       <seg type="lucas">magda(lena).</seg>
+		       <orig>magdä.</orig>
+		       <reg>magdalena.</reg>
+	     </choice> 
+                        or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Scā</orig>
+		       <reg>Sancta</reg>
+	     </choice> martha                                        or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Scā</orig>
+		       <reg>Sancta</reg>
+	     </choice> felicitas                                        or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Sc̄a</orig>
+		       <reg>Sancta</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(er)petua</seg>
+		       <orig>ꝑpetua</orig>
+		       <reg>perpetua</reg>
+	     </choice>                                or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Scā</orig>
+		       <reg>Sancta</reg>
+	     </choice> agatha                                        or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Sc̄a</orig>
+		       <reg>Sancta</reg>
+	     </choice> lucia                                        or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Scā</orig>
+		       <reg>Sancta</reg>
+	     </choice> agnes                                        or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Scā</orig>
+		       <reg>Sancta</reg>
+	     </choice> cecilia                                        or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Sc̄a</orig>
+		       <reg>Sancta</reg>
+	     </choice> Katherina                                or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Sc̄a</orig>
+		       <reg>Sancta</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Kath(er)ina</seg>
+		       <orig>Katḣina</orig>
+		       <reg>Katherina</reg>
+	     </choice>                                or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Scā</orig>
+		       <reg>Sancta</reg>
+	     </choice> barbaraX \gesenis?/                        or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Sc̄a</orig>
+		       <reg>Sancta</reg>
+	     </choice> margaretha                                or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Scā</orig>
+		       <reg>Sancta</reg>
+	     </choice> ursula 
+	<choice>
+		       <seg type="lucas">c(um)</seg>
+		       <orig>c̄</orig>
+		       <reg>cum</reg>
+	     </choice> soda t.                        or e
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0448_translation"
+       corresp="#p0448_transcription">
+        All you holy Confessors, pray for us.
+        St. Anne, pray for us.
+        St. Mary Magdalen, pray for us.
+        St. Martha, pray for us.
+        St. Felicitas, pray for us.
+        St. Perpetua, pray for us.
+        St. Agatha, pray for us.
+        St. Lucy, pray for us.
+        St. Agnes, pray for us.
+        St. Cecily, pray for us.
+        St. Catharine, pray for us.
+        St. Carherine (of Siena), pray for us.
+        St. Barbara, pray for us.
+        St. Margaret, pray for us.
+        St. Ursula with your companions, pray for us. <!-- DM page 402 -->
+   </ab>
+
+</div>
+>>>>>>> Stashed changes

@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <div xmlns="http://www.tei-c.org/ns/1.0"
@@ -245,3 +246,225 @@
    </ab>
 
 </div>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="276v"
+     xml:id="p0568">
+
+   <ab type="transcription"
+       xml:id="p0568_transcription"
+       corresp="#p0568_translation">
+
+      <lb/>festa sectari; 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">eor(um)</seg>
+		       <orig>eoꝝ</orig>
+		       <reg>eorum</reg>
+	     </choice> suffra
+<lb break="no"/>giis 
+	<choice>
+		       <seg type="lucas">p(ro)tect(i)o(n)is</seg>
+		       <orig>ꝓtectōis</orig>
+		       <reg>protectionis</reg>
+	     </choice> tue dona
+<lb/>
+	     <choice>
+		       <seg type="lucas">se(n)tire.</seg>
+		       <orig>sētir̄e.</orig>
+		       <reg>sentire.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">P(er).</seg>
+		       <orig>Ꝑ.</orig>
+		       <reg>Per.</reg>
+	     </choice> Anthonii 
+	<choice>
+		       <seg type="lucas">(con)fes(sus?).</seg>
+		       <orig>ɔfesꝰ.</orig>
+		       <reg>confessus?.</reg>
+	     </choice> 
+      <lb/>
+	     <choice>
+		       <seg type="lucas">ECcl(es)ia(m)</seg>
+		       <orig>ECcl͘ia⋮</orig>
+		       <reg>ECclesiam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tua(m)</seg>
+		       <orig>tuā</orig>
+		       <reg>tuam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(eu)s</seg>
+		       <orig>ḋs</orig>
+		       <reg>deus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">b(ea)ti</seg>
+		       <orig>bt̄i</orig>
+		       <reg>beati</reg>
+	     </choice> an
+<lb break="no"/>thonii 
+	<choice>
+		       <seg type="lucas">(con)</seg>
+		       <orig>ɔ</orig>
+		       <reg>con</reg>
+	     </choice>
+	     <choice>
+		       <seg type="lucas">fesso(r)is</seg>
+		       <orig>fessȯis</orig>
+		       <reg>fessoris</reg>
+	     </choice> tui
+<lb/>
+	     <choice>
+		       <seg type="lucas">sole(m)nitas</seg>
+		       <orig>solēpnitas</orig>
+		       <reg>solemnitas</reg>
+	     </choice> voti?a letifi
+<lb break="no"/>cet: ut 
+	<choice>
+		       <seg type="lucas">sp(irit)ualib(us)</seg>
+		       <orig>spūalib⋮</orig>
+		       <reg>spiritualibus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sp(er)</seg>
+		       <orig>sꝑ</orig>
+		       <reg>sper</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mu(n)ia</seg>
+		       <orig>mūia</orig>
+		       <reg>munia</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">tu(?)r?</seg>
+		       <orig>tuṙ?</orig>
+		       <reg>tu?r?<!--  check expansion --></reg>
+	     </choice> 
+ auxiliis; 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> gaudiis
+<lb/>
+	     <choice>
+		       <seg type="lucas">p(er)frui?</seg>
+		       <orig>ꝑfrui?</orig>
+		       <reg>perfrui?</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">me(re)at(ur)</seg>
+		       <orig>mėat݃</orig>
+		       <reg>mereatur</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">et(er)nis:</seg>
+		       <orig>eṫnis:</orig>
+		       <reg>eternis:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">P(er).</seg>
+		       <orig>Ꝑ.</orig>
+		       <reg>Per.</reg>
+	     </choice> Ba
+<lb break="no"/>silidis cirim 
+	<choice>
+		       <seg type="lucas">m(at)r(am).</seg>
+		       <orig>mr̈⋮.</orig>
+		       <reg>matram.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)or(um)</seg>
+		       <orig>Sc̄oꝝ</orig>
+		       <reg>Sanctorum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tuor(um)</seg>
+		       <orig>tuoꝝ</orig>
+		       <reg>tuorum</reg>
+	     </choice> basilidis
+<lb/>cirim. naboris 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> nazarii
+<lb/>
+	     <choice>
+		       <seg type="lucas">q(uesumu)s</seg>
+		       <orig>q̄s</orig>
+		       <reg>quesumus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">na(ra?)licia</seg>
+		       <orig>nälicia</orig>
+		       <reg>nara?licia<!--  check expansion --></reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">nob(is)</seg>
+		       <orig>noḃ</orig>
+		       <reg>nobis</reg>
+	     </choice> voti
+<lb break="no"/>?a 
+	<choice>
+		       <seg type="lucas">resple(n)dea(n)t:</seg>
+		       <orig>resplēdeāt:</orig>
+		       <reg>resplendeant:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ui)d</seg>
+		       <orig>qḋ</orig>
+		       <reg>quid</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ill(is)</seg>
+		       <orig>ill͘</orig>
+		       <reg>illis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">co(n)</seg>
+		       <orig>cō</orig>
+		       <reg>con</reg>
+	     </choice>
+      <lb break="no"/>tulit 
+	<choice>
+		       <seg type="lucas">excelle(n)cia(m)</seg>
+		       <orig>excellēciā</orig>
+		       <reg>excellenciam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sempit(er)na(m);</seg>
+		       <orig>sempiṫnā;</orig>
+		       <reg>sempiternam;</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0568_translation"
+       corresp="#p0568_transcription"/>
+
+</div>
+>>>>>>> Stashed changes

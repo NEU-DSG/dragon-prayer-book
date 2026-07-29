@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <div xmlns="http://www.tei-c.org/ns/1.0"
@@ -150,3 +151,157 @@
    </ab>
 
 </div>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="215v"
+     xml:id="p0446">
+
+   <ab type="transcription"
+       xml:id="p0446_transcription"
+       corresp="#p0446_translation">
+ SECOND LITANY OF SAINTS
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> Clemens                                        or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> corneli                                        or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cyp(?)ane</seg>
+	           <orig>cyṗane</orig>
+		       <reg>cypriane</reg>
+	     </choice> 
+                                        or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> laurenti                                        or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> vincenti                                        or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> dyonisi 
+	<choice>
+		       <seg type="lucas">cu(m)</seg>
+	           <orig>cū</orig>
+		       <reg>cum</reg>
+	     </choice> s t.                                or e
+X 7 
+	<choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> maurici 
+	<choice>
+		       <seg type="lucas">c(um)</seg>
+		       <orig>c̄</orig>
+		       <reg>cum</reg>
+	     </choice> s t                        or e
+x 8 
+	<choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> Sebastiane                                or e
+X 9 
+	<choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> thoma                                        or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> petre                                        or e
++ 11 
+	<choice>
+		       <seg type="lucas">O(mne)s</seg>
+		       <orig>Os̄</orig>
+		       <reg>Omnes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(an)c(t)i</seg>
+		       <orig>sc̄i</orig>
+		       <reg>sancti</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(at)res</seg>
+		       <orig>mr̈es</orig>
+		       <reg>matres</reg>
+	     </choice>                        orate
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> Silvester                                        or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> hylari                                        or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> marthine                                or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sc̄e</orig>
+		       <reg>Sancte</reg>
+	     </choice> Augustine                                or e
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0446_translation"
+       corresp="#p0446_transcription">
+       St. Clement, pray for us.
+       St. Cornelius, pray for us.
+       St. Cyprian, pray for us.
+       St. Lawrence,	pray for us.	 
+       St. Vincent,	pray for us.
+       St. Denys with your companions, pray for us. 
+       St. Maurice with your companions, pray for us. 
+       St. Sebastian, pray for us.	 
+       St. Thomas, pray for us.	 
+       St. Peter, pray for us.	 
+       All you Holy Martyrs, pray for us.
+       St. Silvester, pray for us.	 
+       St. Hilary, pray for us.	 
+       St. Martin, pray for us.	 
+       St. Augustine, pray for us. <!-- DM page 401 -->
+   </ab>
+
+</div>
+>>>>>>> Stashed changes

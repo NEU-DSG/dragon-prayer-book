@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <div xmlns="http://www.tei-c.org/ns/1.0"
@@ -233,3 +234,240 @@
    </ab>
 
 </div>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="26v"
+     xml:id="p0068">
+
+   <ab type="transcription"
+       xml:id="p0068_transcription"
+       corresp="#p0068_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">Ven(er)andu(m)</seg>
+		       <orig>Veṅandū</orig>
+		       <reg>Venerandum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tuu(m)</seg>
+		       <orig>tuū</orig>
+		       <reg>tuum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ve(rum)</seg>
+		       <orig>veꝝ</orig>
+		       <reg>verum</reg>
+	     </choice> et
+<lb/>
+	     <choice>
+		       <seg type="lucas">u(n)icu(m)</seg>
+		       <orig>ūicū</orig>
+		       <reg>unicum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">filiu(m).</seg>
+		       <orig>filiū.</orig>
+		       <reg>filium.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">S(an)c(tu)m</seg>
+		       <orig>Scm̄</orig>
+		       <reg>Sanctum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">quoq(ue)</seg>
+		       <orig>quoq⋮</orig>
+		       <reg>quoque</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">p(er)aclitu(m)</seg>
+		       <orig>ꝑaclitū</orig>
+		       <reg>peraclitum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sp(iritu)m.</seg>
+		       <orig>spm̄.</orig>
+		       <reg>spiritum.</reg>
+	     </choice> Tu rex 
+	<choice>
+		       <seg type="lucas">gl(ori)e</seg>
+		       <orig>gl͘e</orig>
+		       <reg>glorie</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">(christ)e.</seg>
+		       <orig>xp̄e.</orig>
+		       <reg>christe.</reg>
+	     </choice> Tu 
+	<choice>
+		       <seg type="lucas">p(at)ris</seg>
+		       <orig>pr̄is</orig>
+		       <reg>patris</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">se(m)pit(er)n(us)</seg>
+		       <orig>sēpiṫnꝰ</orig> 
+		       <reg>sempiternus</reg>
+	     </choice> es
+<lb/>
+	     <choice>
+		       <seg type="lucas">fili(us).</seg>
+		       <orig>filiꝰ.</orig>
+		       <reg>filius.</reg>
+	     </choice> Tu ad 
+	<choice>
+		       <seg type="lucas">lib(er)andu(m)</seg>
+		       <orig>liḃandu⋮</orig>
+		       <reg>liberandum</reg>
+	     </choice>
+      <lb/>
+         <choice>
+               <seg type="lucas"></seg>
+               <orig>suscepturꝰ</orig>
+               <reg>suscepterus</reg>  
+         </choice> susceptur <!-- crossed out --> 
+
+         <choice> 
+		       <seg type="lucas">nine(m):</seg>
+		       <orig>ninē:</orig>
+		       <reg> <supplied> ho </supplied> minem:</reg> <!-- marginalia -->
+         </choice>   hor  
+         <lb break="no"/>ruisti <!-- I'm confused about why this is lb =no -->
+	<choice>
+		       <seg type="lucas">v(ir)gi(ni)s</seg>
+		       <orig>v̇gīs</orig>
+		       <reg>virginis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ute(rum).</seg>
+		       <orig>uteꝝ.</orig>
+		       <reg>uterum.</reg>
+	     </choice> Tu de
+<lb break="no"/>victo mortis aculeo : a
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">p(er)uisti</seg>
+		       <orig>ꝑuisti</orig>
+		       <reg>peruisti</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">crede(n)tib(us)</seg>
+		       <orig>credētib⋮</orig>
+		       <reg>credentibus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">reg(na)</seg>
+		       <orig>reg̈</orig>
+		       <reg>regna</reg>
+	     </choice> celo
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">(rum).</seg>
+		       <orig>ꝝ.</orig>
+		       <reg>rum.</reg>
+	     </choice>  Tu ad 
+	<choice>
+		       <seg type="lucas">dext(er)a(m)</seg>
+		       <orig>dexṫa⋮</orig>
+		       <reg>dexteram</reg>
+	     </choice> dei se
+<lb break="no"/>des : 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">gl(ori)a</seg>
+		       <orig>gl͘a</orig>
+		       <reg>gloria</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(at)ris.</seg>
+		       <orig>pr̄is.</orig>
+		       <reg>patris.</reg>
+	     </choice> Iudex
+<lb/>
+	     <choice>
+		       <seg type="lucas">cred(er)is</seg>
+		       <orig>creḋis</orig>
+		       <reg>crederis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">e(ss)e</seg>
+		       <orig>ēe</orig>
+		       <reg>esse</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ve(n)tur(us).</seg>
+		       <orig>vēturꝰ.</orig>
+		       <reg>venturus.</reg>
+	     </choice> Te er
+<lb break="no"/>go 
+	<choice>
+		       <seg type="lucas">q(uesumu)s</seg>
+		       <orig>q̄s</orig>
+		       <reg>quesumus</reg>
+	     </choice> tuis 
+	<choice>
+		       <seg type="lucas">famul(is)</seg>
+		       <orig>famul͘</orig>
+		       <reg>famulis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(u)bve</seg>
+		       <orig>sḃve</orig>
+		       <reg>subve</reg>
+	     </choice>
+      <lb break="no"/>ni : quos 
+	<choice>
+		       <seg type="lucas">p(re)t(i)oso</seg>
+		       <orig>p̄tōso</orig>
+		       <reg>pretioso</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sa(n)g(ui)ne</seg>
+		       <orig>sāġne</orig>
+		       <reg>sanguine</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">rede(m)isti.</seg>
+		       <orig>redēisti.</orig>
+		       <reg>redemisti.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Et(er)na</seg>
+		       <orig>Eṫna</orig>
+		       <reg>Eterna</reg>
+	     </choice> fac 
+	<choice>
+		       <seg type="lucas">cu(m)</seg>
+		       <orig>cu⋮</orig>
+		       <reg>cum</reg> 
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0068_translation"
+       corresp="#p0068_transcription">Thine adorable, true: and only Son. 
+        Also the Holy Ghost: the Comforter. Thou art the King of glory: 
+        O Christ. Thou art the everlasting Son: of the Father. When Thou
+        tookest upon Thee to deliver man: Thou didst not abhor the Virgin's 
+        womb. When Thou hadst overcome the sting of death: Thou didst open 
+        the kingdom of heaven to all believers. Thou sittest at the right 
+        hand of God: in the glory of the Father. We believe that Thou shalt
+        come: to be our Judge. We pray THee, therefore, help Thy servants: whom 
+        Thou has redeemed with Thy precious blood. Make them to be numbered with
+        Thy saints:
+         <!-- OBDS pg 42, 44 -->
+   </ab>
+
+</div>
+>>>>>>> Stashed changes

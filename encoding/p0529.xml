@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <div xmlns="http://www.tei-c.org/ns/1.0"
@@ -320,3 +321,331 @@
    </ab>
 
 </div>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="257r"
+     xml:id="p0529">
+
+   <ab type="transcription"
+       xml:id="p0529_transcription"
+       corresp="#p0529_translation">
+
+      <lb/>carpsit 
+	<choice>
+		       <seg type="lucas">penet(ra)lia.</seg>
+		       <orig>peneẗlia.</orig>
+		       <reg>penetralia.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Cedu(n)t(ur)</seg>
+		       <orig>Cedūt݃</orig>
+		       <reg>Ceduntur</reg>
+	     </choice>
+      <lb/>gladiis more 
+	<choice>
+		       <seg type="lucas">bide(n)ciu(m)</seg>
+		       <orig>bidēciū</orig>
+		       <reg>bidencium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> mur
+<lb break="no"/>mur 
+	<choice>
+		       <seg type="lucas">reso(n)at</seg>
+		       <orig>resōat</orig>
+		       <reg>resonat</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ue)rimonia</seg>
+		       <orig>q̄rimonia</orig>
+		       <reg>querimonia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(ed)</seg>
+		       <orig>s⋮</orig>
+		       <reg>sed</reg>
+	     </choice>
+      <lb/>corde tacito 
+	<choice>
+		       <seg type="lucas">me(n?)s</seg>
+		       <orig>mēs</orig>
+		       <reg>mens<</reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">b(?)?</seg>
+		       <orig>bn̄</orig>
+		       <reg>bene</reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">(con)scia</seg>
+		       <orig>ɔscia</orig>
+		       <reg>conscia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(con)</seg>
+		       <orig>ɔ</orig>
+		       <reg>con</reg>
+	     </choice>
+      <lb break="no"/>servat 
+	<choice>
+		       <seg type="lucas">paci(n)a(m).</seg>
+		       <orig>pacīa⋮.</orig>
+		       <reg>pacinam.</reg>
+	     </choice> Que vox 
+	<choice>
+		       <seg type="lucas">q(ue)</seg>
+		       <orig>q̄</orig>
+		       <reg>que</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">pot(?)it</seg>
+		       <orig>pot͘it</orig>
+		       <reg>poterit</reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">li(n)gua</seg>
+		       <orig>līgua</orig>
+		       <reg>lingua</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">retexe(re)</seg>
+		       <orig>retexė</orig>
+		       <reg>retexere</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ue)</seg>
+		       <orig>q̄</orig>
+		       <reg>que</reg>
+	     </choice> tu 
+	<choice>
+		       <seg type="lucas">m(at)ri</seg>
+		       <orig>m̈ri</orig>
+		       <reg>matri</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">b(us)</seg>
+		       <orig>b⋮</orig>
+		       <reg>bus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mun(er)a</seg>
+		       <orig>muṅa</orig>
+		       <reg>munera</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(re)p(er)as</seg>
+		       <orig>p̄ꝑas</orig>
+		       <reg>preperas</reg>
+	     </choice>
+         <supplied>
+         <choice>
+               <orig>ruḃ</orig>
+               <reg>rubri</reg>
+         </choice>
+         </supplied>
+	<choice>
+		       <seg type="lucas">na(?)</seg>
+		       <orig>nā</orig>
+		       <reg>nam</reg>
+	     </choice> flui
+<lb break="no"/>do 
+	<choice>
+		       <seg type="lucas">sa(n)gue</seg>
+		       <orig>sāgue</orig>
+		       <reg>sangue</reg>
+	     </choice> laureis 
+	<choice>
+		       <seg type="lucas">ditat(ur)</seg>
+		       <orig>ditat݃</orig>
+		       <reg>ditatur</reg>
+	     </choice> 
+         <supplied>
+               <choice>
+                     <orig>bn̄</orig>
+                     <reg>bene</reg>
+               </choice>
+         </supplied>
+<lb/>fulgidis. Te 
+	<choice>
+		       <seg type="lucas">su(m)ma</seg>
+		       <orig>sūma</orig>
+		       <reg>summa</reg>
+	     </choice> deitas
+<lb/>
+	     <choice>
+		       <seg type="lucas">unaq(ue)</seg>
+		       <orig>unaq⋮</orig>
+		       <reg>unaque</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">poscim(us)</seg>
+		       <orig>poscimꝰ</orig>
+		       <reg>poscimus</reg>
+	     </choice> ut culpas
+<lb/>abluas noxia 
+	<choice>
+		       <seg type="lucas">s(u)bt(ur)[b]as</seg>
+		       <orig>sb͘ẗbas</orig>
+		       <reg>subtrahas</reg>
+	     </choice> des
+<lb/>
+	     <choice>
+		       <seg type="lucas">pace(m)</seg>
+		       <orig>pacē</orig>
+		       <reg>pacem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">famul(is)</seg>
+		       <orig>famul͘</orig>
+		       <reg>famulis</reg>
+	     </choice> nos 
+	<choice>
+		       <seg type="lucas">q(ue)</seg>
+		       <orig>q⋮</orig>
+		       <reg>que</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">gl(ori)a(m)</seg>
+		       <orig>gl͘a⋮</orig>
+		       <reg>gloriam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(er)</seg>
+		       <orig>ꝑ</orig>
+		       <reg>per</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">cu(n)cta</seg>
+		       <orig>cūcta</orig>
+		       <reg>cuncta</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(ibi)</seg>
+		       <orig>t͘</orig>
+		       <reg>tibi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(e)c(u)la.</seg>
+		       <orig>scl͘a.</orig>
+		       <reg>secula.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Ame(n).</seg>
+		       <orig>Amē.</orig>
+		       <reg>Amen.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">V(ersiculus).</seg>
+		       <orig>V̇.</orig>
+		       <reg>Versiculus.</reg>
+	     </choice> 
+         <choice>
+               <orig>letamī</orig>
+               <reg>Laetamini</reg>
+         </choice>
+<lb/>
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)no</seg>
+		       <orig>dn̄o</orig>
+		       <reg>domino</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ex(u)ltate</seg>
+		       <orig>exl͘tate</orig>
+		       <reg>exultate</reg>
+	     </choice> justi. Et 
+	<choice>
+		       <seg type="lucas">gl(ori)a</seg>
+		       <orig>gl͘a</orig>
+	      <reg>gloriamini</reg>
+	     </choice>
+        <choice>
+              <orig>mī</orig>
+              <reg>min? <!-- check expansion --></reg>
+        </choice>
+      <lb/>
+	<choice>
+		       <seg type="lucas">o(mne)s.</seg>
+		       <orig>ōs.</orig>
+	      <reg>omnes recti corde.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">M(agna?)</seg>
+		       <orig>M̈</orig>
+		       <reg>Magna? <!-- check expansion --></reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">an(tiphon).</seg>
+		       <orig>an̈.</orig>
+		       <reg>antiphon.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Gaude(n)t</seg>
+		       <orig>Gaudēt</orig>
+		       <reg>Gaudent</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cel(is)</seg>
+		       <orig>cel͘</orig>
+		       <reg>celis</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0529_translation"
+       corresp="#p0529_transcription">
+         While they, shedding their blood, victims for Jesus fell,
+         No sound out of their lips came of their throes to tell;
+         Bowed low, patient and meek, loving the Lord so well,
+         Turned they still to the Christ, their Friend.
+         
+         What joys, bright with the blood shed for thy love they share,
+         Those brave Martyrs of Thine crowned with Thy laurels rare;
+         Man's tongue never can tell, never can half declare,
+         How pure now is their bliss above!
+         
+         Yet we, Father on high, God of eternal might,
+         Lift weak voices in prayer asking for peace and light;
+         Cleanse Thou out of our hearts every stain and blight,
+         So our songs may be songs of love. Amen.
+         <!--https://www.cpdl.org/wiki/index.php/Sanctorum_meritis -->
+         
+         Verse. Be glad in the Lord, and rejoice, ye just, and glory.
+         Magna antiphon. 
+         <!--DRB [Psalms 31:11] -->
+            </ab>
+
+</div>
+>>>>>>> Stashed changes

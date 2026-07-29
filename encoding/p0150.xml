@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <div xmlns="http://www.tei-c.org/ns/1.0"
@@ -297,3 +298,304 @@
          translate --> </ab>
 
 </div>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="67v"
+     xml:id="p0150">
+
+   <ab type="transcription"
+       xml:id="p0150_transcription"
+       corresp="#p0150_translation">
+
+      <lb/>salute 
+	<choice>
+		       <seg type="lucas">n(ost)ra:</seg>
+		       <orig>nr̄a:</orig>
+		       <reg>nostra:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">desce(n)dit</seg>
+	           <orig>descēdit</orig>
+		       <reg>descendit</reg>
+	     </choice> ad 
+	<choice>
+		  <seg type="lucas">i(n)fe</seg>
+	      <orig>īfe</orig>
+		 <reg>infe</reg>
+	     </choice>
+      <lb break="no"/>ros: 
+	<choice>
+		       <seg type="lucas">r(e)surrexit</seg>
+		       <orig>r̄surrexit</orig>
+		       <reg>resurrexit</reg>
+	     </choice> a 
+	<choice>
+		 <seg type="lucas">mo(r)tuis.</seg>
+	      <orig>mȯtuis.</orig>
+		<reg>mortuis.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">Asce(n)dit</seg>
+	           <orig>Ascēdit</orig>
+		       <reg>Ascendit</reg>
+	     </choice> ad celos; sedet ad
+<lb/>
+	     <choice>
+		       <seg type="lucas">dext(r)a(m)</seg>
+	           <orig>dexṫa⋮</orig>
+		       <reg>dextram</reg>
+	     </choice> dei 
+	<choice>
+		       <seg type="lucas">p(at)ris</seg>
+		       <orig>pr̄is</orig>
+		       <reg>patris</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mn)ipote(n)tis:</seg>
+	           <orig>oīpotētis:</orig>
+		       <reg>omnipotentis:</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">i(n)de</seg>
+	           <orig>īde</orig>
+		       <reg>inde</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ve(n)tur(us)</seg>
+	           <orig>vēturꝰ</orig>
+		       <reg>venturus</reg>
+	     </choice> 
+	     <choice>
+		     <seg type="lucas">e(st)</seg>
+	           <orig>ē</orig>
+		     <reg>est</reg>
+	     </choice> iudicare vi
+<lb break="no"/>vos 
+	<choice>
+		   <seg type="lucas">(et) </seg>
+		   <orig>+</orig>
+		   <reg>et </reg>
+	     </choice> mortuos. Ad 
+	<choice>
+		<seg type="lucas">cui(us)</seg>
+	      <orig>cuiꝰ</orig>
+		<reg>cuius</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">adve(n)tu(m)</seg>
+	           <orig>advētū</orig>
+		       <reg>adventum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mne)s</seg>
+	           <orig>ōs</orig>
+		       <reg>omnes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ho(m)i(n)es</seg>
+	           <orig>hoīes</orig>
+		       <reg>homines</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">r(e)surge(re)</seg>
+	           <orig>r̄surgė</orig>
+		       <reg>resurgere</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">h(abe)nt</seg>
+		       <orig>hn̄t</orig>
+		       <reg>habent</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cu(m)</seg>
+	           <orig>cū</orig>
+		       <reg>cum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">corp(or)ib(us)</seg>
+	           <orig>corꝑib⋮</orig>
+		       <reg>corporibus</reg>
+	     </choice> suis: 
+	<choice>
+		<seg type="lucas">(et) </seg>
+	      <orig>+</orig>
+		 <reg>et</reg>
+	     </choice> 
+         <supplied>r</supplied>ed
+<lb break="no"/>dituri 
+	<choice>
+		 <seg type="lucas">s(un)t</seg>
+	      <orig>sṫ</orig>
+		   <reg>sunt</reg>
+	     </choice> de 
+	<choice>
+		  <seg type="lucas">f(a)c(t)is</seg>
+	      <orig>fċis</orig>
+		  <reg>factis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ro)priis</seg>
+	           <orig>ꝓpriis</orig>
+		       <reg>propriis</reg>
+	     </choice> ra
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">t(i)o(nem).</seg>
+	           <orig>tō⋮.</orig>
+		       <reg>tionem.</reg>
+	     </choice> Et 
+	<choice>
+		 <seg type="lucas">q(ui)</seg>
+	      <orig>q̇</orig>
+		  <reg>qui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">bo(na)</seg>
+		       <orig>bö</orig>
+		       <reg>bona</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">eger(un)t</seg>
+	           <orig>eger̄t</orig>
+		       <reg>egerunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ib(un)t</seg>
+	           <orig>ib̄t</orig>
+		       <reg>ibunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+	           <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">vita(m)</seg>
+	           <orig>vitā</orig>
+		       <reg>vitam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">et(er)na(m):</seg>
+	           <orig>eṫnā:</orig>
+		       <reg>eternam:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ui)</seg>
+	           <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(er)o</seg>
+	           <orig>v̇o</orig>
+		       <reg>vero</reg>
+	     </choice> mala 
+	<choice>
+		  <seg type="lucas">i(n)</seg>
+	      <orig>ī</orig>
+		  <reg>in</reg>
+	     </choice> ig
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">ne(m)</seg>
+	           <orig>nē</orig>
+		       <reg>nem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">et(er)nu(m).</seg>
+	           <orig>eṫnū.</orig>
+		       <reg>eternum.</reg>
+	     </choice> Hec 
+	<choice>
+		       <seg type="lucas">e(st)</seg>
+	      <orig>ē</orig>
+		       <reg>est</reg>
+	     </choice> fides ka
+         <lb break="no"/>cholica: 
+		       <seg type="lucas">qua(m)</seg>
+	      <orig>quā</orig>
+		       <reg>quam</reg>
+	     <choice>
+		       <seg type="lucas">n(isi)</seg>
+	           <orig>ṅ</orig>
+		       <reg>nisi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ui)sq(ue)</seg>
+	           <orig>q̇sq⋮</orig>
+		       <reg>quisque</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">fidelit(er)</seg>
+	           <orig>fideliṫ</orig>
+		       <reg>fideliter</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">firmit(er)q(ue)</seg>
+	           <orig>firmiṫq⋮</orig>
+		       <reg>firmiterque</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">credid(er)it</seg>
+	           <orig>crediḋit</orig>
+		       <reg>crediderit</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">salv(us)</seg>
+	           <orig>salvꝰ</orig>
+		       <reg>salvus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">e(ss)e</seg>
+	           <orig>ēe</orig>
+		       <reg>esse</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">pot(er)it.</seg>
+	           <orig>poṫit.</orig>
+		       <reg>poterit.</reg>
+	     </choice>         
+	     <choice>
+		       <seg type="lucas">Suntag</seg>
+	           <orig>Sūtag</orig>
+		       <reg>Suntag</reg> <!-- is there a way to mark this as german? -->
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">an(?).</seg>
+	           <orig>an̈.</orig>
+		       <reg>antiphon <!-- ?? --></reg>
+	     </choice> 
+                
+	     <choice>
+		       <seg type="lucas">Gl(ori)a</seg>
+		       <orig>G͘l͘a</orig>
+		       <reg>Gloria</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0150_translation"
+       corresp="#p0150_transcription">He died for our salvation, descended into hell, and rose from the dead on the third day. 
+         He ascended into heaven, sits at the right hand of God the Father almighty. From there He shall come to judge the living and the dead. 
+         At His coming, all men are to arise with their own bodies; and they are to give an account of their own deeds. 
+         Those who have done good deeds will go into eternal life; those who have done evil will go into the everlasting fire. 
+         This is the Catholic faith. Everyone must believe it, firmly and steadfastly; otherwise He cannot be saved. Sunday an. Glory be <!-- cont. and it's google 
+               translate --> </ab>
+
+</div>
+>>>>>>> Stashed changes

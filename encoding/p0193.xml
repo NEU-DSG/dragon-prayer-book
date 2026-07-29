@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <div xmlns="http://www.tei-c.org/ns/1.0"
@@ -298,3 +299,305 @@
        as incense in Your sight, O Lord. <!-- DM pg 120. cont --> </ab>
 
 </div>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="89r"
+     xml:id="p0193">
+
+   <ab type="transcription"
+       xml:id="p0193_transcription"
+       corresp="#p0193_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">origine(m).</seg>
+		       <orig>originē.</orig>
+		       <reg>originem.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Q(ui)</seg>
+		       <orig>Qⁱ</orig>
+		       <reg>Qui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ma(n)e</seg>
+		       <orig>māe</orig>
+		       <reg>mane</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">iu(n)ctu(m)</seg>
+		       <orig>iūctu⋮</orig>
+		       <reg>iunctum</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">vesp(er)i</seg>
+		       <orig>vesꝑi</orig>
+		       <reg>vesperi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">die(m)</seg>
+		       <orig>diē</orig>
+		       <reg>diem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">vo(ca)ri</seg>
+		       <orig>vȯri</orig>
+		       <reg>vocari</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(re)cipis</seg>
+		       <orig>p̄cipis</orig>
+		       <reg>precipis</reg>
+	     </choice> the
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">tr(um)</seg>
+		       <orig>tꝝ</orig>
+		       <reg>trum</reg>
+	     </choice> chaos 
+	<choice>
+		       <seg type="lucas">illabit(ur)</seg>
+		       <orig>illabit݃</orig>
+		       <reg>illabitur</reg>
+	     </choice> audi 
+	<choice>
+		       <seg type="lucas">p(re)</seg>
+		       <orig>p̄</orig>
+		       <reg>pre</reg>
+	     </choice>
+      <lb break="no"/>ces 
+	<choice>
+		       <seg type="lucas">cu(m)</seg>
+		       <orig>cū</orig>
+		       <reg>cum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">fletib(us).</seg>
+		       <orig>fletib⋮.</orig>
+		       <reg>fletibus.</reg>
+	     </choice> Ne 
+	<choice>
+		       <seg type="lucas">me(n)s</seg>
+		       <orig>mēs</orig>
+		       <reg>mens</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">g(ra)</seg>
+		       <orig>g̈</orig>
+		       <reg>gra</reg>
+	     </choice>
+      <lb break="no"/>vata 
+	<choice>
+		       <seg type="lucas">c(ri)mi(n)e</seg>
+		       <orig>ċmīe</orig>
+		       <reg>crimine</reg>
+	     </choice> vite sit exul
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">mune(re)</seg>
+		       <orig>munė</orig>
+		       <reg>munere</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">du(m)</seg>
+		       <orig>dū</orig>
+		       <reg>dum</reg>
+	     </choice> nil 
+	<choice>
+		       <seg type="lucas">p(er)he(n)ne</seg>
+		       <orig>ꝑhēne</orig> 
+		       <reg>perhenne</reg>
+	     </choice> co
+<lb break="no"/>gitat 
+	<choice>
+		       <seg type="lucas">seseq(ue)</seg>
+		       <orig>seseq⋮</orig>
+		       <reg>seseque</reg>
+	     </choice> culpis illigat.
+<lb/>
+	     <choice>
+		       <seg type="lucas">Celor(um)</seg>
+		       <orig>Celoꝝ</orig>
+		       <reg>Celorum</reg>
+	     </choice> pulset 
+	<choice>
+		       <seg type="lucas">i(n)timu(m)</seg>
+		       <orig>ītimū</orig>
+		       <reg>intimum</reg>
+	     </choice> vi
+<lb break="no"/>tale tollat 
+	<choice>
+		       <seg type="lucas">p(re)miu(m)</seg>
+		       <orig>p̄miū</orig>
+		       <reg>premium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">vitem(us)</seg>
+		       <orig>vitemꝰ</orig>
+		       <reg>vitemus</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">o(mn)e</seg>
+		       <orig>ōe</orig>
+		       <reg>omne</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">noxiu(m)</seg>
+		       <orig>noxiū</orig>
+		       <reg>noxium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">purgem(us)</seg>
+		       <orig>purgemꝰ</orig>
+		       <reg>purgemus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">om(n)e</seg>
+		       <orig>om̄e</orig>
+		       <reg>omne</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">pessimu(m).</seg>
+		       <orig>pessimū.</orig>
+		       <reg>pessimum.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Pr(est)a</seg>
+		       <orig>Prā</orig>
+		       <reg>Presta</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ate)r</seg>
+		       <orig>pr̄</orig>
+		       <reg>pater</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">piisi(m)e</seg>
+		       <orig>piisiē</orig>
+		       <reg>piisime</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">p(at)riq(ue)</seg>
+		       <orig>pr̄iq⋮</orig>
+		       <reg>patrique</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(com)par</seg>
+		       <orig>ɔpar</orig>
+		       <reg>compar</reg>
+	     </choice> unice 
+	<choice>
+		       <seg type="lucas">cu(m)</seg>
+		       <orig>cū</orig>
+		       <reg>cum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sp(irit)u</seg>
+		       <orig>spū</orig>
+		       <reg>spiritu</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">p(ar)aclito</seg>
+		       <orig>ꝑaclito</orig>
+		       <reg>paraclito</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">reg(na)ns</seg>
+		       <orig>reg̈ns</orig>
+		       <reg>regnans</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(er)</seg>
+		       <orig>ꝑ</orig>
+		       <reg>per</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mn)e</seg>
+		       <orig>ōe</orig>
+		       <reg>omne</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(e)c(u)l(u)m.</seg>
+		       <orig>scl͘m.</orig>
+		       <reg>seculum.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">Am(en).</seg>
+		       <orig>Am̄.</orig>
+		       <reg>Amen.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">V(ersiculus)</seg>
+		       <orig>V̇</orig>
+		       <reg>Versiculus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Dirigat(ur)</seg>
+		       <orig>Dirigat݃</orig>
+		       <reg>Dirigatur</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)ne.</seg>
+		       <orig>dn̄e.</orig>
+		       <reg>domine.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">or(ati?)o</seg>
+		       <orig>or̄o</orig>
+		       <reg>oratio</reg>
+	     </choice> 
+      <lb/>mea. 
+	<choice>
+		       <seg type="lucas">Sic(ut)</seg>
+		       <orig>Sic̄</orig>
+		       <reg>Sicut</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)censu(m)</seg>
+		       <orig>īcensū</orig>
+		       <reg>incensum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sp(e)ctu</seg>
+		       <orig>ɔspc̄tu</orig>
+		       <reg>conspectu</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0193_translation"
+       corresp="#p0193_transcription"> first of all. Whose wisdom joined in meet array
+       the morn and eve, and named them Day:
+       night comes with all its darkling fears;
+       regard Thy people's prayers and tears.
+        Lest, sunk in sin, and whelmed with strife,
+       they lose the gift of endless life;
+       while thinking but the thoughts of time,
+       they weave new chains of woe and crime.
+       	But grant them grace that they may strain
+       the heavenly gate and prize to gain:
+       each harmful lure aside to cast,
+       and purge away each error past.
+       	O Father, that we ask be done,
+       through Jesus Christ, Thine only Son;
+       Who, with the Holy Ghost and Thee,
+       doth live and reign eternally. Amen. <!-- preces latinae linked in doc --> 
+       Versicle. Let my prayer be directed
+       as incense in Your sight, O Lord. <!-- DM pg 120. cont --> </ab>
+
+</div>
+>>>>>>> Stashed changes
