@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <div xmlns="http://www.tei-c.org/ns/1.0"
@@ -226,3 +227,233 @@
          They that persecute me have drawn nigh to iniquity; but they are gone far off from thy law. <!-- DRB psalm 188:150 cont --> </ab>
 
 </div>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="80v"
+     xml:id="p0176">
+
+   <ab type="transcription"
+       xml:id="p0176_transcription"
+       corresp="#p0176_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">i(n)tell(e)c(tu)m</seg>
+		       <orig>ītellc̄m</orig>
+		       <reg>intellectum</reg>
+	     </choice> da 
+	<choice>
+		       <seg type="lucas">m(ihi)</seg>
+		       <orig>ṁ</orig>
+		       <reg>mihi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> vivam.
+<lb/>
+	     <choice>
+		       <seg type="lucas">Cla(ma)vi</seg>
+		       <orig>Clävi</orig>
+		       <reg>Clamavi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> toto corde me
+<lb break="no"/>o exaudi me 
+	<choice>
+		       <seg type="lucas">d(omi)ne:</seg>
+		       <orig>dn̄e:</orig>
+		       <reg>domine:</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">iustificat(i)o(ne)s</seg>
+		       <orig>iustificatōs</orig>
+		       <reg>iustificationes</reg>
+	     </choice> tuas 
+	<choice>
+		       <seg type="lucas">req(ui)ra(m).</seg>
+		       <orig>req͘rā.</orig>
+		       <reg>requiram.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">Cla(ma)vi</seg>
+		       <orig>Clävi</orig>
+		       <reg>Clamavi</reg>
+	     </choice> ad te 
+	<choice>
+		       <seg type="lucas">salvu(m)</seg>
+		       <orig>salvū</orig>
+		       <reg>salvum</reg>
+	     </choice> me
+<lb/>fac: ut 
+	<choice>
+		       <seg type="lucas">custodia(m)</seg>
+		       <orig>custodiā</orig>
+		       <reg>custodiam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ma(n)data</seg>
+		       <orig>mādata</orig>
+		       <reg>mandata</reg>
+	     </choice>
+      <lb/>tua. 
+	<choice>
+		       <seg type="lucas">Preve(n)i</seg>
+		       <orig>Prevēi</orig>
+		       <reg>Preveni</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> <seg next="#segment">maturita⸗</seg>
+         ia <seg xml:id="segment">te</seg>
+         <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cla(ma)vi:</seg>
+		       <orig>clävi:</orig>
+		       <reg>clamavi:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(er)ba</seg>
+		       <orig>v̇ba</orig>
+		       <reg>verba</reg>
+	     </choice> tua 
+	<choice>
+		       <seg type="lucas">sup(er)</seg>
+		       <orig>suꝑ</orig>
+		       <reg>super</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">sp(er)avi.</seg>
+		       <orig>sꝑavi.</orig>
+		       <reg>speravi.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Prevener(un)t</seg>
+		       <orig>Prevener̄t</orig>
+		       <reg>Prevenerunt</reg>
+	     </choice> oculi
+<lb/>mei ad te 
+	<choice>
+		       <seg type="lucas">diluc(u)lo:</seg>
+		       <orig>dilucl͘o:</orig>
+		       <reg>diluculo:</reg>
+	     </choice> ut me
+<lb break="no"/>ditarer 
+	<choice>
+		       <seg type="lucas">eloq(ui)a</seg>
+		       <orig>eloq͘a</orig>
+		       <reg>eloquia</reg>
+	     </choice> tua. 
+	<choice>
+		       <seg type="lucas">Voce(m)</seg>
+		       <orig>Vocē</orig>
+		       <reg>Vocem</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">mea(m)</seg>
+		       <orig>meā</orig>
+		       <reg>meam</reg>
+	     </choice> audi 
+	<choice>
+		       <seg type="lucas">s(e)c(un)d(u)m</seg>
+		       <orig>scḋm</orig>
+		       <reg>secundum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mi(sericordi)a(m)</seg>
+		       <orig>mīa⋮</orig>
+		       <reg>misericordiam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tua(m)</seg>
+		       <orig>tuā</orig>
+		       <reg>tuam</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">d(omi)ne:</seg>
+		       <orig>dn̄e:</orig>
+		       <reg>domine:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(e)c(un)d(um)</seg>
+		       <orig>scḋ⋮</orig>
+		       <reg>secundum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">iudiciu(m)</seg>
+		       <orig>iudiciū</orig>
+		       <reg>iudicium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tuu(m)</seg>
+		       <orig>tuū</orig>
+		       <reg>tuum</reg>
+	     </choice> vi
+<lb break="no"/>vifica me. 
+	<choice>
+		       <seg type="lucas">Ap(ro)pi(n)q(ua)ver(un)t</seg>
+	      <orig>Aꝓpīq̈ver̄t</orig>
+		       <reg>Apropinquaverunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(er)</seg>
+		       <orig>ꝑ</orig>
+		       <reg>per</reg>
+	     </choice>
+      <lb/>
+         <supplied>
+	<choice>
+		       <seg type="lucas">seq(ue)ntes</seg>
+		       <orig>seq̄ntes</orig>
+		       <reg>sequentes</reg>
+	     </choice> 
+               </supplied> me 
+	<choice>
+		       <seg type="lucas">i(n)iq(ui)tati:</seg>
+		       <orig>īiq̇tati:</orig>
+		       <reg>iniquitati:</reg>
+	     </choice> a lege
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0176_translation"
+       corresp="#p0176_transcription">give me understanding, and I shall live. 
+         I cried with my whole heart, hear me, O Lord: I will seek thy justifications. 
+         I cried unto thee, save me: that I may keep thy commandments. 
+         I prevented the dawning of the day, and cried: because in thy words I very much hoped. 
+         My eyes to thee have prevented the morning: that I might meditate on thy words. 
+         Hear thou my voice, O Lord, according to thy mercy: and quicken me according to thy mercy. 
+         They that persecute me have drawn nigh to iniquity; but they are gone far off from thy law. <!-- DRB psalm 188:150 cont --> </ab>
+
+</div>
+>>>>>>> Stashed changes

@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <div xmlns="http://www.tei-c.org/ns/1.0"
@@ -294,3 +295,294 @@
          and cool my tongue, <!-- DM 160 --> </ab>
 
 </div>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="147r"
+     xml:id="p0309">
+
+   <ab type="transcription"
+       xml:id="p0309_transcription"
+       corresp="#p0309_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">P(er).</seg>
+		       <orig>Ꝑ.</orig>
+		       <reg>Per.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">b(?)</seg>
+		       <orig>ḃ</orig>
+		       <reg>b?</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(lleluia?).</seg>
+		       <orig>ä.</orig>
+		       <reg>alleluia.</reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">Ho(mo)</seg>
+		       <orig>Hō</orig>
+		       <reg>Homo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ui)da(m)</seg>
+		       <orig>q̇dā</orig>
+		       <reg>quidam</reg>
+	     </choice> erat di
+<lb break="no"/>ves 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)duebat(ur)</seg>
+		       <orig>īduebat݃</orig>  
+		       <reg>induebatur</reg>
+	     </choice> purpura
+<lb/>
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> bysso 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">epulabat(ur)</seg>
+		       <orig>epulabat݃</orig>
+		       <reg>epulabatur</reg>
+	     </choice> cot
+<lb break="no"/>tidie 
+	<choice>
+		       <seg type="lucas">sple(n)dide</seg>
+		       <orig>splēdide</orig>
+		       <reg>splendide</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> erat 
+	<choice>
+		       <seg type="lucas">q(ui)da(m)</seg>
+		       <orig>q̇dā</orig>
+		       <reg>quidam</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">me(n)dic(us)</seg>
+		       <orig>mēdicꝰ</orig> 
+		       <reg>mendicus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">no(m)i(n)e</seg>
+		       <orig>nōie</orig>
+		       <reg>nomine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">lazar(us)</seg>
+		       <orig>lazarꝰ</orig>
+		       <reg>lazarus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice> ia
+<lb break="no"/>cebat ad 
+	<choice>
+		       <seg type="lucas">ianua(m)</seg>
+		       <orig>ianuā</orig>
+		       <reg>ianuam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ei(us)</seg>
+		       <orig>eiꝰ</orig>
+		       <reg>eius</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ulc(er)i</seg>
+		       <orig>ulċi</orig>
+		       <reg>ulceri</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">b(us)</seg>
+		       <orig>b⋮</orig>
+		       <reg>bus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">plen(us)</seg>
+		       <orig>plenꝰ</orig>
+		       <reg>plenus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cupie(n)s</seg>
+		       <orig>cupiēs</orig>
+		       <reg>cupiens</reg>
+	     </choice> saturari
+<lb/>de micis 
+	<choice>
+		       <seg type="lucas">q(ue)</seg>
+		       <orig>q̄</orig>
+		       <reg>que</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cadeba(n)t</seg>
+		       <orig>cadebāt</orig>
+		       <reg>cadebant</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(e)</seg>
+		       <orig>ḋ</orig>
+		       <reg>de</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">me(n)</seg>
+		       <orig>mē</orig>
+		       <reg>men</reg>
+	     </choice>
+      <lb break="no"/>sa divitis 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ne(m)o</seg>
+		       <orig>nēo</orig>
+		       <reg>nemo</reg>
+	     </choice> illi da
+<lb break="no"/>bat 
+	<choice>
+		       <seg type="lucas">s(ed)</seg>
+		       <orig>s⋮</orig>
+		       <reg>sed</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ca(n)es</seg>
+		       <orig>cāes</orig>
+		       <reg>canes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">venieba(n)t</seg>
+		       <orig>veniebāt</orig>
+		       <reg>veniebant</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">li(n)geba(n)t</seg>
+		       <orig>līgebāt</orig>
+		       <reg>lingebant</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ulc(er)a</seg>
+		       <orig>ulċa</orig>
+		       <reg>ulcera</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ei(us)</seg>
+		       <orig>eiꝰ</orig>
+		       <reg>eius</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">all(elui)a.</seg>
+		       <orig>all͘a.</orig>
+		       <reg>alleluia.</reg>
+	     </choice> 
+      <lb/>
+	     <choice>
+		       <seg type="lucas">m(?)</seg>
+		       <orig>M̈</orig>
+		       <reg>Magnificat</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(lleluia?).</seg>
+		       <orig>ä.</orig>
+		       <reg>alleluia.</reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">P(ate)r</seg>
+		       <orig>Pr̄</orig>
+		       <reg>Pater</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">abraha(m)</seg>
+		       <orig>abrahā</orig>
+		       <reg>abraham</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">misere(re)</seg>
+		       <orig>miserė</orig>
+		       <reg>miserere</reg>
+	     </choice>
+      <lb/>mei 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> mitte 
+	<choice>
+		       <seg type="lucas">lazar(um)</seg>
+		       <orig>lazaꝝ</orig>
+		       <reg>lazarum</reg>
+	     </choice> ut 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">ti(n)guat</seg>
+		       <orig>tīguat</orig>
+		       <reg>tinguat</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">extremu(m)</seg>
+		       <orig>extremū</orig>
+		       <reg>extremum</reg>
+	     </choice> digiti
+<lb/>sui 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">aqua(m)</seg>
+		       <orig>aquā</orig>
+		       <reg>aquam</reg>
+	     </choice> ut refrigeret
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0309_translation"
+       corresp="#p0309_transcription">(Per. b alleluia) A certain man was wealthy, and he was clothed in purple and in fine linen. And he feasted splendidly every day.
+         And there was a certain beggar, named Lazarus, who lay at his gate, covered with sores,wanting to be filled with the crumbs which were falling from the wealthy man’s table. But no one gave it to him. 
+         And even the dogs came and licked his sores. Alleluia. (m (?) alleluia) Father Abraham have mercy on me and send Lazarus to dip the tip of his finger in water to cool my tongue</ab>
+
+</div>
+>>>>>>> Stashed changes

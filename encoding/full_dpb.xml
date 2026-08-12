@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../stylesheets/dpb_proof.css"?> 
@@ -157,4 +158,41 @@
 		<hyperDiv>
 			
 	
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="../stylesheets/dpb_proof.css"?> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title></title>
+			</titleStmt>
+			<extent></extent>
+			<publicationStmt>
+				<p>Unpublished</p>
+			</publicationStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<bibl>Dragon Prayer Book; publication details to be supplied</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc></revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+<div>
+	<xi:include href="p0015.xml" xpointer="element(div)"/>
+	<xi:include href="p0016.xml" xpointer="element(div)"/>
+	<xi:include href="p0017.xml" xpointer="element(div)"/>
+	<xi:include href="p0018.xml" xpointer="element(div)"/>
+	<xi:include href="p0019.xml" xpointer="element(div)"/>
+	<xi:include href="p0020.xml" xpointer="element(div)"/>
+	<!-- include all the rest once I have this working -->
+</div>
+		</body>
+	</text>
+>>>>>>> Stashed changes
 </TEI>

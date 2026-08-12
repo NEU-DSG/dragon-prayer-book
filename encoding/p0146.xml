@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <div xmlns="http://www.tei-c.org/ns/1.0"
@@ -454,3 +455,461 @@
        However, there are not three lords, but one Lord. <!-- athanasian creed cont (but the sentence doesnt continue to next page )--></ab>
 
 </div>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="65v"
+     xml:id="p0146">
+
+   <ab type="transcription"
+       xml:id="p0146_transcription"
+       corresp="#p0146_translation">
+
+      <lb/>tas. 
+	<choice>
+		       <seg type="lucas">Qual(is)</seg>
+		       <orig>Qual͘</orig>
+		       <reg>Qualis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ate)r</seg>
+		       <orig>pr̄</orig>
+		       <reg>pater</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tal(is)</seg>
+		       <orig>tal͘</orig>
+		       <reg>talis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">fili(us):</seg>
+		       <orig>filiꝰ:</orig>
+		       <reg>filius:</reg>
+	     </choice> ta
+<lb break="no"/>lis 
+	<choice>
+		       <seg type="lucas">sp(iritu)s</seg>
+		       <orig>sp̄s</orig>
+		       <reg>spiritus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(an)c(tu)s.</seg>
+		       <orig>sc̄s.</orig>
+		       <reg>sanctus.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Increat(us)</seg>
+		       <orig>Increatꝰ</orig>
+		       <reg>Increatus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ate)r</seg>
+		       <orig>pr̄</orig>
+		       <reg>pater</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">i(n)creat(us)</seg>
+		       <orig>īcreatꝰ</orig> 
+		       <reg>increatus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">fili(us):</seg>
+		       <orig>filiꝰ:</orig>
+		       <reg>filius:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)creat(us)</seg>
+		       <orig>īcreatꝰ</orig> 
+		       <reg>increatus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sp(irit)us</seg>
+		       <orig>spūs</orig>
+		       <reg>spiritus</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">s(an)c(tu)s.</seg>
+		       <orig>sc̄s.</orig>
+		       <reg>sanctus.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Imme(n)s(us)</seg>
+		       <orig>Immēsꝰ</orig>
+		       <reg>Immensus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ate)r</seg>
+		       <orig>pr̄</orig>
+		       <reg>pater</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(m)me(n)sus</seg>
+		       <orig>īmēsus</orig>
+		       <reg>immensus</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">fili(us):</seg>
+		       <orig>filiꝰ:</orig>
+		       <reg>filius:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(m)me(n)s(us)</seg>
+		       <orig>īmēsꝰ</orig> 
+		       <reg>immensus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sp(iritu)s</seg>
+		       <orig>sp̄s</orig>
+		       <reg>spiritus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(an)c(tu)s.</seg>
+		       <orig>sc̄s.</orig>
+		       <reg>sanctus.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Et(er)n(us)</seg>
+		       <orig>Eṫnꝰ</orig> 
+		       <reg>Eternus</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">p(ate)r</seg>
+		       <orig>pr̄</orig>
+		       <reg>pater</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">et(er)n(us)</seg>
+		       <orig>eṫnꝰ</orig> 
+		       <reg>eternus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">fili(us):</seg>
+		       <orig>filiꝰ:</orig>
+		       <reg>filius:</reg>
+	     </choice> 
+	     <choice>	         
+		       <seg type="lucas">et(er)n(us)</seg>
+		       <orig>eṫnꝰ</orig> 
+		       <reg>eternus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sp(iritu)s</seg>
+		       <orig>sp̄s</orig>
+		       <reg>spiritus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(an)c(tu)s.</seg>
+		       <orig>sc̄s.</orig>
+		       <reg>sanctus.</reg>
+	     </choice>
+      <lb/>Et 
+	<choice>
+		       <seg type="lucas">t(ame)n</seg>
+		       <orig>tn̄</orig>
+		       <reg>tamen</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> tres 
+	<choice>
+		       <seg type="lucas">et(er)ni:</seg>
+		       <orig>eṫni:</orig>
+		       <reg>eterni:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(ed)</seg>
+		       <orig>s⋮</orig>
+		       <reg>sed</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">un(us)</seg>
+		       <orig>unꝰ</orig>
+		       <reg>unus</reg>
+	     </choice>
+      <lb/>
+	     <choice>	         
+		       <seg type="lucas">et(er)n(us).</seg>
+		       <orig>eṫnꝰ.</orig>
+		       <reg>eternus.</reg> 
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Sic(ut)</seg>
+		       <orig>Sic̄</orig>
+		       <reg>Sicut</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> tres 
+	<choice>
+		       <seg type="lucas">i(n)creati</seg>
+		       <orig>īcreati</orig>
+		       <reg>increati</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(ec)</seg>
+		       <orig>nᶜ</orig>
+		       <reg>nec</reg>
+	     </choice>
+      <lb/>tres 
+	<choice>
+		       <seg type="lucas">i(m)me(n)si:</seg>
+		       <orig>īmēsi:</orig>
+		       <reg>immensi:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(ed)</seg>
+		       <orig>s⋮</orig>
+		       <reg>sed</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">un(us)</seg>
+		       <orig>unꝰ</orig>
+		       <reg>unus</reg>
+	     </choice> 
+	     <choice>	         
+		       <seg type="lucas">i(n)creat(us)</seg>
+		       <orig>īcreatꝰ</orig> 
+		       <reg>increatus</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">un(us)</seg>
+		       <orig>unꝰ</orig>
+		       <reg>unus</reg>
+	     </choice> 
+	     <choice>	         
+		       <seg type="lucas">i(m)m(en)s(us).</seg>
+		       <orig>īmēsꝰ.</orig>
+		       <reg>immensus.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Si(mi)l(ite)r</seg>
+		       <orig>Sil͘r</orig>
+		       <reg>Similiter</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mni)p(oten)s</seg>
+		       <orig>op̄s</orig>
+		       <reg>omnipotens</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">p(ate)r</seg>
+		       <orig>pr̄</orig>
+		       <reg>pater</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mni)p(oten)s</seg>
+		       <orig>op̄s</orig>
+		       <reg>omnipotens</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">fili(us):</seg>
+		       <orig>filiꝰ:</orig>
+		       <reg>filius:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mni)p(oten)s</seg>
+		       <orig>op̄s</orig>
+		       <reg>omnipotens</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sp(iritu)s</seg>
+		       <orig>sp̄s</orig>
+		       <reg>spiritus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(an)c(tu)s.</seg>
+		       <orig>sc̄s.</orig>
+		       <reg>sanctus.</reg>
+	     </choice>
+      <lb/>Et 
+	<choice>
+		       <seg type="lucas">t(ame)n</seg>
+		       <orig>tn̄</orig>
+		       <reg>tamen</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> tres 
+	<choice>
+		       <seg type="lucas">o(mn)ipote(n)tes:</seg>
+		       <orig>oīpotētes:</orig>
+		       <reg>omnipotentes:</reg>
+	     </choice>
+      <lb/>sed 
+	<choice>
+		       <seg type="lucas">un(us)</seg>
+		       <orig>unꝰ</orig>
+		       <reg>unus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mni)p(oten)s.</seg>
+		       <orig>op̄s.</orig>
+		       <reg>omnipotens.</reg>
+	     </choice> Ita 
+	<choice>
+		       <seg type="lucas">d(eu)s</seg>
+		       <orig>ḋs</orig>
+		       <reg>deus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ate)r</seg>
+		       <orig>pr̄</orig>
+		       <reg>pater</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">d(eu)s</seg>
+		       <orig>ḋs</orig>
+		       <reg>deus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">fili(us):</seg>
+		       <orig>filiꝰ:</orig>
+		       <reg>filius:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(eu)s</seg>
+		       <orig>ḋs</orig>
+		       <reg>deus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sp(iritu)s</seg>
+		       <orig>sp̄s</orig>
+		       <reg>spiritus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(an)c(tu)s.</seg>
+		       <orig>sc̄s.</orig>
+		       <reg>sanctus.</reg>
+	     </choice> Et 
+	<choice>
+		       <seg type="lucas">t(ame)n</seg>
+		       <orig>tn̄</orig>
+		       <reg>tamen</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n̄</orig>
+		       <reg>non</reg>
+	     </choice> tres dii: 
+	<choice>
+		       <seg type="lucas">s(ed)</seg>
+		       <orig>s⋮</orig>
+		       <reg>sed</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">un(us)</seg>
+		       <orig>unꝰ</orig>
+		       <reg>unus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">e(st)</seg>
+		       <orig>ē</orig>
+		       <reg>est</reg>
+	     </choice> deus.
+       <!-- is there some way to mark this as an add-on? -->
+<lb/>Ita 
+	<choice>
+		       <seg type="lucas">d(omi)n(u)s</seg>
+		       <orig>dn̄s</orig>
+		       <reg>dominus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ate)r</seg>
+		       <orig>p̄r</orig>
+		       <reg>pater</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)n(u)s</seg>
+		       <orig>dn̄s</orig>
+		       <reg>dominus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">fili(us):</seg>
+		       <orig>filiꝰ:</orig>
+		       <reg>filius:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)n(u)s</seg>
+		       <orig>dn̄s</orig>
+		       <reg>dominus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sp(iritu)s</seg>
+		       <orig>sp̄s</orig>
+		       <reg>spiritus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(an)c(tu)s.</seg>
+		       <orig>sc̄s.</orig>
+		       <reg>sanctus.</reg>
+	     </choice>
+      <lb/>Et 
+	<choice>
+		       <seg type="lucas">t(ame)n</seg>
+		       <orig>tn̄</orig>
+		       <reg>tamen</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">no(n)</seg>
+		       <orig>nō</orig>
+		       <reg>non</reg>
+	     </choice> tres 
+	<choice>
+		       <seg type="lucas">d(omi)ni:</seg>
+		       <orig>dn̄i:</orig>
+		       <reg>domini:</reg>
+	     </choice> sed 
+	<choice>
+		       <seg type="lucas">un(us)</seg>
+		       <orig>unꝰ</orig>
+		       <reg>unus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">e(st)</seg>
+		       <orig>ē</orig>
+		       <reg>est</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)n(u)s.</seg>
+		       <orig>dn̄s.</orig>
+		       <reg>dominus.</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0146_translation"
+       corresp="#p0146_transcription"> majesty. What the Father is, the Son is, and the Holy Spirit is. 
+       The Father is uncreated, the Son is uncreated, and the Holy Spirit is uncreated. 
+       The Father is boundless, the Son is boundless, and the Holy Spirit is boundless. 
+       The Father is eternal, the Son is eternal, and the Holy Spirit is eternal.  Nevertheless, there are not three eternal beings, but one eternal being. 
+       So there are not three uncreated beings, nor three boundless beings, but one uncreated being and one boundless being. 
+       Likewise, the Father is omnipotent, the Son is omnipotent, the Holy Spirit is omnipotent. 
+       Yet there are not three omnipotent beings, but one omnipotent being. 
+       Thus the Father is God, the Son is God, and the Holy Spirit is God. 
+       However, there are not three gods, but one God. 
+       The Father is Lord, the Son is Lord, and the Holy Spirit is Lord. 
+       However, there are not three lords, but one Lord. <!-- athanasian creed cont (but the sentence doesnt continue to next page )--></ab>
+
+</div>
+>>>>>>> Stashed changes

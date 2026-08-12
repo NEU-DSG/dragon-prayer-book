@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="142v" xml:id="p0300">
@@ -295,3 +296,279 @@
             <!--Self-translated by Hope, loosely based on DRB Proverbs 1:20, where Wisdom is speaking in the streets, but Dragon Prayer Book has her crying-->
 </ab>
 </div>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="142v" xml:id="p0300">
+
+      <ab type="transcription" xml:id="p0300_transcription" corresp="#p0300_translation">
+            <lb/>
+            <choice>
+                  <seg type="lucas">p(o)p(u)lo.</seg>
+                  <orig>ppl͘o.</orig>
+                  <reg>populo.</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">p(ri)matu(m)</seg>
+                  <orig>ṗmatū</orig>
+                  <reg>primatum</reg>
+            </choice> tenui. <choice>
+                  <seg type="lucas">Sup(er)</seg>
+                  <orig>Suꝑ</orig>
+                  <reg>Super</reg>
+            </choice>
+            <lb break="no"/>
+            <choice>
+                  <seg type="lucas">bor(um)</seg>
+                  <orig>borꝝ</orig>
+                  <reg>borum</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">(et) </seg>
+                  <orig>+</orig>
+                  <reg>et </reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">s(ub)limiu(m)</seg>
+                  <orig>sḃlimiū</orig>
+                  <reg>sublimium</reg>
+            </choice> colla <choice>
+                  <seg type="lucas">p(ro)p(ri)a</seg>
+                  <orig>ꝓṗa</orig>
+                  <reg>propria</reg>
+            </choice>
+            <lb/>
+            <choice>
+                  <seg type="lucas">v(ir)tute</seg>
+                  <orig>v̇tute</orig>
+                  <reg>virtute</reg>
+            </choice> calcavi. <choice>
+                  <seg type="lucas">V(espers)</seg>
+                  <orig>V̇</orig>
+                  <reg>Vespers</reg>
+            </choice> Ego <choice>
+                  <seg type="lucas">i(n)</seg>
+                  <orig>ī</orig>
+                  <reg>in</reg>
+            </choice>
+            <lb/>
+            <choice>
+                  <seg type="lucas">altissi(mi)s</seg>
+                  <orig>altissīs</orig>
+                  <reg>altissimis</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">h(ab)ito</seg>
+                  <orig>hīto</orig>
+                  <reg>habito</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">(et) </seg>
+                  <orig>+</orig>
+                  <reg>et </reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">thron(us)</seg>
+                  <orig>thronꝰ</orig>
+                  <reg>thronus</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">m(eu)s</seg>
+                  <orig>m̄s</orig>
+                  <reg>meus</reg>
+            </choice>
+            <lb/>
+            <choice>
+                  <seg type="lucas">i(n)</seg>
+                  <orig>ī</orig>
+                  <reg>in</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">colu(m)na</seg>
+                  <orig>colūna</orig>
+                  <reg>columna</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">nub(is).</seg>
+                  <orig>nuḃ.</orig>
+                  <reg>nubis.</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">S(upe)r(bonum).</seg>
+                  <orig>Sr̄.</orig>
+                  <reg>Superbonum.</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">Gl(ori)a.</seg>
+                  <orig>Gl͘a.</orig>
+                  <reg>Gloria.</reg>
+            </choice>
+            <lb/>
+            <choice>
+                  <seg type="lucas">S(upe)r.</seg>
+                  <orig>Sr̄.</orig>
+                  <reg>Super.</reg>
+            </choice> Ad <choice>
+                  <seg type="lucas">M(?).</seg>
+                  <orig>M̈͘͘.</orig>
+                  <reg>M?.<!-- tertia? check expansion --></reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">a(lleluia?).</seg>
+                  <orig>ä.</orig>
+                  <reg>alleluia?.<!--  check expansion --></reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">O(mn)is</seg>
+                  <orig>Oīs</orig>
+                  <reg>Omnis</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">sapi(enti)a</seg>
+                  <orig>sapīa</orig>
+                  <reg>sapientia</reg>
+            </choice> a <lb/>
+            <choice>
+                  <seg type="lucas">d(omi)no</seg>
+                  <orig>dn̄o</orig>
+                  <reg>domino</reg>
+            </choice> deo <choice>
+                  <seg type="lucas">e(st)</seg>
+                  <orig>ē</orig>
+                  <reg>est</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">(et) </seg>
+                  <orig>+</orig>
+                  <reg>et </reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">cu(m)</seg>
+                  <orig>cū</orig>
+                  <reg>cum</reg>
+            </choice> illo fuit <choice>
+                  <seg type="lucas">s(em)p(er)</seg>
+                  <orig>sꝑ</orig>
+                  <reg>semper</reg>
+            </choice>
+            <lb/>
+            <choice>
+                  <seg type="lucas">(et) </seg>
+                  <orig>+</orig>
+                  <reg>et </reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">e(st)</seg>
+                  <orig>ē</orig>
+                  <reg>est</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">an(te)</seg>
+                  <orig>an̄</orig>
+                  <reg>ante</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">evu(m).</seg>
+                  <orig>evū.</orig>
+                  <reg>evum.</reg>
+            </choice> In <choice>
+                  <seg type="lucas">sabb(at)o</seg>
+                  <orig>sabḃo</orig>
+                  <reg>sabbato</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">a(lleluia?).</seg>
+                  <orig>ä.</orig>
+                  <reg>alleluia.</reg>
+            </choice>
+            <lb/>
+            <choice>
+                  <seg type="lucas">Sapi(enti)a</seg>
+                  <orig>Sapīa</orig>
+                  <reg>Sapientia</reg>
+            </choice> edificavit sibi <lb/>
+            <choice>
+                  <seg type="lucas">domu(m)</seg>
+                  <orig>domū</orig>
+                  <reg>domum</reg>
+            </choice> scidit <choice>
+                  <seg type="lucas">colu(m)nas</seg>
+                  <orig>colūnas</orig>
+                  <reg>columnas</reg>
+            </choice>
+            <lb/>
+            <choice>
+                  <seg type="lucas">septe(m)</seg>
+                  <orig>septē</orig>
+                  <reg>septem</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">s(u)bdidit</seg>
+                  <orig>sḃdidit</orig>
+                  <reg>subdidit</reg>
+            </choice> sibi <choice>
+                  <seg type="lucas">ge(n)tes</seg>
+                  <orig>gētes</orig>
+                  <reg>gentes</reg>
+            </choice>
+            <lb/>
+            <choice>
+                  <seg type="lucas">sup(er)bor(um)q(ue)</seg>
+                  <orig>suꝑboꝝq⋮</orig>
+                  <reg>superborumque</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">(et) </seg>
+                  <orig>+</orig>
+                  <reg>et </reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">s(u)blimiu(m)</seg>
+                  <orig>sḃlimiū</orig>
+                  <reg>sublimium</reg>
+            </choice> col <lb break="no"/>la "calcavi <choice>
+                  <seg type="lucas">p(ro)p(ri)a</seg>
+                  <orig>ꝓṗa</orig> 
+                  <reg>propria</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">v(ir)tute."</seg>
+                  <orig>v̇tute.</orig>
+                  <reg>virtute."</reg>
+            </choice>
+            <choice>
+                  <seg type="lucas">a(lleluia?).</seg>
+                  <orig>ä.</orig>
+                  <reg>alleluia</reg>
+            </choice>
+            <lb/>
+            <choice>
+                  <seg type="lucas">Sapi(enti)a</seg>
+                  <orig>Sapīa</orig>
+                  <reg>Sapientia</reg>
+            </choice> clamitat <choice>
+                  <seg type="lucas">i(n)</seg>
+                  <orig>ī</orig>
+                  <reg>in</reg>
+            </choice> plate <lb break="no"/>is si <choice>
+                  <seg type="lucas">q(ui)s</seg>
+                  <orig>q̇s</orig>
+                  <reg>quis</reg>
+            </choice> diligit <choice>
+                  <seg type="lucas">sapi(enti)am</seg>
+                  <orig>sapīam</orig>
+                  <reg>sapientiam</reg>
+            </choice>
+      </ab>
+
+      <ab type="translation" xml:id="p0300_translation" corresp="#p0300_transcription">every nation 
+            I held the preeminence of the proud and lofty necks I trampled on by my own power. 
+            <!-- Google translate? -->
+            Vespers. In high heaven was my dwelling-place, my throne a pillar of cloud. 
+            (Superbonum. Gloria. Super. Ad M(?). alleluia). All wisdom is from the Lord God 
+            and has always been with him and is before the ages. In sabbato alleulia. 
+            Wisdom built a house for herself, tore down the seven pillars, subdued the 
+            nations of the proud, and trampled down the necks of the lofty by her own power. 
+            Alleluia. Wisdom cries out in the streets if anyone loves wisdom.</ab>
+</div>
+>>>>>>> Stashed changes

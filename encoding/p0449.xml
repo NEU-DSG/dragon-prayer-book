@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <div xmlns="http://www.tei-c.org/ns/1.0"
@@ -221,3 +222,228 @@
    </ab>
 
 </div>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="217r"
+     xml:id="p0449">
+
+   <ab type="transcription"
+       xml:id="p0449_transcription"
+       corresp="#p0449_translation">
+ SECOND LITANY OF SAINTS
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Scā</orig>
+		       <reg>Sancta</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Kunegu(n)dis</seg>
+		       <orig>Kunegūdis</orig>
+		       <reg>Kunegundis</reg> 
+	     </choice>                                or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Scā</orig>
+		       <reg>Sancta</reg>
+	     </choice> elyzabeth                                        or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">O(mne)s</seg>
+		       <orig>Os̄</orig>
+		       <reg>Omnes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(an)c(t)e</seg>
+		       <orig>sc̄e</orig>
+		       <reg>sancte</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(ir)gi(n)es</seg>
+		       <orig>v̇gīes</orig>
+		       <reg>virgines</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et</reg>
+	     </choice> vidue                orte
+<lb/>
+	     <choice>
+		       <seg type="lucas">O(mne)s</seg>
+		       <orig>Os̄</orig>
+		       <reg>Omnes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(an)c(t)i</seg>
+		       <orig>sc̄i</orig>
+		       <reg>sancti</reg>
+	     </choice>                                          orate
+<lb/>
+	     <choice>
+		       <seg type="lucas">Propici(us)</seg>
+	           <orig>Propiciꝰ</orig>
+		       <reg>Propicius</reg>
+	     </choice> esto 
+	<choice>
+		       <seg type="lucas">p(ar)ce</seg>
+	           <orig>ꝑce</orig>
+		       <reg>parce</reg>
+	    <!-- this is scribbled out, not damage, but maybe of note? -->
+	     </choice> [nobis] eis
+<lb/><lb/>
+	     <choice>
+		       <seg type="lucas">d(omi)ne.</seg>
+		       <orig>dn̄e.</orig>
+		       <reg>domine.</reg>
+	     </choice> A 
+	<choice>
+		       <seg type="lucas">da(m)nat(i)one</seg>
+		       <orig>dānātōne</orig>
+		       <reg>damnatione</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(er)pe(tua?)</seg>
+	           <orig>ꝑpe</orig>
+		       <reg>perpe?</reg> <!-- I don't see the macron -->
+	     </choice>
+      <lb/>tua <!-- should this line break be here if its perpetua? -->
+	<choice>
+		       <seg type="lucas">lib(er)a</seg>
+		       <orig>liḃa</orig>
+		       <reg>libera</reg>
+	     </choice> eas 
+	<choice>
+		       <seg type="lucas">d(omi)ne.</seg>
+		       <orig>dn̄e.</orig>
+		       <reg>domine.</reg>
+	     </choice> Ab 
+	<choice>
+		       <seg type="lucas">i(m)</seg>
+		       <orig>ī</orig>
+		       <reg>im</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">mine(n)tib(us)</seg>
+		       <orig>minētib</orig>
+		       <reg>minentibus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ec)c(a)tor(um)</seg>
+	           <orig>pct̄oꝝ</orig> 
+		       <reg>peccatorum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">suor(um)</seg>
+	           <orig>suoꝝ</orig>
+		       <reg>suorum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(er)i</seg>
+	           <orig>ꝑi</orig>
+		       <reg>peri</reg>
+	     </choice>
+      <lb break="no"/>culis l e d. Ab 
+	<choice>
+		       <seg type="lucas">infestat(i)o</seg>
+		       <orig>infestatō</orig>
+		       <reg>infestatio</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">nib(us)</seg>
+		       <orig>nib⋮</orig>
+		       <reg>nibus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">demonu(m)</seg>
+		       <orig>demonū</orig>
+		       <reg>demonum</reg>
+	     </choice> l e d. Ab
+<lb/>
+	     <choice>
+		       <seg type="lucas">om(n)i</seg>
+		       <orig>om̄i</orig>
+		       <reg>omni</reg>
+	     </choice> malo l e. Per mis
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">teriu(m)</seg>
+		       <orig>teriū</orig>
+		       <reg>terium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(an)cte</seg>
+		       <orig>sct̄e</orig>
+		       <reg>sancte</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)carnat(i)o(n)is</seg>
+		       <orig>īcarnatoīs</orig>
+		       <reg>incarnationis</reg>
+	     </choice> tue
+<lb/>l e d. Per 
+	<choice>
+		       <seg type="lucas">passione(m)</seg>
+		       <orig>passionē</orig>
+		       <reg>passionem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et</reg>
+	     </choice> cru
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">ce(m)</seg>
+		       <orig>cē</orig>
+		       <reg>cem</reg>
+	     </choice> tua.l e d. Per 
+	<choice>
+		       <seg type="lucas">gl(ori)osa(m)</seg>
+		       <orig>gl͘osā</orig>
+		       <reg>gloriosam</reg> 
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">resurrect(i)o(n)e(m)</seg>
+		       <orig>resurrectōe⋮</orig>
+		       <reg>resurrectionem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tua(m)</seg>
+		       <orig>tuā</orig>
+		       <reg>tuam</reg>
+	     </choice> l e 
+	<choice>
+		       <seg type="lucas">d(omi)ne.</seg>
+		       <orig>dn̄e.</orig>
+		       <reg>domine.</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0449_translation"
+       corresp="#p0449_transcription">
+        St. Kunigunde, pray for us.
+        St. Elizabeth, pray for us.
+        All you holy Virgins and Widows, pray for us.
+        All you Saints, pray for us.
+        Be merciful unto us,
+        Spare us, O Lord. 
+        From eternal damnation, O Lord, deliver us.
+        From the scourges that threaten our sins, O Lord, deliver us.
+        From the snares of the devil, O Lord, deliver us. <!-- DM page 402 -->
+        From all evil, O Lord, deliver us.
+        Through the mystery of Your holy incarnation, O Lord, deliver us.
+        Through Your passion and cross, O Lord, deliver us.
+        Through Your glorious resurrection, O Lord, deliver us. <!-- DM page 403 -->
+   </ab>
+
+</div>
+>>>>>>> Stashed changes

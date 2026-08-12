@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <div xmlns="http://www.tei-c.org/ns/1.0"
@@ -256,3 +257,263 @@
    </ab>
 
 </div>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="120r"
+     xml:id="p0255">
+
+   <ab type="transcription"
+       xml:id="p0255_transcription"
+       corresp="#p0255_translation">
+
+      <lb/>me 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">enut(ri)es</seg>
+		       <orig>enuṫes</orig>
+		       <reg>enutries</reg>
+	     </choice> me. <seg next="#seg255">Edu⸗</seg>
+*hoc    <seg xml:id="seg255">ces</seg> me de <!-- check transcription here I think there's something missing -->
+	<choice>
+		       <seg type="lucas">laq(ue)o+que(m)</seg>
+		       <orig>laq̄o*quē</orig>
+		       <reg>laqueo*quem</reg>
+	     </choice> ab
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">sco(n)der(un)t</seg>
+		       <orig>scōder̄t</orig>
+		       <reg>sconderunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(ihi):</seg>
+		       <orig>ṁ:</orig>
+		       <reg>mihi:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uonia)m</seg>
+		       <orig>qm̄</orig>
+		       <reg>quoniam</reg>
+	     </choice> tu es 
+	<choice>
+		       <seg type="lucas">p(ro)tec</seg>
+		       <orig>ꝓtec</orig>
+		       <reg>protec</reg>
+	     </choice>
+      <lb break="no"/>tor 
+	<choice>
+		       <seg type="lucas">m(eu)s.</seg>
+		       <orig>m̄s.</orig>
+		       <reg>meus.</reg>
+	     </choice> In 
+	<choice>
+		       <seg type="lucas">man(us)</seg>
+		       <orig>manꝰ</orig>
+		       <reg>manus</reg>
+	     </choice> tuas
+<lb/>
+	     <choice>
+		       <seg type="lucas">me(n)do</seg>
+		       <orig>ɔmēdo</orig>
+		       <reg>commendo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sp(iritu)m</seg>
+		       <orig>sp̄m</orig>
+		       <reg>spiritum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">meu(m):</seg>
+		       <orig>meū:</orig>
+		       <reg>meum:</reg>
+	     </choice> redemi
+<lb break="no"/>sti me 
+	<choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(eu)s</seg>
+		       <orig>ḋs</orig>
+		       <reg>deus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(er)itatis.</seg>
+		       <orig>v̇itatis.</orig>
+		       <reg>veritatis.</reg>
+	     </choice>
+      <lb/>QUi 
+	<choice>
+		       <seg type="lucas">h(ab)itat</seg>
+		       <orig>h̄itat</orig>
+		       <reg>habitat</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> adiutorio
+<lb/>altissimi: 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ro)tect(i)one</seg>
+		       <orig>ꝑtectōne</orig>
+		       <reg>protectione</reg>
+	     </choice>
+      <lb/>dei celi 
+	     <choice>
+		       <seg type="lucas">morabit(ur).</seg>
+		       <orig>ɔmorabit̄.</orig>
+		       <reg>commorabitur.</reg>
+	     </choice> Dicet
+<lb/>
+	     <choice>
+		       <seg type="lucas">d(omi)no</seg>
+		       <orig>dn̄o</orig>
+		       <reg>domino</reg>
+	     </choice> susceptor 
+	<choice>
+		       <seg type="lucas">m(eu)s</seg>
+		       <orig>m̄s</orig>
+		       <reg>meus</reg>
+	     </choice> es tu 
+	<choice>
+		       <seg type="lucas">(et)</seg>
+		       <orig>+</orig>
+		       <reg>et</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">refugiu(m)</seg>
+		       <orig>refugiū</orig>
+		       <reg>refugium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">meu(m)</seg>
+		       <orig>meū</orig>
+		       <reg>meum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(eu)s</seg>
+		       <orig>ḋs</orig>
+		       <reg>deus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(eu)s:</seg>
+		       <orig>m̄s:</orig>
+		       <reg>meus:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sp(er)a</seg>
+		       <orig>sꝑa</orig>
+		       <reg>spera</reg>
+	     </choice>
+      <lb break="no"/>bo 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">eu(m):</seg>
+		       <orig>eū:</orig>
+		       <reg>eum:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Q(uonia)m</seg>
+		       <orig>Qm̄</orig>
+		       <reg>Quoniam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ip(s)e</seg>
+		       <orig>ip̄e</orig>
+		       <reg>ipse</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">lib(er)avit</seg>
+		       <orig>liḃavit</orig>
+		       <reg>liberavit</reg>
+	     </choice>
+      <lb/>me de 
+	<choice>
+		       <seg type="lucas">laq(ue)o</seg>
+		       <orig>laq̄o</orig>
+		       <reg>laqueo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">vena(n)tiu(m):</seg>
+		       <orig>venātiū:</orig>
+		       <reg>venantium:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> a
+<lb/>
+	     <choice>
+		       <seg type="lucas">v(er)bo</seg>
+		       <orig>v̇bo</orig>
+		       <reg>verbo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">asp(er)o.</seg>
+		       <orig>asꝑo.</orig>
+		       <reg>aspero.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Scapul(is)</seg>
+		       <orig>Scapul͘</orig>
+		       <reg>Scapulis</reg>
+	     </choice> suis
+<lb/>
+	     <choice>
+		       <seg type="lucas">obu(m)b(ra)bit</seg>
+		       <orig>obūb̈bit</orig>
+		       <reg>obumbrabit</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(ibi):</seg>
+		       <orig>ṫ:</orig>
+		       <reg>tibi:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(u)b</seg>
+		       <orig>sb</orig>
+		       <reg>sub</reg>
+	     </choice> <supplied>pennis</supplied>
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0255_translation"
+       corresp="#p0255_transcription"> and for thy name's sake thou wilt lead me, and nourish me. 
+         Thou wilt bring me out of this snare, which they have hidden for me: for thou art my protector.
+         Into thy hands I commend my spirit: thou hast redeemed me, O Lord, the God of truth. <!-- drb psalm 30. not making any indiciation about
+               "hoc" from the margins because its a missing word not anything extra -->
+         He that dwelleth in the aid of the most High, shall abide under the protection of the God of Jacob.
+         He shall say to the Lord: Thou art my protector, and my refuge: my God, in him will I trust. 
+         For he hath delivered me from the snare of the hunters: and from the sharp word. 
+         He will overshadow thee with his shoulders: and under his wings thou shalt trust. <!-- drb psalm 90 cont -->
+   </ab>
+
+</div>
+>>>>>>> Stashed changes

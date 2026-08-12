@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <div xmlns="http://www.tei-c.org/ns/1.0"
@@ -272,3 +273,279 @@
          At Advent, for Our Dear Lady. <!-- German, CJ Jones, cont --> </ab>
 
 </div>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="56v"
+     xml:id="p0128">
+
+   <ab type="transcription"
+       xml:id="p0128_transcription"
+       corresp="#p0128_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">gregat(i)o(n)is</seg>
+	             <orig>gregatōis</orig>
+		       <reg>gregationis</reg>
+	     </choice> tue. 
+	<choice>
+		       <seg type="lucas">Q(ua)m</seg>
+		       <orig>Qm̈</orig>
+		       <reg>Quam</reg>
+	     </choice> pos
+<lb break="no"/>sedisti ab 
+	<choice>
+		       <seg type="lucas">i(n)it(i)o.</seg>
+	             <orig>īitō.</orig>
+		       <reg>initio.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">D(omi)ne</seg>
+		       <orig>Dn̄e</orig>
+		       <reg>Domine</reg>
+	     </choice> exau.
+<lb/>
+	     <choice>
+		       <seg type="lucas">D(eu)s</seg>
+	             <orig>Ḋs</orig>
+		       <reg>Deus</reg>
+	     </choice> cui 
+	<choice>
+		       <seg type="lucas">p(ro)p(ri)u(m)</seg>
+	             <orig>ꝓṗū</orig>
+		       <reg>proprium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">e(st)</seg>
+	             <orig>ē</orig>
+		       <reg>est</reg>
+	     </choice> mi⸗        
+	<choice>
+		       <seg type="lucas">Or(emus).</seg>
+		       <orig>Or̄.</orig>
+		       <reg>Oremus.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">se(re)ri</seg>
+	             <orig>sėri</orig>
+		       <reg>sereri</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(em)p(er)</seg>
+	             <orig>sꝑ</orig>
+		       <reg>semper</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+	             <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ar)ce(re)</seg>
+	             <orig>ꝑcė</orig>
+		       <reg>parcere</reg>
+	     </choice> suscipe
+<lb/>
+	     <choice>
+		       <seg type="lucas">dep(re)cat(i)o(nem)</seg>
+	             <orig>dep̄catō⋮</orig>
+		       <reg>deprecationem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(ost)ra(m):</seg>
+	             <orig>nr̄a⋮:</orig>
+		       <reg>nostram:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+	             <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uo)s</seg>
+	             <orig>q°s</orig>
+		       <reg>quos</reg>
+	     </choice> delicto
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">r(um)</seg>
+	             <orig>ꝝ</orig>
+		       <reg>rum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cathe(n)a</seg>
+	             <orig>cathēa</orig>
+		       <reg>cathena</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">st(ri)ngit</seg>
+	             <orig>ɔstn̄git</orig> 
+		       <reg>constringit</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mis(er)at(i)o</seg>
+	             <orig>misȧtō</orig>
+		       <reg>miseratio</reg>
+	     </choice>
+      <lb/>tue pietatis absolvat. 
+	<choice>
+		       <seg type="lucas">P(er).</seg>
+	             <orig>Ꝑ.</orig>
+		       <reg>Per.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">V(ersiculus)</seg>
+	             <orig>V̇</orig>
+		       <reg>Versiculus</reg>
+	     </choice> Salvos fac 
+	<choice>
+		       <seg type="lucas">s(er)vos</seg>
+	             <orig>sv̇os</orig>
+		       <reg>servos</reg>
+	     </choice> tuos
+<lb/>
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+	             <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(n)cillas</seg>
+	             <orig>ācillas</orig>
+		       <reg>ancillas</reg>
+	     </choice> tuas. 
+	<choice>
+		       <seg type="lucas">D(eu)s</seg>
+		       <orig>Ḋs</orig>
+		       <reg>Deus</reg>
+	     </choice> meus
+<lb/>
+	     <choice>
+		       <seg type="lucas">s(em)p(er)</seg>
+	             <orig>sꝑ</orig>
+		       <reg>semper</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(n)tes</seg>
+	             <orig>ātes</orig>
+		       <reg>antes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+	             <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> te. 
+	<choice>
+		       <seg type="lucas">D(omi)ne</seg>
+		       <orig>Dn̄e</orig>
+		       <reg>Domine</reg>
+	     </choice> ex.        
+	<choice>
+		       <seg type="lucas">Or(ati)o.</seg>
+		       <orig>Or̄o.</orig>
+		       <reg>Oratio.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">PRete(n)de</seg>
+	             <orig>PRetēde</orig>
+		       <reg>PRetende</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">famul(is)</seg>
+		       <orig>famul͘</orig>
+		       <reg>famulis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et)</seg>
+	             <orig>+</orig>
+		       <reg>et</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">fam(u)lab(us)</seg>
+	             <orig>faml͘ab⋮</orig>
+		       <reg>famulabus</reg>
+	     </choice> tuis 
+	<choice>
+		       <seg type="lucas">dext(er)a(m)</seg>
+	             <orig>dext͘a⋮</orig>
+		       <reg>dexteram</reg> 
+	     </choice>
+      <lb/>celestis auxilii: ut te toto
+<lb/>corde 
+	<choice>
+		       <seg type="lucas">p(er)q(ui)ra(n)t;</seg>
+	             <orig>ꝑq̇rāt;</orig>
+		       <reg>perquirant;</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+	             <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ue)</seg>
+		       <orig>q̄</orig>
+		       <reg>que</reg>
+	     </choice> digne
+<lb/>
+	     <choice>
+		       <seg type="lucas">postula(n)t</seg>
+	             <orig>postulāt</orig>
+		       <reg>postulant</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">asseq(ua)nt(ur).</seg>
+		       <orig>asseq̈nt֔. </orig> <!-- CHECK -->
+		       <reg>assequantur.</reg>
+	     </choice> Zu 
+	<choice>
+		       <seg type="lucas">de(m) </seg>
+	            <orig>dē </orig>
+		    <reg>dem <!--  check expansion --></reg>
+	     </choice> 
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0128_translation"
+       corresp="#p0128_transcription">Be mindful of your congregations. How you possessed it from the beginnning. <!-- google translate --> 
+         O Lord, [hear my prayer.] And let my cry [come unto thee.]  
+         Let us pray. O God, whose property it is always
+         to have mercy and to
+         spare: receive our
+         prayer, that the mercy
+         of Thy compassion
+         may graciously pardon us and all Thy
+         servants, who are
+         bound by the chain
+         of our faults. Through [Christ our Lord]. Versicle. O Lord, save
+         Thy servants and
+         Thy handmaids.
+         Who trust in
+         Thee, O my God. <!-- OBDS 486 --> O Lord, hear my
+         prayer.
+         And let my cry
+         come unto Thee. Collect. Stretch forth, O
+         Lord, the right hand
+         of Thy heavenly help
+         to Thy servants, and
+         handmaids, that they
+         may seek Thee with
+         their whole heart,
+         and may obtain whatsoever they worthily
+         ask of Thee. <!-- OBDS pg 487 -->
+         At Advent, for Our Dear Lady. <!-- German, CJ Jones, cont --> </ab>
+
+</div>
+>>>>>>> Stashed changes

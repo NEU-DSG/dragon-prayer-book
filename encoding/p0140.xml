@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <div xmlns="http://www.tei-c.org/ns/1.0"
@@ -292,3 +293,299 @@ ptor
          Thou hast commanded thy commandments to be kept most diligently. O! that my ways may be directed to keep thy justifications. <!--psalm 118 drb cont --></ab>
 
 </div>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="62v"
+     xml:id="p0140">
+
+   <ab type="transcription"
+       xml:id="p0140_transcription"
+       corresp="#p0140_translation">
+
+?a?e tua u?perte tuos
+<lb/>adivuat me: 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+	             <orig>+</orig>
+		       <reg>et</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)n(u)s</seg>
+		       <orig>dn̄s</orig>
+		       <reg>dominus</reg>
+	     </choice> susce⸗
+ptor 
+	<choice>
+		       <seg type="lucas">e(st)</seg>
+	             <orig>ē</orig>
+		       <reg>est</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(n)i(m)e</seg>
+	             <orig>aīe</orig>
+		       <reg>anime</reg>
+	     </choice> mee. /| 
+	<choice>
+		       <seg type="lucas">Volu(n)ta</seg>
+	             <orig>Volūta</orig>
+		       <reg>Volunta</reg>
+	     </choice>
+      <lb break="no"/>rie 
+	<choice>
+		       <seg type="lucas">sac(ri)ficabo</seg>
+	             <orig>saċficabo</orig>
+		       <reg>sacrificabo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(ibi)</seg>
+		       <orig>t̄</orig> 
+		       <reg>tibi</reg>
+	     </choice> : 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+	             <orig> + </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(con)fitebor</seg>
+	             <orig>ɔfitebor</orig>
+		       <reg>confitebor</reg>
+	     </choice> 
+      <lb/>
+	     <choice>
+		       <seg type="lucas">no(m)i(ni)</seg>
+	             <orig>nōi</orig>
+		       <reg>nomini</reg>
+	     </choice> tuo 
+	<choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uonia)m</seg>
+		       <orig>qm̄</orig>
+		       <reg>quoniam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">bonu(m)</seg>
+	             <orig>bonū</orig>
+		       <reg>bonum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">e(st).</seg>
+	             <orig>ē.</orig>
+		       <reg>est.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">Q(uonia)m</seg>
+		       <orig>Qm̄</orig>
+		       <reg>Quoniam</reg>
+	     </choice> ex 
+	<choice>
+		       <seg type="lucas">o(mn)i</seg>
+	             <orig>ōi</orig>
+		       <reg>omni</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(ri)bulat(i)o(n)e</seg>
+	             <orig>ṫbulatōe</orig> 
+		       <reg>tribulatione</reg>
+	     </choice> eripu
+<lb break="no"/>isti me : 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+	             <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(upe)r</seg>
+		       <orig>sr̄</orig>
+		       <reg>super</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)imicos</seg>
+	             <orig>īimicos</orig>
+		       <reg>inimicos</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">meo(s)</seg>
+	             <orig>meoˢ</orig> 
+		       <reg>meos</reg>
+	     </choice>
+      <lb/>despexit 
+	<choice>
+		       <seg type="lucas">oc(u)l(u)s</seg>
+		       <orig>ocl͘s</orig>
+		       <reg>oculus</reg>
+	     </choice> meus.
+<lb/>
+	     <choice>
+		       <seg type="lucas">B(ea)ti</seg>
+		       <orig>Bt̄i</orig>
+		       <reg>Beati</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)mac(u)lati</seg>
+	             <orig>īmacl͘ati</orig>
+		       <reg>inmaculati</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+	            <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> via: 
+	<choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(m)</seg>
+	             <orig>ā</orig>
+		       <reg>am</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">bula(n)t</seg>
+	             <orig>bulāt</orig>
+		       <reg>bulant</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+	             <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> lege 
+	<choice>
+		       <seg type="lucas">d(omi)ni.</seg>
+		       <orig>dn̄i.</orig>
+		       <reg>domini.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">B(ea)ti</seg>
+		       <orig>Bt̄i</orig>
+		       <reg>Beati</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">scruta(n)t(ur)</seg>
+	             <orig>scrutāt݃</orig> 
+		       <reg>scrutantur</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">testi(m)onia</seg>
+	             <orig>testīonia</orig>
+		       <reg>testimonia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ei(us):</seg>
+	             <orig>eiꝰ:</orig>
+		       <reg>eius:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+	             <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> to
+<lb break="no"/>to corde 
+	<choice>
+		       <seg type="lucas">exq(ui)r(en)t</seg>
+		       <orig>exq̇r̄t</orig>
+		       <reg>exquirent</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">eu(m).</seg>
+	             <orig>eū.</orig>
+		       <reg>eum.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">No(n)</seg>
+	             <orig>Nō</orig>
+		       <reg>Non</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">eni(m)</seg>
+	             <orig>enī</orig>
+		       <reg>enim</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
+		       <reg>qui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">op(er)a(n)t(ur)</seg>
+	             <orig>oꝑāt݃</orig>
+		       <reg>operantur</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)iq(ui)tate(m):</seg>
+	             <orig>īiq̇tatē:</orig>
+		       <reg>iniquitatem:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+	             <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> viis 
+	<choice>
+		       <seg type="lucas">ei(us)</seg>
+	             <orig>eiꝰ</orig>
+		       <reg>eius</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">abulaver(un)t.</seg>
+	             <orig>ābulaver̄t.</orig>
+		       <reg>abulaverunt.</reg>
+	     </choice> Tu 
+	<choice>
+		       <seg type="lucas">ma(n)dasti:</seg>
+	            <orig>mādasti:</orig>
+		       <reg>mandasti:</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">ma(n)data</seg>
+	             <orig>mādata</orig>
+		       <reg>mandata</reg>
+	     </choice> tua custodiri ni
+<lb break="no"/>
+         <supplied>
+         mis. 
+	<choice>
+		       <seg type="lucas">Utina(m)</seg>
+	             <orig>Utinā</orig>
+		       <reg>Utinam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">diriga(n)t(ur)</seg>
+	             <orig>dirigāt݃</orig>
+		       <reg>dirigantur</reg>
+	     </choice> vie
+         </supplied>
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0140_translation"
+       corresp="#p0140_transcription"> For behold God is my helper: and the Lord is the protector of my soul. 
+         I will freely sacrifice to thee, and will give praise, O God, to thy name: because it is good: 
+         For thou hast delivered me out of all trouble: and my eye hath looked down upon my enemies. Blessed are the undefiled in the way, who walk in the law of the Lord. 
+         Blessed are they who search his testimonies: that seek him with their whole heart.
+         For they that work iniquity, have not walked in his ways. 
+         Thou hast commanded thy commandments to be kept most diligently. O! that my ways may be directed to keep thy justifications. <!--psalm 118 drb cont --></ab>
+
+</div>
+>>>>>>> Stashed changes

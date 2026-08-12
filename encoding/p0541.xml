@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <div xmlns="http://www.tei-c.org/ns/1.0"
@@ -332,3 +333,321 @@
    </ab>
 
 </div>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="263r"
+     xml:id="p0541">
+
+   <ab type="transcription"
+       xml:id="p0541_transcription"
+       corresp="#p0541_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">bit(ur);</seg>
+		       <orig>bit݃;</orig>
+		       <reg>bitur;</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">R(esponsorium)</seg>
+		       <orig>℞</orig>
+		       <reg>Responsorium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Iustu(m)</seg>
+		       <orig>Iustū</orig>
+		       <reg>Iustum</reg>
+	     </choice> deduxit 
+	<choice>
+		       <seg type="lucas">d(omi)n(u)s.</seg>
+		       <orig>dn̄s.</orig>
+		       <reg>dominus.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">P(er)</seg>
+		       <orig>Ꝑ</orig>
+		       <reg>Per</reg>
+	     </choice> vias 
+	<choice>
+		       <seg type="lucas">r(e)c(t)as.</seg>
+		       <orig>rc̄as.</orig>
+		       <reg>rectas.</reg>
+	     </choice> Et 
+	<choice>
+		       <seg type="lucas">o(ste)ndit</seg>
+		       <orig>on̄dit</orig>
+		       <reg>ostendit</reg>
+	     </choice> illi
+<lb/>
+	     <choice>
+		       <seg type="lucas">regnu(m)</seg>
+		       <orig>regnū</orig>
+		       <reg>regnum</reg>
+	     </choice> dei. 
+	<choice>
+		       <seg type="lucas">P(er).</seg>
+		       <orig>Ꝑ.</orig>
+		       <reg>Per.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">G(loria).</seg>
+		       <orig>G.</orig>
+		       <reg>Gloria.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Iustu(m).</seg>
+		       <orig>Iustū.</orig>
+		       <reg>Iustum.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">V(ersiculus).</seg>
+		       <orig>V̇.</orig>
+		       <reg>Versiculus.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">IUstu(m)</seg>
+		       <orig>IUstū</orig>
+		       <reg>IUstum</reg>
+	     </choice> dedux Ad 
+	<choice>
+		       <seg type="lucas">(nonum) </seg>
+		       <orig>iẍ </orig>
+		       <reg>nonum </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cap(ut).</seg>
+		       <orig>cap̄.</orig>
+		       <reg>caput.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Iust(us).</seg>
+		       <orig>Iustꝰ.</orig>
+		       <reg>Iustus.</reg>
+	     </choice>
+      <lb/>it 
+	<choice>
+		       <seg type="lucas">d(omi)n(u)s</seg>
+		       <orig>dn̄s</orig>
+		       <reg>dominus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(er)</seg>
+		       <orig>ꝑ</orig>
+		       <reg>per</reg>
+	     </choice> vias 
+	<choice>
+		       <seg type="lucas">r(e)c(t)as.</seg>
+		       <orig>rc̄as.</orig>
+		       <reg>rectas.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(ste)ndit</seg>
+		       <orig>on̄dit</orig>
+		       <reg>ostendit</reg>
+	     </choice>
+      <lb/>illi 
+	<choice>
+		       <seg type="lucas">regnu(m)</seg>
+		       <orig>regnū</orig>
+		       <reg>regnum</reg>
+	     </choice> dei: 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> dedit illi 
+	<choice>
+		       <seg type="lucas">s(an)c(t)i</seg>
+		       <orig>sc̄i</orig>
+		       <reg>sancti</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">e(n)cia(m)</seg>
+		       <orig>ēciā</orig>
+		       <reg>enciam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(an)c(t)or(um);</seg>
+		       <orig>scōꝝ;</orig>
+		       <reg>sanctorum;</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ho(n)estavit</seg>
+		       <orig>hōestavit</orig>
+		       <reg>honestavit</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">illu(m)</seg>
+		       <orig>illū</orig>
+		       <reg>illum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">laborib(us):</seg>
+		       <orig>laborib⋮:</orig>
+		       <reg>laboribus:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+ </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(con)plevit</seg>
+		       <orig>ɔplevit</orig>
+		       <reg>conplevit</reg>
+	     </choice> labores
+<lb/>
+	     <choice>
+		       <seg type="lucas">ilh(us);</seg>
+		       <orig>ilhꝰ;</orig>
+		       <reg>ilhus;</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">R(esponsorium).</seg>
+		       <orig>℞.</orig>
+		       <reg>Responsorium.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Iust(us)</seg>
+		       <orig>Iustꝰ</orig>
+		       <reg>Iustus</reg>
+	     </choice> ut palma
+<lb/>florebit. In domo 
+	<choice>
+		       <seg type="lucas">d(omi)ni.</seg>
+		       <orig>dn̄i.</orig>
+		       <reg>domini.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">V(ersiculus)</seg>
+		       <orig>V̇</orig>
+		       <reg>Versiculus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Sic(ut)</seg>
+		       <orig>Sic̄</orig>
+		       <reg>Sicut</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">cedr(us)</seg>
+		       <orig>cedrꝰ</orig>
+		       <reg>cedrus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">liba(n)i</seg>
+		       <orig>libāi</orig>
+		       <reg>libani</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(u)ltiplicabit(ur).</seg>
+		       <orig>ml͘tiplicabit݃.</orig>
+		       <reg>multiplicabitur.</reg>
+	     </choice>
+      <lb/>In. 
+	<choice>
+		       <seg type="lucas">Gl(ori)a.</seg>
+		       <orig>Gl͘a.</orig>
+		       <reg>Gloria.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Iust(us).</seg>
+		       <orig>Iustꝰ.</orig>
+		       <reg>Iustus.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">V(ersiculus)</seg>
+		       <orig>V̇</orig>
+		       <reg>Versiculus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Iust(us)</seg>
+		       <orig>Iustꝰ</orig>
+		       <reg>Iustus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">g(?).</seg>
+		       <orig>ġ.</orig>
+		       <reg>g?.<!--  check expansion --></reg>
+	     </choice> 
+ 
+      <lb/>In 
+	<choice>
+		       <seg type="lucas">n(?)</seg>
+		       <orig>ij</orig>
+		       <reg>n?<!-- check expansion --></reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(ersu)s</seg>
+		       <orig>v̈s</orig>
+		       <reg>versus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ps(alm)</seg>
+		       <orig>p̈s</orig>
+		       <reg>psalm</reg>
+	     </choice> Dixit. 
+	<choice>
+		       <seg type="lucas">B(ea)t(u)s</seg>
+		       <orig>Bt̄s</orig>
+		       <reg>Beatus</reg>
+	     </choice> vir.
+<lb/>laudate. Credidi. In 
+	<choice>
+		       <seg type="lucas">co(n)v(er)te(n)</seg>
+		       <orig>cōv̇tē</orig>
+		       <reg>converten</reg>
+	     </choice>
+      <lb break="no"/>do. 
+	<choice>
+		       <seg type="lucas">M(a)g(na).</seg>
+		       <orig>Mg̈.</orig>
+		       <reg>Magna.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(lleluia?).</seg>
+		       <orig>ä.</orig>
+		       <reg>alleluia?.<!--  check expansion --></reg>
+	     </choice> 
+ Similabo 
+	<choice>
+		       <seg type="lucas">eu(m)</seg>
+		       <orig>eū</orig>
+		       <reg>eum</reg>
+	     </choice> vi⸗
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0541_translation"
+       corresp="#p0541_transcription"> to petition the Most
+         High. <!-- DM 848 continued from previous page. --> Response. The Lord guided the just
+         in direct ways, showed him the kingdom of God. <!-- DM 673 --> In [direct ways.] Glory [be to the Father, and to the Son, and to the Holy Ghost. 
+         As it was in the beginning, is now, and ever shall be, world without end.] [The Lord guided] the just. Versicle. The just [man will give his
+         heart to seek the Lord, his Maker, to petition the Most
+         High.] At ix. Little chapter. The Lord guided the just
+         in direct ways, showed him the kingdom of God, and
+         gave him knowledge of holy things; He prospered him
+         in his labors and made abundant the fruit of his works. <!-- DM 673 -->
+   </ab>
+
+</div>
+>>>>>>> Stashed changes

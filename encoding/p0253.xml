@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <div xmlns="http://www.tei-c.org/ns/1.0"
@@ -285,3 +286,292 @@
          The light of thy countenance O Lord, is signed upon us: thou hast given gladness in my heart. <!-- psalm 4 drb cont. --> </ab>
 
 </div>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="119r"
+     xml:id="p0253">
+
+   <ab type="transcription"
+       xml:id="p0253_transcription"
+       corresp="#p0253_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">m(ihi).</seg>
+		       <orig>ṁ.</orig>
+		       <reg>mihi.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Misere(re)</seg>
+		       <orig>Miserė</orig>
+		       <reg>Miserere</reg>
+	     </choice> mei: 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> exaudi
+<lb/>
+	     <choice>
+		       <seg type="lucas">or(ati)o(nem)</seg>
+		       <orig>or̄o⋮</orig>
+		       <reg>orationem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mea(m).</seg>
+		       <orig>meā.</orig>
+		       <reg>meam.</reg>
+	     </choice> Filii 
+	<choice>
+		       <seg type="lucas">ho(m)i(nem)</seg>
+		       <orig>hoī⋮</orig>
+		       <reg>hominem</reg>
+	     </choice> us
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">q(ue)quo</seg>
+		       <orig>q⋮quo</orig>
+		       <reg>quequo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">g(ra)vi</seg>
+		       <orig>g̈vi</orig>
+		       <reg>gravi</reg>
+	     </choice> corde corde: ut
+<lb/>
+	     <choice>
+		       <seg type="lucas">q(ui)d</seg>
+		       <orig>q̇d</orig>
+		       <reg>quid</reg>
+	     </choice> diligitis 
+	<choice>
+		       <seg type="lucas">va(n)itate(m)</seg>
+		       <orig>vāitatē</orig>
+		       <reg>vanitatem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ue)ri</seg>
+		       <orig>q̄ri</orig>
+		       <reg>queri</reg>
+	     </choice>
+      <lb break="no"/>tis 
+	<choice>
+		       <seg type="lucas">me(n)daciu(m).</seg>
+		       <orig>mēdaciū.</orig>
+		       <reg>mendacium.</reg>
+	     </choice> Et scitote 
+	<choice>
+		       <seg type="lucas">q(uo)</seg>
+		       <orig>qº</orig>
+		       <reg>quo</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">nia(m)</seg>
+		       <orig>niā</orig>
+		       <reg>niam</reg>
+	     </choice> mirificavit 
+	<choice>
+		       <seg type="lucas">d(omi)n(u)s</seg>
+		       <orig>dn̄s</orig>
+		       <reg>dominus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(an)c(tu)m</seg>
+		       <orig>scm̄</orig>
+		       <reg>sanctum</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">suu(m):</seg>
+		       <orig>suū:</orig>
+		       <reg>suum:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)n(u)s</seg>
+		       <orig>dn̄s</orig>
+		       <reg>dominus</reg>
+	     </choice> exaudiet me 
+	<choice>
+		       <seg type="lucas">cu(m)</seg>
+		       <orig>cū</orig>
+		       <reg>cum</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">cla(ma)v(er)o</seg>
+		       <orig>cläv̇o</orig>
+		       <reg>clamavero</reg>
+	     </choice> ad 
+	<choice>
+		       <seg type="lucas">eu(m).</seg>
+		       <orig>eū.</orig>
+		       <reg>eum.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Irascimi(ni)</seg>
+		       <orig>Irascimī</orig>
+		       <reg>Irascimini</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> nolite peccare: 
+	<choice>
+		       <seg type="lucas">q(ue)</seg>
+		       <orig>q̄</orig>
+		       <reg>que</reg>
+	     </choice> dicitis
+<lb/>
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cordib(us)</seg>
+		       <orig>cordib⋮</orig>
+		       <reg>cordibus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(est)ris</seg>
+		       <orig>v̄ris</orig>
+		       <reg>vestris</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">cubilib(us)</seg>
+		       <orig>cubilib⋮</orig>
+		       <reg>cubilibus</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">v(est)ris</seg>
+		       <orig>v̄ris</orig>
+		       <reg>vestris</reg>
+	     </choice>
+	     <choice>
+		       <seg type="lucas">pugimi(ni).</seg>
+		       <orig>ɔpugimī.</orig>
+		       <reg>conpugimini.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Sac(ri)fica</seg>
+		       <orig>Saċfica</orig>
+		       <reg>Sacrifica</reg>
+	     </choice>
+      <lb break="no"/>te 
+	<choice>
+		       <seg type="lucas">sac(ri)ficiu(m)</seg>
+		       <orig>saċficiū</orig>
+		       <reg>sacrificium</reg>
+	     </choice> iusticie; 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sp(er)†ate†</seg>
+		       <orig>sꝑ<supplied>ate</supplied></orig>
+		       <reg>sper<supplied>ate</supplied></reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)no:</seg>
+		       <orig>dn̄o:</orig>
+		       <reg>domino:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(u)lti</seg>
+		       <orig>ml͘ti</orig>
+		       <reg>multi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">dicu(?)t</seg>
+		       <orig>dicūt</orig>
+		       <reg>dicunt</reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">q(ui)s</seg>
+		       <orig>q̇s</orig>
+		       <reg>quis</reg>
+	     </choice> <seg next="#seg253"><supplied>oste⸗</supplied></seg>
+*nobis  <supplied><seg xml:id="seg253">dit</seg> 
+	<choice>
+		       <seg type="lucas">bo(na).†</seg>
+		       <orig>bö.</orig>
+		       <reg>bona.</reg>
+	     </choice>
+	     <choice>
+		       <seg type="lucas">Sig(na)tu(m)</seg>
+		       <orig>Sig̈tū</orig>
+		       <reg>Signatum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">e(st)</seg>
+		       <orig>ē</orig>
+		       <reg>est</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(upe)r</seg>
+		       <orig>sr̄</orig>
+		       <reg>super</reg>
+	     </choice> nos
+<lb/>
+	     <choice>
+		       <seg type="lucas">lume(n)</seg>
+		       <orig>lumē</orig>
+		       <reg>lumen</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">vult(us)</seg>
+		       <orig>vultꝰ</orig>
+		       <reg>vultus</reg>
+	     </choice> tui 
+	<choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice> dedis⸗</supplied>
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0253_translation"
+       corresp="#p0253_transcription">When I called upon him, the God of my justice heard me: when I was in distress, thou hast enlarged me. 
+         Have mercy on me: and hear my prayer. 
+         O ye sons of men, how long will you be dull of heart? why do you love vanity, and seek after lying? 
+         Know ye also that the Lord hath made his holy one wonderful: the Lord will hear me when I shall cry unto him. 
+         Be angry, and sin not: the things you say in your hearts, be sorry for them upon your beds. 
+         Offer up the sacrifice of justice, and trust in the Lord: many say, Who sheweth us good things? 
+         The light of thy countenance O Lord, is signed upon us: thou hast given gladness in my heart. <!-- psalm 4 drb cont. --> </ab>
+
+</div>
+>>>>>>> Stashed changes
